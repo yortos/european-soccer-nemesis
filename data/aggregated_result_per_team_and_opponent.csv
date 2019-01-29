@@ -1,0 +1,3647 @@
+team,total_num_games,num_games,opponent,result_metric
+AC Ajaccio,114.0,2.0,AJ Auxerre,0.0
+AC Ajaccio,114.0,2.0,AS Monaco,-1.0
+AC Ajaccio,114.0,4.0,AS Nancy-Lorraine,0.0
+AC Ajaccio,114.0,6.0,AS Saint-Étienne,-0.6666666666666666
+AC Ajaccio,114.0,2.0,Dijon FCO,0.5
+AC Ajaccio,114.0,2.0,ES Troyes AC,-1.0
+AC Ajaccio,114.0,2.0,En Avant de Guingamp,-1.0
+AC Ajaccio,114.0,6.0,FC Lorient,-0.3333333333333333
+AC Ajaccio,114.0,2.0,FC Nantes,-0.5
+AC Ajaccio,114.0,6.0,FC Sochaux-Montbéliard,0.16666666666666666
+AC Ajaccio,114.0,6.0,Girondins de Bordeaux,-0.16666666666666666
+AC Ajaccio,114.0,6.0,LOSC Lille,-1.0
+AC Ajaccio,114.0,6.0,Montpellier Hérault SC,-0.5
+AC Ajaccio,114.0,6.0,OGC Nice,-0.3333333333333333
+AC Ajaccio,114.0,6.0,Olympique Lyonnais,0.0
+AC Ajaccio,114.0,6.0,Olympique de Marseille,-0.5
+AC Ajaccio,114.0,6.0,Paris Saint-Germain,-0.5
+AC Ajaccio,114.0,4.0,SC Bastia,-0.5
+AC Ajaccio,114.0,2.0,SM Caen,0.0
+AC Ajaccio,114.0,4.0,Stade Brestois 29,0.25
+AC Ajaccio,114.0,6.0,Stade Rennais FC,-0.16666666666666666
+AC Ajaccio,114.0,4.0,Stade de Reims,0.25
+AC Ajaccio,114.0,6.0,Toulouse FC,0.0
+AC Ajaccio,114.0,6.0,Valenciennes FC,0.16666666666666666
+AC Ajaccio,114.0,6.0,Évian Thonon Gaillard FC,-0.16666666666666666
+AC Arles-Avignon,38.0,2.0,AJ Auxerre,-0.5
+AC Arles-Avignon,38.0,2.0,AS Monaco,-0.5
+AC Arles-Avignon,38.0,2.0,AS Nancy-Lorraine,0.0
+AC Arles-Avignon,38.0,2.0,AS Saint-Étienne,-1.0
+AC Arles-Avignon,38.0,2.0,FC Lorient,-0.5
+AC Arles-Avignon,38.0,2.0,FC Sochaux-Montbéliard,-1.0
+AC Arles-Avignon,38.0,2.0,Girondins de Bordeaux,-0.5
+AC Arles-Avignon,38.0,2.0,LOSC Lille,-1.0
+AC Arles-Avignon,38.0,2.0,Montpellier Hérault SC,-0.5
+AC Arles-Avignon,38.0,2.0,OGC Nice,-0.5
+AC Arles-Avignon,38.0,2.0,Olympique Lyonnais,-0.5
+AC Arles-Avignon,38.0,2.0,Olympique de Marseille,-1.0
+AC Arles-Avignon,38.0,2.0,Paris Saint-Germain,-1.0
+AC Arles-Avignon,38.0,2.0,RC Lens,0.0
+AC Arles-Avignon,38.0,2.0,SM Caen,0.0
+AC Arles-Avignon,38.0,2.0,Stade Brestois 29,0.0
+AC Arles-Avignon,38.0,2.0,Stade Rennais FC,-1.0
+AC Arles-Avignon,38.0,2.0,Toulouse FC,0.0
+AC Arles-Avignon,38.0,2.0,Valenciennes FC,-1.0
+AJ Auxerre,152.0,2.0,AC Ajaccio,0.0
+AJ Auxerre,152.0,2.0,AC Arles-Avignon,0.5
+AJ Auxerre,152.0,6.0,AS Monaco,0.0
+AJ Auxerre,152.0,8.0,AS Nancy-Lorraine,-0.125
+AJ Auxerre,152.0,8.0,AS Saint-Étienne,0.125
+AJ Auxerre,152.0,2.0,Dijon FCO,0.5
+AJ Auxerre,152.0,8.0,FC Lorient,0.375
+AJ Auxerre,152.0,2.0,FC Nantes,0.0
+AJ Auxerre,152.0,8.0,FC Sochaux-Montbéliard,0.5
+AJ Auxerre,152.0,8.0,Girondins de Bordeaux,-0.375
+AJ Auxerre,152.0,4.0,Grenoble Foot 38,0.25
+AJ Auxerre,152.0,8.0,LOSC Lille,0.0
+AJ Auxerre,152.0,2.0,Le Havre AC,1.0
+AJ Auxerre,152.0,4.0,Le Mans FC,1.0
+AJ Auxerre,152.0,6.0,Montpellier Hérault SC,0.0
+AJ Auxerre,152.0,8.0,OGC Nice,0.0
+AJ Auxerre,152.0,8.0,Olympique Lyonnais,-0.25
+AJ Auxerre,152.0,8.0,Olympique de Marseille,-0.25
+AJ Auxerre,152.0,8.0,Paris Saint-Germain,0.0
+AJ Auxerre,152.0,4.0,RC Lens,-0.25
+AJ Auxerre,152.0,6.0,SM Caen,-0.3333333333333333
+AJ Auxerre,152.0,4.0,Stade Brestois 29,-0.25
+AJ Auxerre,152.0,8.0,Stade Rennais FC,0.125
+AJ Auxerre,152.0,8.0,Toulouse FC,0.0
+AJ Auxerre,152.0,2.0,US Boulogne Cote D'Opale,0.0
+AJ Auxerre,152.0,8.0,Valenciennes FC,0.0
+AJ Auxerre,152.0,2.0,Évian Thonon Gaillard FC,-1.0
+AS Monaco,228.0,2.0,AC Ajaccio,1.0
+AS Monaco,228.0,2.0,AC Arles-Avignon,0.5
+AS Monaco,228.0,6.0,AJ Auxerre,0.0
+AS Monaco,228.0,6.0,AS Nancy-Lorraine,0.3333333333333333
+AS Monaco,228.0,12.0,AS Saint-Étienne,-0.25
+AS Monaco,228.0,2.0,Angers SCO,0.0
+AS Monaco,228.0,2.0,ES Troyes AC,0.5
+AS Monaco,228.0,6.0,En Avant de Guingamp,0.3333333333333333
+AS Monaco,228.0,12.0,FC Lorient,0.25
+AS Monaco,228.0,2.0,FC Metz,1.0
+AS Monaco,228.0,8.0,FC Nantes,0.5
+AS Monaco,228.0,8.0,FC Sochaux-Montbéliard,0.0
+AS Monaco,228.0,2.0,GFC Ajaccio,0.5
+AS Monaco,228.0,12.0,Girondins de Bordeaux,-0.3333333333333333
+AS Monaco,228.0,4.0,Grenoble Foot 38,0.0
+AS Monaco,228.0,12.0,LOSC Lille,-0.4166666666666667
+AS Monaco,228.0,2.0,Le Havre AC,0.0
+AS Monaco,228.0,4.0,Le Mans FC,0.5
+AS Monaco,228.0,10.0,Montpellier Hérault SC,0.6
+AS Monaco,228.0,12.0,OGC Nice,0.3333333333333333
+AS Monaco,228.0,12.0,Olympique Lyonnais,-0.25
+AS Monaco,228.0,12.0,Olympique de Marseille,0.16666666666666666
+AS Monaco,228.0,12.0,Paris Saint-Germain,0.25
+AS Monaco,228.0,6.0,RC Lens,0.3333333333333333
+AS Monaco,228.0,6.0,SC Bastia,1.0
+AS Monaco,228.0,8.0,SM Caen,0.125
+AS Monaco,228.0,2.0,Stade Brestois 29,-1.0
+AS Monaco,228.0,12.0,Stade Rennais FC,0.08333333333333333
+AS Monaco,228.0,6.0,Stade de Reims,0.5
+AS Monaco,228.0,12.0,Toulouse FC,0.4166666666666667
+AS Monaco,228.0,2.0,US Boulogne Cote D'Opale,1.0
+AS Monaco,228.0,8.0,Valenciennes FC,-0.25
+AS Monaco,228.0,4.0,Évian Thonon Gaillard FC,0.25
+AS Nancy-Lorraine,190.0,4.0,AC Ajaccio,0.0
+AS Nancy-Lorraine,190.0,2.0,AC Arles-Avignon,0.0
+AS Nancy-Lorraine,190.0,8.0,AJ Auxerre,0.125
+AS Nancy-Lorraine,190.0,6.0,AS Monaco,-0.3333333333333333
+AS Nancy-Lorraine,190.0,10.0,AS Saint-Étienne,-0.5
+AS Nancy-Lorraine,190.0,2.0,Dijon FCO,0.0
+AS Nancy-Lorraine,190.0,2.0,ES Troyes AC,0.5
+AS Nancy-Lorraine,190.0,10.0,FC Lorient,-0.1
+AS Nancy-Lorraine,190.0,2.0,FC Nantes,1.0
+AS Nancy-Lorraine,190.0,10.0,FC Sochaux-Montbéliard,-0.1
+AS Nancy-Lorraine,190.0,10.0,Girondins de Bordeaux,-0.3
+AS Nancy-Lorraine,190.0,4.0,Grenoble Foot 38,0.25
+AS Nancy-Lorraine,190.0,10.0,LOSC Lille,-0.6
+AS Nancy-Lorraine,190.0,2.0,Le Havre AC,1.0
+AS Nancy-Lorraine,190.0,4.0,Le Mans FC,-0.25
+AS Nancy-Lorraine,190.0,8.0,Montpellier Hérault SC,-0.125
+AS Nancy-Lorraine,190.0,10.0,OGC Nice,0.2
+AS Nancy-Lorraine,190.0,10.0,Olympique Lyonnais,-0.7
+AS Nancy-Lorraine,190.0,10.0,Olympique de Marseille,-0.6
+AS Nancy-Lorraine,190.0,10.0,Paris Saint-Germain,0.0
+AS Nancy-Lorraine,190.0,4.0,RC Lens,0.5
+AS Nancy-Lorraine,190.0,2.0,SC Bastia,-1.0
+AS Nancy-Lorraine,190.0,6.0,SM Caen,0.6666666666666666
+AS Nancy-Lorraine,190.0,6.0,Stade Brestois 29,0.3333333333333333
+AS Nancy-Lorraine,190.0,10.0,Stade Rennais FC,-0.1
+AS Nancy-Lorraine,190.0,2.0,Stade de Reims,-1.0
+AS Nancy-Lorraine,190.0,10.0,Toulouse FC,-0.7
+AS Nancy-Lorraine,190.0,2.0,US Boulogne Cote D'Opale,0.0
+AS Nancy-Lorraine,190.0,10.0,Valenciennes FC,0.3
+AS Nancy-Lorraine,190.0,4.0,Évian Thonon Gaillard FC,0.0
+AS Saint-Étienne,304.0,6.0,AC Ajaccio,0.6666666666666666
+AS Saint-Étienne,304.0,2.0,AC Arles-Avignon,1.0
+AS Saint-Étienne,304.0,8.0,AJ Auxerre,-0.125
+AS Saint-Étienne,304.0,12.0,AS Monaco,0.25
+AS Saint-Étienne,304.0,10.0,AS Nancy-Lorraine,0.5
+AS Saint-Étienne,304.0,2.0,Angers SCO,0.5
+AS Saint-Étienne,304.0,2.0,Dijon FCO,1.0
+AS Saint-Étienne,304.0,4.0,ES Troyes AC,0.75
+AS Saint-Étienne,304.0,6.0,En Avant de Guingamp,0.5
+AS Saint-Étienne,304.0,16.0,FC Lorient,-0.1875
+AS Saint-Étienne,304.0,2.0,FC Metz,1.0
+AS Saint-Étienne,304.0,8.0,FC Nantes,0.375
+AS Saint-Étienne,304.0,12.0,FC Sochaux-Montbéliard,0.16666666666666666
+AS Saint-Étienne,304.0,2.0,GFC Ajaccio,1.0
+AS Saint-Étienne,304.0,16.0,Girondins de Bordeaux,-0.0625
+AS Saint-Étienne,304.0,4.0,Grenoble Foot 38,0.0
+AS Saint-Étienne,304.0,16.0,LOSC Lille,-0.375
+AS Saint-Étienne,304.0,2.0,Le Havre AC,1.0
+AS Saint-Étienne,304.0,4.0,Le Mans FC,0.0
+AS Saint-Étienne,304.0,14.0,Montpellier Hérault SC,0.5714285714285714
+AS Saint-Étienne,304.0,16.0,OGC Nice,-0.25
+AS Saint-Étienne,304.0,16.0,Olympique Lyonnais,-0.25
+AS Saint-Étienne,304.0,16.0,Olympique de Marseille,-0.4375
+AS Saint-Étienne,304.0,16.0,Paris Saint-Germain,-0.5
+AS Saint-Étienne,304.0,6.0,RC Lens,-0.16666666666666666
+AS Saint-Étienne,304.0,8.0,SC Bastia,0.625
+AS Saint-Étienne,304.0,10.0,SM Caen,-0.1
+AS Saint-Étienne,304.0,6.0,Stade Brestois 29,0.5
+AS Saint-Étienne,304.0,16.0,Stade Rennais FC,-0.125
+AS Saint-Étienne,304.0,8.0,Stade de Reims,0.5
+AS Saint-Étienne,304.0,16.0,Toulouse FC,-0.25
+AS Saint-Étienne,304.0,2.0,US Boulogne Cote D'Opale,0.0
+AS Saint-Étienne,304.0,12.0,Valenciennes FC,0.25
+AS Saint-Étienne,304.0,8.0,Évian Thonon Gaillard FC,0.625
+Angers SCO,38.0,2.0,AS Monaco,0.0
+Angers SCO,38.0,2.0,AS Saint-Étienne,-0.5
+Angers SCO,38.0,2.0,ES Troyes AC,1.0
+Angers SCO,38.0,2.0,En Avant de Guingamp,0.0
+Angers SCO,38.0,2.0,FC Lorient,0.0
+Angers SCO,38.0,2.0,FC Nantes,-0.5
+Angers SCO,38.0,2.0,GFC Ajaccio,0.5
+Angers SCO,38.0,2.0,Girondins de Bordeaux,0.5
+Angers SCO,38.0,2.0,LOSC Lille,0.5
+Angers SCO,38.0,2.0,Montpellier Hérault SC,0.0
+Angers SCO,38.0,2.0,OGC Nice,-0.5
+Angers SCO,38.0,2.0,Olympique Lyonnais,0.0
+Angers SCO,38.0,2.0,Olympique de Marseille,0.0
+Angers SCO,38.0,2.0,Paris Saint-Germain,-0.5
+Angers SCO,38.0,2.0,SC Bastia,0.0
+Angers SCO,38.0,2.0,SM Caen,0.5
+Angers SCO,38.0,2.0,Stade Rennais FC,-1.0
+Angers SCO,38.0,2.0,Stade de Reims,-0.5
+Angers SCO,38.0,2.0,Toulouse FC,0.0
+Arsenal,304.0,16.0,Aston Villa,0.4375
+Arsenal,304.0,4.0,Birmingham City,0.75
+Arsenal,304.0,8.0,Blackburn Rovers,0.375
+Arsenal,304.0,2.0,Blackpool,1.0
+Arsenal,304.0,8.0,Bolton Wanderers,0.625
+Arsenal,304.0,2.0,Bournemouth,1.0
+Arsenal,304.0,4.0,Burnley,0.75
+Arsenal,304.0,2.0,Cardiff City,1.0
+Arsenal,304.0,16.0,Chelsea,-0.4375
+Arsenal,304.0,6.0,Crystal Palace,0.8333333333333334
+Arsenal,304.0,16.0,Everton,0.5
+Arsenal,304.0,12.0,Fulham,0.3333333333333333
+Arsenal,304.0,8.0,Hull City,0.625
+Arsenal,304.0,4.0,Leicester City,0.75
+Arsenal,304.0,16.0,Liverpool,0.25
+Arsenal,304.0,16.0,Manchester City,0.0
+Arsenal,304.0,16.0,Manchester United,-0.375
+Arsenal,304.0,2.0,Middlesbrough,0.5
+Arsenal,304.0,14.0,Newcastle United,0.7142857142857143
+Arsenal,304.0,8.0,Norwich City,0.5
+Arsenal,304.0,4.0,Portsmouth,1.0
+Arsenal,304.0,6.0,Queens Park Rangers,0.6666666666666666
+Arsenal,304.0,2.0,Reading,1.0
+Arsenal,304.0,8.0,Southampton,0.125
+Arsenal,304.0,16.0,Stoke City,0.3125
+Arsenal,304.0,16.0,Sunderland,0.4375
+Arsenal,304.0,10.0,Swansea City,-0.1
+Arsenal,304.0,16.0,Tottenham Hotspur,0.0
+Arsenal,304.0,2.0,Watford,1.0
+Arsenal,304.0,14.0,West Bromwich Albion,0.5714285714285714
+Arsenal,304.0,14.0,West Ham United,0.6428571428571429
+Arsenal,304.0,10.0,Wigan Athletic,0.5
+Arsenal,304.0,6.0,Wolverhampton Wanderers,0.8333333333333334
+Aston Villa,304.0,16.0,Arsenal,-0.4375
+Aston Villa,304.0,4.0,Birmingham City,0.5
+Aston Villa,304.0,8.0,Blackburn Rovers,0.125
+Aston Villa,304.0,2.0,Blackpool,0.5
+Aston Villa,304.0,8.0,Bolton Wanderers,0.25
+Aston Villa,304.0,2.0,Bournemouth,0.0
+Aston Villa,304.0,4.0,Burnley,0.0
+Aston Villa,304.0,2.0,Cardiff City,0.5
+Aston Villa,304.0,16.0,Chelsea,-0.5
+Aston Villa,304.0,6.0,Crystal Palace,-0.16666666666666666
+Aston Villa,304.0,16.0,Everton,-0.1875
+Aston Villa,304.0,12.0,Fulham,-0.08333333333333333
+Aston Villa,304.0,8.0,Hull City,0.625
+Aston Villa,304.0,4.0,Leicester City,-0.25
+Aston Villa,304.0,16.0,Liverpool,-0.3125
+Aston Villa,304.0,16.0,Manchester City,-0.5
+Aston Villa,304.0,16.0,Manchester United,-0.625
+Aston Villa,304.0,2.0,Middlesbrough,-0.5
+Aston Villa,304.0,14.0,Newcastle United,-0.35714285714285715
+Aston Villa,304.0,8.0,Norwich City,0.375
+Aston Villa,304.0,4.0,Portsmouth,0.75
+Aston Villa,304.0,6.0,Queens Park Rangers,0.0
+Aston Villa,304.0,2.0,Reading,1.0
+Aston Villa,304.0,8.0,Southampton,-0.375
+Aston Villa,304.0,16.0,Stoke City,-0.25
+Aston Villa,304.0,16.0,Sunderland,0.25
+Aston Villa,304.0,10.0,Swansea City,-0.5
+Aston Villa,304.0,16.0,Tottenham Hotspur,-0.5625
+Aston Villa,304.0,2.0,Watford,-1.0
+Aston Villa,304.0,14.0,West Bromwich Albion,0.07142857142857142
+Aston Villa,304.0,14.0,West Ham United,0.07142857142857142
+Aston Villa,304.0,10.0,Wigan Athletic,0.2
+Aston Villa,304.0,6.0,Wolverhampton Wanderers,0.16666666666666666
+Atalanta,263.0,2.0,Bari,0.0
+Atalanta,263.0,12.0,Bologna,0.08333333333333333
+Atalanta,263.0,11.0,Cagliari,0.45454545454545453
+Atalanta,263.0,2.0,Carpi,0.5
+Atalanta,263.0,10.0,Catania,-0.2
+Atalanta,263.0,4.0,Cesena,0.75
+Atalanta,263.0,14.0,Chievo Verona,0.0
+Atalanta,263.0,4.0,Empoli,0.25
+Atalanta,263.0,14.0,Fiorentina,-0.6428571428571429
+Atalanta,263.0,2.0,Frosinone,0.5
+Atalanta,263.0,14.0,Genoa,-0.21428571428571427
+Atalanta,263.0,6.0,Hellas Verona,-0.6666666666666666
+Atalanta,263.0,14.0,Inter,-0.07142857142857142
+Atalanta,263.0,14.0,Juventus,-0.9285714285714286
+Atalanta,263.0,14.0,Lazio,-0.07142857142857142
+Atalanta,263.0,4.0,Lecce,0.25
+Atalanta,263.0,4.0,Livorno,0.0
+Atalanta,263.0,14.0,Milan,-0.2857142857142857
+Atalanta,263.0,14.0,Napoli,-0.14285714285714285
+Atalanta,263.0,2.0,Novara,0.5
+Atalanta,263.0,12.0,Palermo,0.08333333333333333
+Atalanta,263.0,9.0,Parma,0.0
+Atalanta,263.0,2.0,Pescara,0.5
+Atalanta,263.0,2.0,Reggio Calabria,-1.0
+Atalanta,263.0,14.0,Roma,-0.35714285714285715
+Atalanta,263.0,12.0,Sampdoria,-0.16666666666666666
+Atalanta,263.0,6.0,Sassuolo,-0.16666666666666666
+Atalanta,263.0,8.0,Siena,0.375
+Atalanta,263.0,10.0,Torino,-0.5
+Atalanta,263.0,13.0,Udinese,-0.07692307692307693
+Athletic Club de Bilbao,304.0,16.0,Atlético Madrid,-0.3125
+Athletic Club de Bilbao,304.0,12.0,CA Osasuna,0.5833333333333334
+Athletic Club de Bilbao,304.0,2.0,CD Numancia,1.0
+Athletic Club de Bilbao,304.0,2.0,CD Tenerife,0.0
+Athletic Club de Bilbao,304.0,2.0,Córdoba CF,0.0
+Athletic Club de Bilbao,304.0,4.0,Elche CF,0.0
+Athletic Club de Bilbao,304.0,16.0,FC Barcelona,-0.6875
+Athletic Club de Bilbao,304.0,16.0,Getafe CF,0.1875
+Athletic Club de Bilbao,304.0,10.0,Granada CF,-0.1
+Athletic Club de Bilbao,304.0,2.0,Hércules Club de Fútbol,1.0
+Athletic Club de Bilbao,304.0,12.0,Levante UD,0.4166666666666667
+Athletic Club de Bilbao,304.0,16.0,Málaga CF,0.125
+Athletic Club de Bilbao,304.0,8.0,RC Celta de Vigo,0.625
+Athletic Club de Bilbao,304.0,12.0,RC Deportivo de La Coruña,-0.3333333333333333
+Athletic Club de Bilbao,304.0,2.0,RC Recreativo,0.0
+Athletic Club de Bilbao,304.0,16.0,RCD Espanyol,-0.3125
+Athletic Club de Bilbao,304.0,10.0,RCD Mallorca,0.2
+Athletic Club de Bilbao,304.0,8.0,Racing Santander,0.75
+Athletic Club de Bilbao,304.0,10.0,Rayo Vallecano,0.4
+Athletic Club de Bilbao,304.0,10.0,Real Betis Balompié,0.3
+Athletic Club de Bilbao,304.0,16.0,Real Madrid CF,-0.6875
+Athletic Club de Bilbao,304.0,12.0,Real Sociedad,-0.16666666666666666
+Athletic Club de Bilbao,304.0,10.0,Real Sporting de Gijón,0.3
+Athletic Club de Bilbao,304.0,8.0,Real Valladolid,0.5
+Athletic Club de Bilbao,304.0,8.0,Real Zaragoza,0.125
+Athletic Club de Bilbao,304.0,4.0,SD Eibar,0.25
+Athletic Club de Bilbao,304.0,16.0,Sevilla FC,0.0
+Athletic Club de Bilbao,304.0,10.0,UD Almería,0.5
+Athletic Club de Bilbao,304.0,2.0,UD Las Palmas,0.0
+Athletic Club de Bilbao,304.0,16.0,Valencia CF,-0.1875
+Athletic Club de Bilbao,304.0,14.0,Villarreal CF,-0.2857142857142857
+Athletic Club de Bilbao,304.0,2.0,Xerez Club Deportivo,1.0
+Atlético Madrid,304.0,16.0,Athletic Club de Bilbao,0.3125
+Atlético Madrid,304.0,12.0,CA Osasuna,0.3333333333333333
+Atlético Madrid,304.0,2.0,CD Numancia,0.5
+Atlético Madrid,304.0,2.0,CD Tenerife,0.5
+Atlético Madrid,304.0,2.0,Córdoba CF,1.0
+Atlético Madrid,304.0,4.0,Elche CF,1.0
+Atlético Madrid,304.0,16.0,FC Barcelona,-0.625
+Atlético Madrid,304.0,16.0,Getafe CF,0.4375
+Atlético Madrid,304.0,10.0,Granada CF,0.8
+Atlético Madrid,304.0,2.0,Hércules Club de Fútbol,0.0
+Atlético Madrid,304.0,12.0,Levante UD,0.16666666666666666
+Atlético Madrid,304.0,16.0,Málaga CF,0.1875
+Atlético Madrid,304.0,8.0,RC Celta de Vigo,0.625
+Atlético Madrid,304.0,12.0,RC Deportivo de La Coruña,0.6666666666666666
+Atlético Madrid,304.0,2.0,RC Recreativo,1.0
+Atlético Madrid,304.0,16.0,RCD Espanyol,0.375
+Atlético Madrid,304.0,10.0,RCD Mallorca,0.0
+Atlético Madrid,304.0,8.0,Racing Santander,0.0
+Atlético Madrid,304.0,10.0,Rayo Vallecano,0.7
+Atlético Madrid,304.0,10.0,Real Betis Balompié,0.7
+Atlético Madrid,304.0,16.0,Real Madrid CF,-0.3125
+Atlético Madrid,304.0,12.0,Real Sociedad,0.5833333333333334
+Atlético Madrid,304.0,10.0,Real Sporting de Gijón,0.4
+Atlético Madrid,304.0,8.0,Real Valladolid,0.5
+Atlético Madrid,304.0,8.0,Real Zaragoza,0.625
+Atlético Madrid,304.0,4.0,SD Eibar,1.0
+Atlético Madrid,304.0,16.0,Sevilla FC,0.125
+Atlético Madrid,304.0,10.0,UD Almería,0.2
+Atlético Madrid,304.0,2.0,UD Las Palmas,1.0
+Atlético Madrid,304.0,16.0,Valencia CF,0.0625
+Atlético Madrid,304.0,14.0,Villarreal CF,0.07142857142857142
+Atlético Madrid,304.0,2.0,Xerez Club Deportivo,0.0
+Bari,76.0,2.0,Atalanta,0.0
+Bari,76.0,4.0,Bologna,-0.25
+Bari,76.0,2.0,Brescia,0.0
+Bari,76.0,4.0,Cagliari,-0.75
+Bari,76.0,4.0,Catania,-0.5
+Bari,76.0,2.0,Cesena,-0.5
+Bari,76.0,4.0,Chievo Verona,0.25
+Bari,76.0,4.0,Fiorentina,-0.25
+Bari,76.0,4.0,Genoa,0.0
+Bari,76.0,4.0,Inter,-0.5
+Bari,76.0,4.0,Juventus,0.0
+Bari,76.0,4.0,Lazio,0.0
+Bari,76.0,2.0,Lecce,0.0
+Bari,76.0,2.0,Livorno,0.5
+Bari,76.0,4.0,Milan,-0.5
+Bari,76.0,4.0,Napoli,-0.75
+Bari,76.0,4.0,Palermo,0.0
+Bari,76.0,4.0,Parma,-0.25
+Bari,76.0,4.0,Roma,-1.0
+Bari,76.0,4.0,Sampdoria,-0.25
+Bari,76.0,2.0,Siena,0.0
+Bari,76.0,4.0,Udinese,-0.25
+Birmingham City,76.0,4.0,Arsenal,-0.75
+Birmingham City,76.0,4.0,Aston Villa,-0.5
+Birmingham City,76.0,4.0,Blackburn Rovers,0.25
+Birmingham City,76.0,2.0,Blackpool,1.0
+Birmingham City,76.0,4.0,Bolton Wanderers,-0.25
+Birmingham City,76.0,2.0,Burnley,0.0
+Birmingham City,76.0,4.0,Chelsea,-0.25
+Birmingham City,76.0,4.0,Everton,-0.25
+Birmingham City,76.0,4.0,Fulham,-0.25
+Birmingham City,76.0,2.0,Hull City,0.5
+Birmingham City,76.0,4.0,Liverpool,-0.25
+Birmingham City,76.0,4.0,Manchester City,-0.25
+Birmingham City,76.0,4.0,Manchester United,-0.5
+Birmingham City,76.0,2.0,Newcastle United,-1.0
+Birmingham City,76.0,2.0,Portsmouth,1.0
+Birmingham City,76.0,4.0,Stoke City,0.25
+Birmingham City,76.0,4.0,Sunderland,0.25
+Birmingham City,76.0,4.0,Tottenham Hotspur,-0.5
+Birmingham City,76.0,2.0,West Bromwich Albion,-1.0
+Birmingham City,76.0,4.0,West Ham United,0.25
+Birmingham City,76.0,4.0,Wigan Athletic,0.25
+Birmingham City,76.0,4.0,Wolverhampton Wanderers,0.25
+Blackburn Rovers,152.0,8.0,Arsenal,-0.375
+Blackburn Rovers,152.0,8.0,Aston Villa,-0.125
+Blackburn Rovers,152.0,4.0,Birmingham City,-0.25
+Blackburn Rovers,152.0,2.0,Blackpool,0.5
+Blackburn Rovers,152.0,8.0,Bolton Wanderers,0.0
+Blackburn Rovers,152.0,2.0,Burnley,1.0
+Blackburn Rovers,152.0,8.0,Chelsea,-0.875
+Blackburn Rovers,152.0,8.0,Everton,-0.25
+Blackburn Rovers,152.0,8.0,Fulham,0.25
+Blackburn Rovers,152.0,4.0,Hull City,0.5
+Blackburn Rovers,152.0,8.0,Liverpool,-0.5
+Blackburn Rovers,152.0,8.0,Manchester City,-0.75
+Blackburn Rovers,152.0,8.0,Manchester United,-0.5
+Blackburn Rovers,152.0,2.0,Middlesbrough,0.0
+Blackburn Rovers,152.0,6.0,Newcastle United,0.16666666666666666
+Blackburn Rovers,152.0,2.0,Norwich City,0.5
+Blackburn Rovers,152.0,4.0,Portsmouth,0.25
+Blackburn Rovers,152.0,2.0,Queens Park Rangers,0.5
+Blackburn Rovers,152.0,8.0,Stoke City,-0.625
+Blackburn Rovers,152.0,8.0,Sunderland,-0.375
+Blackburn Rovers,152.0,2.0,Swansea City,0.0
+Blackburn Rovers,152.0,8.0,Tottenham Hotspur,-0.75
+Blackburn Rovers,152.0,6.0,West Bromwich Albion,0.0
+Blackburn Rovers,152.0,6.0,West Ham United,-0.16666666666666666
+Blackburn Rovers,152.0,8.0,Wigan Athletic,0.0
+Blackburn Rovers,152.0,6.0,Wolverhampton Wanderers,0.5
+Blackpool,38.0,2.0,Arsenal,-1.0
+Blackpool,38.0,2.0,Aston Villa,-0.5
+Blackpool,38.0,2.0,Birmingham City,-1.0
+Blackpool,38.0,2.0,Blackburn Rovers,-0.5
+Blackpool,38.0,2.0,Bolton Wanderers,0.5
+Blackpool,38.0,2.0,Chelsea,-1.0
+Blackpool,38.0,2.0,Everton,-0.5
+Blackpool,38.0,2.0,Fulham,-0.5
+Blackpool,38.0,2.0,Liverpool,1.0
+Blackpool,38.0,2.0,Manchester City,-1.0
+Blackpool,38.0,2.0,Manchester United,-1.0
+Blackpool,38.0,2.0,Newcastle United,0.5
+Blackpool,38.0,2.0,Stoke City,0.5
+Blackpool,38.0,2.0,Sunderland,0.0
+Blackpool,38.0,2.0,Tottenham Hotspur,0.5
+Blackpool,38.0,2.0,West Bromwich Albion,0.0
+Blackpool,38.0,2.0,West Ham United,-0.5
+Blackpool,38.0,2.0,Wigan Athletic,0.0
+Blackpool,38.0,2.0,Wolverhampton Wanderers,0.0
+Bologna,263.0,12.0,Atalanta,-0.08333333333333333
+Bologna,263.0,4.0,Bari,0.25
+Bologna,263.0,2.0,Brescia,0.0
+Bologna,263.0,12.0,Cagliari,-0.08333333333333333
+Bologna,263.0,2.0,Carpi,0.5
+Bologna,263.0,12.0,Catania,0.16666666666666666
+Bologna,263.0,4.0,Cesena,-0.25
+Bologna,263.0,14.0,Chievo Verona,-0.14285714285714285
+Bologna,263.0,2.0,Empoli,-0.5
+Bologna,263.0,14.0,Fiorentina,-0.2857142857142857
+Bologna,263.0,2.0,Frosinone,0.0
+Bologna,263.0,14.0,Genoa,0.14285714285714285
+Bologna,263.0,4.0,Hellas Verona,-0.25
+Bologna,263.0,14.0,Inter,-0.5
+Bologna,263.0,13.0,Juventus,-0.5384615384615384
+Bologna,263.0,13.0,Lazio,-0.38461538461538464
+Bologna,263.0,6.0,Lecce,0.3333333333333333
+Bologna,263.0,4.0,Livorno,0.5
+Bologna,263.0,14.0,Milan,-0.42857142857142855
+Bologna,263.0,14.0,Napoli,-0.21428571428571427
+Bologna,263.0,1.0,Novara,1.0
+Bologna,263.0,12.0,Palermo,-0.25
+Bologna,263.0,10.0,Parma,-0.1
+Bologna,263.0,2.0,Pescara,0.5
+Bologna,263.0,2.0,Reggio Calabria,-0.5
+Bologna,263.0,14.0,Roma,-0.42857142857142855
+Bologna,263.0,12.0,Sampdoria,-0.25
+Bologna,263.0,4.0,Sassuolo,-0.25
+Bologna,263.0,8.0,Siena,-0.125
+Bologna,263.0,8.0,Torino,-0.25
+Bologna,263.0,14.0,Udinese,-0.21428571428571427
+Bolton Wanderers,152.0,8.0,Arsenal,-0.625
+Bolton Wanderers,152.0,8.0,Aston Villa,-0.25
+Bolton Wanderers,152.0,4.0,Birmingham City,0.25
+Bolton Wanderers,152.0,8.0,Blackburn Rovers,0.0
+Bolton Wanderers,152.0,2.0,Blackpool,-0.5
+Bolton Wanderers,152.0,2.0,Burnley,0.5
+Bolton Wanderers,152.0,8.0,Chelsea,-1.0
+Bolton Wanderers,152.0,8.0,Everton,-0.125
+Bolton Wanderers,152.0,8.0,Fulham,-0.625
+Bolton Wanderers,152.0,4.0,Hull City,0.0
+Bolton Wanderers,152.0,8.0,Liverpool,-0.75
+Bolton Wanderers,152.0,8.0,Manchester City,-0.625
+Bolton Wanderers,152.0,8.0,Manchester United,-0.875
+Bolton Wanderers,152.0,2.0,Middlesbrough,1.0
+Bolton Wanderers,152.0,6.0,Newcastle United,-0.16666666666666666
+Bolton Wanderers,152.0,2.0,Norwich City,-1.0
+Bolton Wanderers,152.0,4.0,Portsmouth,0.25
+Bolton Wanderers,152.0,2.0,Queens Park Rangers,1.0
+Bolton Wanderers,152.0,8.0,Stoke City,0.25
+Bolton Wanderers,152.0,8.0,Sunderland,-0.5
+Bolton Wanderers,152.0,2.0,Swansea City,-0.5
+Bolton Wanderers,152.0,8.0,Tottenham Hotspur,-0.375
+Bolton Wanderers,152.0,6.0,West Bromwich Albion,0.0
+Bolton Wanderers,152.0,6.0,West Ham United,1.0
+Bolton Wanderers,152.0,8.0,Wigan Athletic,0.0
+Bolton Wanderers,152.0,6.0,Wolverhampton Wanderers,0.5
+Bournemouth,38.0,2.0,Arsenal,-1.0
+Bournemouth,38.0,2.0,Aston Villa,0.0
+Bournemouth,38.0,2.0,Chelsea,0.0
+Bournemouth,38.0,2.0,Crystal Palace,0.5
+Bournemouth,38.0,2.0,Everton,-0.5
+Bournemouth,38.0,2.0,Leicester City,0.0
+Bournemouth,38.0,2.0,Liverpool,-1.0
+Bournemouth,38.0,2.0,Manchester City,-1.0
+Bournemouth,38.0,2.0,Manchester United,0.0
+Bournemouth,38.0,2.0,Newcastle United,0.0
+Bournemouth,38.0,2.0,Norwich City,0.0
+Bournemouth,38.0,2.0,Southampton,0.0
+Bournemouth,38.0,2.0,Stoke City,-1.0
+Bournemouth,38.0,2.0,Sunderland,0.5
+Bournemouth,38.0,2.0,Swansea City,0.5
+Bournemouth,38.0,2.0,Tottenham Hotspur,-1.0
+Bournemouth,38.0,2.0,Watford,0.0
+Bournemouth,38.0,2.0,West Bromwich Albion,0.5
+Bournemouth,38.0,2.0,West Ham United,0.0
+Brescia,38.0,2.0,Bari,0.0
+Brescia,38.0,2.0,Bologna,0.0
+Brescia,38.0,2.0,Cagliari,-0.5
+Brescia,38.0,2.0,Catania,-1.0
+Brescia,38.0,2.0,Cesena,-1.0
+Brescia,38.0,2.0,Chievo Verona,0.0
+Brescia,38.0,2.0,Fiorentina,-0.5
+Brescia,38.0,2.0,Genoa,-0.5
+Brescia,38.0,2.0,Inter,0.0
+Brescia,38.0,2.0,Juventus,-0.5
+Brescia,38.0,2.0,Lazio,-1.0
+Brescia,38.0,2.0,Lecce,-0.5
+Brescia,38.0,2.0,Milan,-1.0
+Brescia,38.0,2.0,Napoli,-0.5
+Brescia,38.0,2.0,Palermo,0.0
+Brescia,38.0,2.0,Parma,0.0
+Brescia,38.0,2.0,Roma,0.5
+Brescia,38.0,2.0,Sampdoria,0.5
+Brescia,38.0,2.0,Udinese,-0.5
+Burnley,76.0,4.0,Arsenal,-0.75
+Burnley,76.0,4.0,Aston Villa,0.0
+Burnley,76.0,2.0,Birmingham City,0.0
+Burnley,76.0,2.0,Blackburn Rovers,-1.0
+Burnley,76.0,2.0,Bolton Wanderers,-0.5
+Burnley,76.0,4.0,Chelsea,-0.75
+Burnley,76.0,2.0,Crystal Palace,-0.5
+Burnley,76.0,4.0,Everton,-0.5
+Burnley,76.0,2.0,Fulham,-0.5
+Burnley,76.0,4.0,Hull City,1.0
+Burnley,76.0,2.0,Leicester City,-0.5
+Burnley,76.0,4.0,Liverpool,-1.0
+Burnley,76.0,4.0,Manchester City,0.0
+Burnley,76.0,4.0,Manchester United,-0.25
+Burnley,76.0,2.0,Newcastle United,0.0
+Burnley,76.0,2.0,Portsmouth,-1.0
+Burnley,76.0,2.0,Queens Park Rangers,0.0
+Burnley,76.0,2.0,Southampton,0.0
+Burnley,76.0,4.0,Stoke City,0.0
+Burnley,76.0,4.0,Sunderland,-0.25
+Burnley,76.0,2.0,Swansea City,-1.0
+Burnley,76.0,4.0,Tottenham Hotspur,-0.25
+Burnley,76.0,2.0,West Bromwich Albion,-0.5
+Burnley,76.0,4.0,West Ham United,-0.5
+Burnley,76.0,2.0,Wigan Athletic,-1.0
+Burnley,76.0,2.0,Wolverhampton Wanderers,-1.0
+CA Osasuna,228.0,12.0,Athletic Club de Bilbao,-0.5833333333333334
+CA Osasuna,228.0,12.0,Atlético Madrid,-0.3333333333333333
+CA Osasuna,228.0,2.0,CD Numancia,0.5
+CA Osasuna,228.0,2.0,CD Tenerife,0.0
+CA Osasuna,228.0,2.0,Elche CF,0.5
+CA Osasuna,228.0,12.0,FC Barcelona,-0.5
+CA Osasuna,228.0,12.0,Getafe CF,-0.08333333333333333
+CA Osasuna,228.0,6.0,Granada CF,-0.3333333333333333
+CA Osasuna,228.0,2.0,Hércules Club de Fútbol,1.0
+CA Osasuna,228.0,8.0,Levante UD,0.125
+CA Osasuna,228.0,12.0,Málaga CF,-0.08333333333333333
+CA Osasuna,228.0,4.0,RC Celta de Vigo,-0.25
+CA Osasuna,228.0,8.0,RC Deportivo de La Coruña,0.0
+CA Osasuna,228.0,2.0,RC Recreativo,-1.0
+CA Osasuna,228.0,12.0,RCD Espanyol,0.25
+CA Osasuna,228.0,10.0,RCD Mallorca,-0.2
+CA Osasuna,228.0,8.0,Racing Santander,-0.25
+CA Osasuna,228.0,6.0,Rayo Vallecano,0.0
+CA Osasuna,228.0,8.0,Real Betis Balompié,0.0
+CA Osasuna,228.0,12.0,Real Madrid CF,-0.4166666666666667
+CA Osasuna,228.0,8.0,Real Sociedad,0.0
+CA Osasuna,228.0,8.0,Real Sporting de Gijón,-0.125
+CA Osasuna,228.0,8.0,Real Valladolid,0.25
+CA Osasuna,228.0,8.0,Real Zaragoza,0.5
+CA Osasuna,228.0,12.0,Sevilla FC,-0.4166666666666667
+CA Osasuna,228.0,8.0,UD Almería,-0.125
+CA Osasuna,228.0,12.0,Valencia CF,-0.4166666666666667
+CA Osasuna,228.0,10.0,Villarreal CF,0.0
+CA Osasuna,228.0,2.0,Xerez Club Deportivo,0.5
+CD Numancia,38.0,2.0,Athletic Club de Bilbao,-1.0
+CD Numancia,38.0,2.0,Atlético Madrid,-0.5
+CD Numancia,38.0,2.0,CA Osasuna,-0.5
+CD Numancia,38.0,2.0,FC Barcelona,0.0
+CD Numancia,38.0,2.0,Getafe CF,0.0
+CD Numancia,38.0,2.0,Málaga CF,0.0
+CD Numancia,38.0,2.0,RC Deportivo de La Coruña,-1.0
+CD Numancia,38.0,2.0,RC Recreativo,0.0
+CD Numancia,38.0,2.0,RCD Espanyol,0.5
+CD Numancia,38.0,2.0,RCD Mallorca,-1.0
+CD Numancia,38.0,2.0,Racing Santander,0.0
+CD Numancia,38.0,2.0,Real Betis Balompié,-0.5
+CD Numancia,38.0,2.0,Real Madrid CF,-1.0
+CD Numancia,38.0,2.0,Real Sporting de Gijón,0.0
+CD Numancia,38.0,2.0,Real Valladolid,0.5
+CD Numancia,38.0,2.0,Sevilla FC,-1.0
+CD Numancia,38.0,2.0,UD Almería,0.0
+CD Numancia,38.0,2.0,Valencia CF,0.0
+CD Numancia,38.0,2.0,Villarreal CF,-1.0
+CD Tenerife,38.0,2.0,Athletic Club de Bilbao,0.0
+CD Tenerife,38.0,2.0,Atlético Madrid,-0.5
+CD Tenerife,38.0,2.0,CA Osasuna,0.0
+CD Tenerife,38.0,2.0,FC Barcelona,-1.0
+CD Tenerife,38.0,2.0,Getafe CF,0.0
+CD Tenerife,38.0,2.0,Málaga CF,0.0
+CD Tenerife,38.0,2.0,RC Deportivo de La Coruña,-1.0
+CD Tenerife,38.0,2.0,RCD Espanyol,0.0
+CD Tenerife,38.0,2.0,RCD Mallorca,0.0
+CD Tenerife,38.0,2.0,Racing Santander,0.0
+CD Tenerife,38.0,2.0,Real Madrid CF,-1.0
+CD Tenerife,38.0,2.0,Real Sporting de Gijón,1.0
+CD Tenerife,38.0,2.0,Real Valladolid,0.0
+CD Tenerife,38.0,2.0,Real Zaragoza,-1.0
+CD Tenerife,38.0,2.0,Sevilla FC,-1.0
+CD Tenerife,38.0,2.0,UD Almería,0.0
+CD Tenerife,38.0,2.0,Valencia CF,-0.5
+CD Tenerife,38.0,2.0,Villarreal CF,-0.5
+CD Tenerife,38.0,2.0,Xerez Club Deportivo,0.0
+Cagliari,264.0,11.0,Atalanta,-0.45454545454545453
+Cagliari,264.0,4.0,Bari,0.75
+Cagliari,264.0,12.0,Bologna,0.08333333333333333
+Cagliari,264.0,2.0,Brescia,0.5
+Cagliari,264.0,12.0,Catania,0.16666666666666666
+Cagliari,264.0,6.0,Cesena,0.16666666666666666
+Cagliari,264.0,14.0,Chievo Verona,-0.35714285714285715
+Cagliari,264.0,2.0,Empoli,0.5
+Cagliari,264.0,14.0,Fiorentina,-0.14285714285714285
+Cagliari,264.0,14.0,Genoa,-0.07142857142857142
+Cagliari,264.0,4.0,Hellas Verona,-0.5
+Cagliari,264.0,14.0,Inter,-0.21428571428571427
+Cagliari,264.0,14.0,Juventus,-0.5
+Cagliari,264.0,14.0,Lazio,-0.42857142857142855
+Cagliari,264.0,6.0,Lecce,0.16666666666666666
+Cagliari,264.0,4.0,Livorno,0.0
+Cagliari,264.0,14.0,Milan,-0.7857142857142857
+Cagliari,264.0,14.0,Napoli,-0.42857142857142855
+Cagliari,264.0,2.0,Novara,0.5
+Cagliari,264.0,12.0,Palermo,-0.16666666666666666
+Cagliari,264.0,12.0,Parma,0.16666666666666666
+Cagliari,264.0,2.0,Pescara,0.0
+Cagliari,264.0,2.0,Reggio Calabria,-0.5
+Cagliari,264.0,14.0,Roma,-0.21428571428571427
+Cagliari,264.0,12.0,Sampdoria,0.25
+Cagliari,264.0,4.0,Sassuolo,0.25
+Cagliari,264.0,7.0,Siena,0.0
+Cagliari,264.0,8.0,Torino,0.25
+Cagliari,264.0,14.0,Udinese,-0.21428571428571427
+Cardiff City,38.0,2.0,Arsenal,-1.0
+Cardiff City,38.0,2.0,Aston Villa,-0.5
+Cardiff City,38.0,2.0,Chelsea,-1.0
+Cardiff City,38.0,2.0,Crystal Palace,-1.0
+Cardiff City,38.0,2.0,Everton,-0.5
+Cardiff City,38.0,2.0,Fulham,1.0
+Cardiff City,38.0,2.0,Hull City,-0.5
+Cardiff City,38.0,2.0,Liverpool,-1.0
+Cardiff City,38.0,2.0,Manchester City,0.0
+Cardiff City,38.0,2.0,Manchester United,-0.5
+Cardiff City,38.0,2.0,Newcastle United,-1.0
+Cardiff City,38.0,2.0,Norwich City,0.5
+Cardiff City,38.0,2.0,Southampton,0.0
+Cardiff City,38.0,2.0,Stoke City,0.0
+Cardiff City,38.0,2.0,Sunderland,-0.5
+Cardiff City,38.0,2.0,Swansea City,0.0
+Cardiff City,38.0,2.0,Tottenham Hotspur,-1.0
+Cardiff City,38.0,2.0,West Bromwich Albion,0.5
+Cardiff City,38.0,2.0,West Ham United,-1.0
+Carpi,38.0,2.0,Atalanta,-0.5
+Carpi,38.0,2.0,Bologna,-0.5
+Carpi,38.0,2.0,Chievo Verona,-1.0
+Carpi,38.0,2.0,Empoli,0.0
+Carpi,38.0,2.0,Fiorentina,-1.0
+Carpi,38.0,2.0,Frosinone,0.0
+Carpi,38.0,2.0,Genoa,1.0
+Carpi,38.0,2.0,Hellas Verona,0.5
+Carpi,38.0,2.0,Inter,-0.5
+Carpi,38.0,2.0,Juventus,-1.0
+Carpi,38.0,2.0,Lazio,-0.5
+Carpi,38.0,2.0,Milan,0.0
+Carpi,38.0,2.0,Napoli,-0.5
+Carpi,38.0,2.0,Palermo,0.0
+Carpi,38.0,2.0,Roma,-1.0
+Carpi,38.0,2.0,Sampdoria,0.0
+Carpi,38.0,2.0,Sassuolo,-1.0
+Carpi,38.0,2.0,Torino,0.5
+Carpi,38.0,2.0,Udinese,1.0
+Catania,224.0,10.0,Atalanta,0.2
+Catania,224.0,4.0,Bari,0.5
+Catania,224.0,12.0,Bologna,-0.16666666666666666
+Catania,224.0,2.0,Brescia,1.0
+Catania,224.0,12.0,Cagliari,-0.16666666666666666
+Catania,224.0,3.0,Cesena,0.6666666666666666
+Catania,224.0,12.0,Chievo Verona,-0.16666666666666666
+Catania,224.0,11.0,Fiorentina,-0.45454545454545453
+Catania,224.0,12.0,Genoa,0.16666666666666666
+Catania,224.0,2.0,Hellas Verona,-0.5
+Catania,224.0,11.0,Inter,-0.5454545454545454
+Catania,224.0,12.0,Juventus,-0.5
+Catania,224.0,12.0,Lazio,0.08333333333333333
+Catania,224.0,6.0,Lecce,-0.16666666666666666
+Catania,224.0,4.0,Livorno,-0.75
+Catania,224.0,12.0,Milan,-0.75
+Catania,224.0,11.0,Napoli,-0.36363636363636365
+Catania,224.0,2.0,Novara,0.5
+Catania,224.0,10.0,Palermo,0.3
+Catania,224.0,10.0,Parma,0.2
+Catania,224.0,2.0,Pescara,0.0
+Catania,224.0,2.0,Reggio Calabria,0.5
+Catania,224.0,12.0,Roma,0.0
+Catania,224.0,10.0,Sampdoria,0.1
+Catania,224.0,2.0,Sassuolo,-0.5
+Catania,224.0,8.0,Siena,0.125
+Catania,224.0,6.0,Torino,-0.3333333333333333
+Catania,224.0,12.0,Udinese,-0.25
+Cesena,110.0,4.0,Atalanta,-0.75
+Cesena,110.0,2.0,Bari,0.5
+Cesena,110.0,4.0,Bologna,0.25
+Cesena,110.0,2.0,Brescia,1.0
+Cesena,110.0,6.0,Cagliari,-0.16666666666666666
+Cesena,110.0,3.0,Catania,-0.6666666666666666
+Cesena,110.0,6.0,Chievo Verona,-0.5
+Cesena,110.0,2.0,Empoli,-0.5
+Cesena,110.0,5.0,Fiorentina,-0.6
+Cesena,110.0,6.0,Genoa,-0.3333333333333333
+Cesena,110.0,2.0,Hellas Verona,0.0
+Cesena,110.0,6.0,Inter,-0.8333333333333334
+Cesena,110.0,6.0,Juventus,-0.6666666666666666
+Cesena,110.0,6.0,Lazio,-0.3333333333333333
+Cesena,110.0,3.0,Lecce,0.0
+Cesena,110.0,6.0,Milan,-0.5
+Cesena,110.0,6.0,Napoli,-0.8333333333333334
+Cesena,110.0,2.0,Novara,0.0
+Cesena,110.0,6.0,Palermo,-0.16666666666666666
+Cesena,110.0,6.0,Parma,0.16666666666666666
+Cesena,110.0,6.0,Roma,-0.8333333333333334
+Cesena,110.0,4.0,Sampdoria,0.0
+Cesena,110.0,2.0,Sassuolo,-0.5
+Cesena,110.0,1.0,Siena,-1.0
+Cesena,110.0,2.0,Torino,-1.0
+Cesena,110.0,6.0,Udinese,-0.5
+Chelsea,304.0,16.0,Arsenal,0.4375
+Chelsea,304.0,16.0,Aston Villa,0.5
+Chelsea,304.0,4.0,Birmingham City,0.25
+Chelsea,304.0,8.0,Blackburn Rovers,0.875
+Chelsea,304.0,2.0,Blackpool,1.0
+Chelsea,304.0,8.0,Bolton Wanderers,1.0
+Chelsea,304.0,2.0,Bournemouth,0.0
+Chelsea,304.0,4.0,Burnley,0.75
+Chelsea,304.0,2.0,Cardiff City,1.0
+Chelsea,304.0,6.0,Crystal Palace,0.3333333333333333
+Chelsea,304.0,16.0,Everton,0.0625
+Chelsea,304.0,12.0,Fulham,0.5833333333333334
+Chelsea,304.0,8.0,Hull City,0.75
+Chelsea,304.0,4.0,Leicester City,0.25
+Chelsea,304.0,16.0,Liverpool,-0.125
+Chelsea,304.0,16.0,Manchester City,-0.0625
+Chelsea,304.0,16.0,Manchester United,0.125
+Chelsea,304.0,2.0,Middlesbrough,1.0
+Chelsea,304.0,14.0,Newcastle United,0.14285714285714285
+Chelsea,304.0,8.0,Norwich City,0.75
+Chelsea,304.0,4.0,Portsmouth,1.0
+Chelsea,304.0,6.0,Queens Park Rangers,0.16666666666666666
+Chelsea,304.0,2.0,Reading,0.5
+Chelsea,304.0,8.0,Southampton,0.125
+Chelsea,304.0,16.0,Stoke City,0.5625
+Chelsea,304.0,16.0,Sunderland,0.5625
+Chelsea,304.0,10.0,Swansea City,0.5
+Chelsea,304.0,16.0,Tottenham Hotspur,0.125
+Chelsea,304.0,2.0,Watford,0.0
+Chelsea,304.0,14.0,West Bromwich Albion,0.35714285714285715
+Chelsea,304.0,14.0,West Ham United,0.42857142857142855
+Chelsea,304.0,10.0,Wigan Athletic,0.7
+Chelsea,304.0,6.0,Wolverhampton Wanderers,0.6666666666666666
+Chievo Verona,303.0,14.0,Atalanta,0.0
+Chievo Verona,303.0,4.0,Bari,-0.25
+Chievo Verona,303.0,14.0,Bologna,0.14285714285714285
+Chievo Verona,303.0,2.0,Brescia,0.0
+Chievo Verona,303.0,14.0,Cagliari,0.35714285714285715
+Chievo Verona,303.0,2.0,Carpi,1.0
+Chievo Verona,303.0,12.0,Catania,0.16666666666666666
+Chievo Verona,303.0,6.0,Cesena,0.5
+Chievo Verona,303.0,4.0,Empoli,0.0
+Chievo Verona,303.0,15.0,Fiorentina,-0.4666666666666667
+Chievo Verona,303.0,2.0,Frosinone,1.0
+Chievo Verona,303.0,16.0,Genoa,0.125
+Chievo Verona,303.0,6.0,Hellas Verona,0.0
+Chievo Verona,303.0,16.0,Inter,-0.5625
+Chievo Verona,303.0,16.0,Juventus,-0.5
+Chievo Verona,303.0,16.0,Lazio,-0.3125
+Chievo Verona,303.0,6.0,Lecce,0.0
+Chievo Verona,303.0,4.0,Livorno,1.0
+Chievo Verona,303.0,16.0,Milan,-0.8125
+Chievo Verona,303.0,16.0,Napoli,-0.1875
+Chievo Verona,303.0,2.0,Novara,0.5
+Chievo Verona,303.0,14.0,Palermo,0.07142857142857142
+Chievo Verona,303.0,12.0,Parma,-0.4166666666666667
+Chievo Verona,303.0,2.0,Pescara,1.0
+Chievo Verona,303.0,2.0,Reggio Calabria,1.0
+Chievo Verona,303.0,16.0,Roma,-0.4375
+Chievo Verona,303.0,14.0,Sampdoria,-0.21428571428571427
+Chievo Verona,303.0,6.0,Sassuolo,-0.16666666666666666
+Chievo Verona,303.0,8.0,Siena,-0.125
+Chievo Verona,303.0,10.0,Torino,-0.2
+Chievo Verona,303.0,16.0,Udinese,-0.3125
+Crystal Palace,114.0,6.0,Arsenal,-0.8333333333333334
+Crystal Palace,114.0,6.0,Aston Villa,0.16666666666666666
+Crystal Palace,114.0,2.0,Bournemouth,-0.5
+Crystal Palace,114.0,2.0,Burnley,0.5
+Crystal Palace,114.0,2.0,Cardiff City,1.0
+Crystal Palace,114.0,6.0,Chelsea,-0.3333333333333333
+Crystal Palace,114.0,6.0,Everton,0.16666666666666666
+Crystal Palace,114.0,2.0,Fulham,-0.5
+Crystal Palace,114.0,4.0,Hull City,0.0
+Crystal Palace,114.0,4.0,Leicester City,0.0
+Crystal Palace,114.0,6.0,Liverpool,0.16666666666666666
+Crystal Palace,114.0,6.0,Manchester City,-0.6666666666666666
+Crystal Palace,114.0,6.0,Manchester United,-0.8333333333333334
+Crystal Palace,114.0,6.0,Newcastle United,-0.3333333333333333
+Crystal Palace,114.0,4.0,Norwich City,0.25
+Crystal Palace,114.0,2.0,Queens Park Rangers,0.5
+Crystal Palace,114.0,6.0,Southampton,-0.6666666666666666
+Crystal Palace,114.0,6.0,Stoke City,0.5
+Crystal Palace,114.0,6.0,Sunderland,0.0
+Crystal Palace,114.0,6.0,Swansea City,0.0
+Crystal Palace,114.0,6.0,Tottenham Hotspur,-0.5
+Crystal Palace,114.0,2.0,Watford,0.0
+Crystal Palace,114.0,6.0,West Bromwich Albion,-0.16666666666666666
+Crystal Palace,114.0,6.0,West Ham United,0.16666666666666666
+Córdoba CF,38.0,2.0,Athletic Club de Bilbao,0.0
+Córdoba CF,38.0,2.0,Atlético Madrid,-1.0
+Córdoba CF,38.0,2.0,Elche CF,-0.5
+Córdoba CF,38.0,2.0,FC Barcelona,-1.0
+Córdoba CF,38.0,2.0,Getafe CF,-0.5
+Córdoba CF,38.0,2.0,Granada CF,0.0
+Córdoba CF,38.0,2.0,Levante UD,-0.5
+Córdoba CF,38.0,2.0,Málaga CF,-1.0
+Córdoba CF,38.0,2.0,RC Celta de Vigo,-0.5
+Córdoba CF,38.0,2.0,RC Deportivo de La Coruña,0.0
+Córdoba CF,38.0,2.0,RCD Espanyol,-0.5
+Córdoba CF,38.0,2.0,Rayo Vallecano,0.0
+Córdoba CF,38.0,2.0,Real Madrid CF,-1.0
+Córdoba CF,38.0,2.0,Real Sociedad,-0.5
+Córdoba CF,38.0,2.0,SD Eibar,-0.5
+Córdoba CF,38.0,2.0,Sevilla FC,-1.0
+Córdoba CF,38.0,2.0,UD Almería,-0.5
+Córdoba CF,38.0,2.0,Valencia CF,-1.0
+Córdoba CF,38.0,2.0,Villarreal CF,-0.5
+Dijon FCO,38.0,2.0,AC Ajaccio,-0.5
+Dijon FCO,38.0,2.0,AJ Auxerre,-0.5
+Dijon FCO,38.0,2.0,AS Nancy-Lorraine,0.0
+Dijon FCO,38.0,2.0,AS Saint-Étienne,-1.0
+Dijon FCO,38.0,2.0,FC Lorient,0.5
+Dijon FCO,38.0,2.0,FC Sochaux-Montbéliard,-0.5
+Dijon FCO,38.0,2.0,Girondins de Bordeaux,0.5
+Dijon FCO,38.0,2.0,LOSC Lille,-1.0
+Dijon FCO,38.0,2.0,Montpellier Hérault SC,-0.5
+Dijon FCO,38.0,2.0,OGC Nice,0.5
+Dijon FCO,38.0,2.0,Olympique Lyonnais,-1.0
+Dijon FCO,38.0,2.0,Olympique de Marseille,0.0
+Dijon FCO,38.0,2.0,Paris Saint-Germain,-1.0
+Dijon FCO,38.0,2.0,SM Caen,0.0
+Dijon FCO,38.0,2.0,Stade Brestois 29,0.5
+Dijon FCO,38.0,2.0,Stade Rennais FC,-1.0
+Dijon FCO,38.0,2.0,Toulouse FC,-0.5
+Dijon FCO,38.0,2.0,Valenciennes FC,-1.0
+Dijon FCO,38.0,2.0,Évian Thonon Gaillard FC,1.0
+ES Troyes AC,76.0,2.0,AC Ajaccio,1.0
+ES Troyes AC,76.0,2.0,AS Monaco,-0.5
+ES Troyes AC,76.0,2.0,AS Nancy-Lorraine,-0.5
+ES Troyes AC,76.0,4.0,AS Saint-Étienne,-0.75
+ES Troyes AC,76.0,2.0,Angers SCO,-1.0
+ES Troyes AC,76.0,2.0,En Avant de Guingamp,-1.0
+ES Troyes AC,76.0,4.0,FC Lorient,-0.75
+ES Troyes AC,76.0,2.0,FC Nantes,-1.0
+ES Troyes AC,76.0,2.0,FC Sochaux-Montbéliard,-0.5
+ES Troyes AC,76.0,2.0,GFC Ajaccio,0.5
+ES Troyes AC,76.0,4.0,Girondins de Bordeaux,-0.25
+ES Troyes AC,76.0,4.0,LOSC Lille,0.25
+ES Troyes AC,76.0,4.0,Montpellier Hérault SC,-0.25
+ES Troyes AC,76.0,4.0,OGC Nice,-0.5
+ES Troyes AC,76.0,4.0,Olympique Lyonnais,-1.0
+ES Troyes AC,76.0,4.0,Olympique de Marseille,-0.25
+ES Troyes AC,76.0,4.0,Paris Saint-Germain,-1.0
+ES Troyes AC,76.0,4.0,SC Bastia,-0.5
+ES Troyes AC,76.0,2.0,SM Caen,-1.0
+ES Troyes AC,76.0,2.0,Stade Brestois 29,0.0
+ES Troyes AC,76.0,4.0,Stade Rennais FC,-0.25
+ES Troyes AC,76.0,4.0,Stade de Reims,0.5
+ES Troyes AC,76.0,4.0,Toulouse FC,-0.75
+ES Troyes AC,76.0,2.0,Valenciennes FC,-1.0
+ES Troyes AC,76.0,2.0,Évian Thonon Gaillard FC,0.0
+Elche CF,76.0,4.0,Athletic Club de Bilbao,0.0
+Elche CF,76.0,4.0,Atlético Madrid,-1.0
+Elche CF,76.0,2.0,CA Osasuna,-0.5
+Elche CF,76.0,2.0,Córdoba CF,0.5
+Elche CF,76.0,4.0,FC Barcelona,-0.75
+Elche CF,76.0,4.0,Getafe CF,0.0
+Elche CF,76.0,4.0,Granada CF,-0.75
+Elche CF,76.0,4.0,Levante UD,0.0
+Elche CF,76.0,4.0,Málaga CF,0.0
+Elche CF,76.0,4.0,RC Celta de Vigo,0.25
+Elche CF,76.0,2.0,RC Deportivo de La Coruña,0.0
+Elche CF,76.0,4.0,RCD Espanyol,0.25
+Elche CF,76.0,4.0,Rayo Vallecano,0.5
+Elche CF,76.0,2.0,Real Betis Balompié,0.5
+Elche CF,76.0,4.0,Real Madrid CF,-1.0
+Elche CF,76.0,4.0,Real Sociedad,-0.25
+Elche CF,76.0,2.0,Real Valladolid,0.0
+Elche CF,76.0,2.0,SD Eibar,0.0
+Elche CF,76.0,4.0,Sevilla FC,-0.75
+Elche CF,76.0,4.0,UD Almería,0.5
+Elche CF,76.0,4.0,Valencia CF,-0.5
+Elche CF,76.0,4.0,Villarreal CF,-0.5
+Empoli,76.0,4.0,Atalanta,-0.25
+Empoli,76.0,2.0,Bologna,0.5
+Empoli,76.0,2.0,Cagliari,-0.5
+Empoli,76.0,2.0,Carpi,0.0
+Empoli,76.0,2.0,Cesena,0.5
+Empoli,76.0,4.0,Chievo Verona,0.0
+Empoli,76.0,4.0,Fiorentina,0.0
+Empoli,76.0,2.0,Frosinone,-1.0
+Empoli,76.0,4.0,Genoa,0.0
+Empoli,76.0,4.0,Hellas Verona,0.25
+Empoli,76.0,4.0,Inter,-0.75
+Empoli,76.0,4.0,Juventus,-1.0
+Empoli,76.0,4.0,Lazio,0.0
+Empoli,76.0,4.0,Milan,-0.25
+Empoli,76.0,4.0,Napoli,0.0
+Empoli,76.0,4.0,Palermo,0.5
+Empoli,76.0,2.0,Parma,0.5
+Empoli,76.0,4.0,Roma,-0.75
+Empoli,76.0,4.0,Sampdoria,-0.25
+Empoli,76.0,4.0,Sassuolo,0.0
+Empoli,76.0,4.0,Torino,0.75
+Empoli,76.0,4.0,Udinese,-0.25
+En Avant de Guingamp,114.0,2.0,AC Ajaccio,1.0
+En Avant de Guingamp,114.0,6.0,AS Monaco,-0.3333333333333333
+En Avant de Guingamp,114.0,6.0,AS Saint-Étienne,-0.5
+En Avant de Guingamp,114.0,2.0,Angers SCO,0.0
+En Avant de Guingamp,114.0,2.0,ES Troyes AC,1.0
+En Avant de Guingamp,114.0,6.0,FC Lorient,-0.16666666666666666
+En Avant de Guingamp,114.0,2.0,FC Metz,0.0
+En Avant de Guingamp,114.0,6.0,FC Nantes,-0.5
+En Avant de Guingamp,114.0,2.0,FC Sochaux-Montbéliard,0.0
+En Avant de Guingamp,114.0,2.0,GFC Ajaccio,0.5
+En Avant de Guingamp,114.0,6.0,Girondins de Bordeaux,-0.5
+En Avant de Guingamp,114.0,6.0,LOSC Lille,-0.16666666666666666
+En Avant de Guingamp,114.0,6.0,Montpellier Hérault SC,-0.6666666666666666
+En Avant de Guingamp,114.0,6.0,OGC Nice,0.0
+En Avant de Guingamp,114.0,6.0,Olympique Lyonnais,-1.0
+En Avant de Guingamp,114.0,6.0,Olympique de Marseille,-0.5
+En Avant de Guingamp,114.0,6.0,Paris Saint-Germain,-0.5
+En Avant de Guingamp,114.0,2.0,RC Lens,1.0
+En Avant de Guingamp,114.0,6.0,SC Bastia,0.0
+En Avant de Guingamp,114.0,4.0,SM Caen,0.25
+En Avant de Guingamp,114.0,6.0,Stade Rennais FC,0.0
+En Avant de Guingamp,114.0,6.0,Stade de Reims,0.16666666666666666
+En Avant de Guingamp,114.0,6.0,Toulouse FC,0.6666666666666666
+En Avant de Guingamp,114.0,2.0,Valenciennes FC,0.5
+En Avant de Guingamp,114.0,4.0,Évian Thonon Gaillard FC,-0.25
+Everton,304.0,16.0,Arsenal,-0.5
+Everton,304.0,16.0,Aston Villa,0.1875
+Everton,304.0,4.0,Birmingham City,0.25
+Everton,304.0,8.0,Blackburn Rovers,0.25
+Everton,304.0,2.0,Blackpool,0.5
+Everton,304.0,8.0,Bolton Wanderers,0.125
+Everton,304.0,2.0,Bournemouth,0.5
+Everton,304.0,4.0,Burnley,0.5
+Everton,304.0,2.0,Cardiff City,0.5
+Everton,304.0,16.0,Chelsea,-0.0625
+Everton,304.0,6.0,Crystal Palace,-0.16666666666666666
+Everton,304.0,12.0,Fulham,0.6666666666666666
+Everton,304.0,8.0,Hull City,0.25
+Everton,304.0,4.0,Leicester City,-0.5
+Everton,304.0,16.0,Liverpool,-0.375
+Everton,304.0,16.0,Manchester City,0.0625
+Everton,304.0,16.0,Manchester United,-0.1875
+Everton,304.0,2.0,Middlesbrough,0.5
+Everton,304.0,14.0,Newcastle United,0.35714285714285715
+Everton,304.0,8.0,Norwich City,0.125
+Everton,304.0,4.0,Portsmouth,0.0
+Everton,304.0,6.0,Queens Park Rangers,0.3333333333333333
+Everton,304.0,2.0,Reading,0.0
+Everton,304.0,8.0,Southampton,0.25
+Everton,304.0,16.0,Stoke City,0.0625
+Everton,304.0,16.0,Sunderland,0.25
+Everton,304.0,10.0,Swansea City,0.4
+Everton,304.0,16.0,Tottenham Hotspur,-0.0625
+Everton,304.0,2.0,Watford,0.0
+Everton,304.0,14.0,West Bromwich Albion,0.21428571428571427
+Everton,304.0,14.0,West Ham United,0.5714285714285714
+Everton,304.0,10.0,Wigan Athletic,0.4
+Everton,304.0,6.0,Wolverhampton Wanderers,0.3333333333333333
+FC Barcelona,304.0,16.0,Athletic Club de Bilbao,0.6875
+FC Barcelona,304.0,16.0,Atlético Madrid,0.625
+FC Barcelona,304.0,12.0,CA Osasuna,0.5
+FC Barcelona,304.0,2.0,CD Numancia,0.0
+FC Barcelona,304.0,2.0,CD Tenerife,1.0
+FC Barcelona,304.0,2.0,Córdoba CF,1.0
+FC Barcelona,304.0,4.0,Elche CF,0.75
+FC Barcelona,304.0,16.0,Getafe CF,0.6875
+FC Barcelona,304.0,10.0,Granada CF,0.8
+FC Barcelona,304.0,2.0,Hércules Club de Fútbol,0.0
+FC Barcelona,304.0,12.0,Levante UD,0.8333333333333334
+FC Barcelona,304.0,16.0,Málaga CF,0.8125
+FC Barcelona,304.0,8.0,RC Celta de Vigo,0.375
+FC Barcelona,304.0,12.0,RC Deportivo de La Coruña,0.6666666666666666
+FC Barcelona,304.0,2.0,RC Recreativo,1.0
+FC Barcelona,304.0,16.0,RCD Espanyol,0.6875
+FC Barcelona,304.0,10.0,RCD Mallorca,0.7
+FC Barcelona,304.0,8.0,Racing Santander,0.875
+FC Barcelona,304.0,10.0,Rayo Vallecano,1.0
+FC Barcelona,304.0,10.0,Real Betis Balompié,0.8
+FC Barcelona,304.0,16.0,Real Madrid CF,0.375
+FC Barcelona,304.0,12.0,Real Sociedad,0.08333333333333333
+FC Barcelona,304.0,10.0,Real Sporting de Gijón,0.9
+FC Barcelona,304.0,8.0,Real Valladolid,0.75
+FC Barcelona,304.0,8.0,Real Zaragoza,1.0
+FC Barcelona,304.0,4.0,SD Eibar,1.0
+FC Barcelona,304.0,16.0,Sevilla FC,0.6875
+FC Barcelona,304.0,10.0,UD Almería,0.9
+FC Barcelona,304.0,2.0,UD Las Palmas,1.0
+FC Barcelona,304.0,16.0,Valencia CF,0.4375
+FC Barcelona,304.0,14.0,Villarreal CF,0.7142857142857143
+FC Barcelona,304.0,2.0,Xerez Club Deportivo,1.0
+FC Lorient,304.0,6.0,AC Ajaccio,0.3333333333333333
+FC Lorient,304.0,2.0,AC Arles-Avignon,0.5
+FC Lorient,304.0,8.0,AJ Auxerre,-0.375
+FC Lorient,304.0,12.0,AS Monaco,-0.25
+FC Lorient,304.0,10.0,AS Nancy-Lorraine,0.1
+FC Lorient,304.0,16.0,AS Saint-Étienne,0.1875
+FC Lorient,304.0,2.0,Angers SCO,0.0
+FC Lorient,304.0,2.0,Dijon FCO,-0.5
+FC Lorient,304.0,4.0,ES Troyes AC,0.75
+FC Lorient,304.0,6.0,En Avant de Guingamp,0.16666666666666666
+FC Lorient,304.0,2.0,FC Metz,1.0
+FC Lorient,304.0,8.0,FC Nantes,-0.125
+FC Lorient,304.0,12.0,FC Sochaux-Montbéliard,-0.16666666666666666
+FC Lorient,304.0,2.0,GFC Ajaccio,0.5
+FC Lorient,304.0,16.0,Girondins de Bordeaux,-0.375
+FC Lorient,304.0,4.0,Grenoble Foot 38,0.5
+FC Lorient,304.0,16.0,LOSC Lille,-0.1875
+FC Lorient,304.0,2.0,Le Havre AC,0.5
+FC Lorient,304.0,4.0,Le Mans FC,0.75
+FC Lorient,304.0,14.0,Montpellier Hérault SC,-0.21428571428571427
+FC Lorient,304.0,16.0,OGC Nice,-0.25
+FC Lorient,304.0,16.0,Olympique Lyonnais,-0.375
+FC Lorient,304.0,16.0,Olympique de Marseille,-0.1875
+FC Lorient,304.0,16.0,Paris Saint-Germain,-0.5
+FC Lorient,304.0,6.0,RC Lens,0.6666666666666666
+FC Lorient,304.0,8.0,SC Bastia,0.125
+FC Lorient,304.0,10.0,SM Caen,0.1
+FC Lorient,304.0,6.0,Stade Brestois 29,0.16666666666666666
+FC Lorient,304.0,16.0,Stade Rennais FC,-0.1875
+FC Lorient,304.0,8.0,Stade de Reims,-0.125
+FC Lorient,304.0,16.0,Toulouse FC,0.125
+FC Lorient,304.0,2.0,US Boulogne Cote D'Opale,0.0
+FC Lorient,304.0,12.0,Valenciennes FC,0.08333333333333333
+FC Lorient,304.0,8.0,Évian Thonon Gaillard FC,-0.25
+FC Metz,38.0,2.0,AS Monaco,-1.0
+FC Metz,38.0,2.0,AS Saint-Étienne,-1.0
+FC Metz,38.0,2.0,En Avant de Guingamp,0.0
+FC Metz,38.0,2.0,FC Lorient,-1.0
+FC Metz,38.0,2.0,FC Nantes,0.0
+FC Metz,38.0,2.0,Girondins de Bordeaux,0.0
+FC Metz,38.0,2.0,LOSC Lille,-0.5
+FC Metz,38.0,2.0,Montpellier Hérault SC,-1.0
+FC Metz,38.0,2.0,OGC Nice,-0.5
+FC Metz,38.0,2.0,Olympique Lyonnais,0.0
+FC Metz,38.0,2.0,Olympique de Marseille,-1.0
+FC Metz,38.0,2.0,Paris Saint-Germain,-1.0
+FC Metz,38.0,2.0,RC Lens,0.0
+FC Metz,38.0,2.0,SC Bastia,0.0
+FC Metz,38.0,2.0,SM Caen,0.5
+FC Metz,38.0,2.0,Stade Rennais FC,-0.5
+FC Metz,38.0,2.0,Stade de Reims,0.5
+FC Metz,38.0,2.0,Toulouse FC,0.0
+FC Metz,38.0,2.0,Évian Thonon Gaillard FC,-1.0
+FC Nantes,152.0,2.0,AC Ajaccio,0.5
+FC Nantes,152.0,2.0,AJ Auxerre,0.0
+FC Nantes,152.0,8.0,AS Monaco,-0.5
+FC Nantes,152.0,2.0,AS Nancy-Lorraine,-1.0
+FC Nantes,152.0,8.0,AS Saint-Étienne,-0.375
+FC Nantes,152.0,2.0,Angers SCO,0.5
+FC Nantes,152.0,2.0,ES Troyes AC,1.0
+FC Nantes,152.0,6.0,En Avant de Guingamp,0.5
+FC Nantes,152.0,8.0,FC Lorient,0.125
+FC Nantes,152.0,2.0,FC Metz,0.0
+FC Nantes,152.0,4.0,FC Sochaux-Montbéliard,-0.25
+FC Nantes,152.0,2.0,GFC Ajaccio,0.5
+FC Nantes,152.0,8.0,Girondins de Bordeaux,-0.25
+FC Nantes,152.0,2.0,Grenoble Foot 38,0.5
+FC Nantes,152.0,8.0,LOSC Lille,-0.5
+FC Nantes,152.0,2.0,Le Havre AC,0.0
+FC Nantes,152.0,2.0,Le Mans FC,0.0
+FC Nantes,152.0,6.0,Montpellier Hérault SC,-0.16666666666666666
+FC Nantes,152.0,8.0,OGC Nice,0.5
+FC Nantes,152.0,8.0,Olympique Lyonnais,-0.5
+FC Nantes,152.0,8.0,Olympique de Marseille,-0.125
+FC Nantes,152.0,8.0,Paris Saint-Germain,-1.0
+FC Nantes,152.0,2.0,RC Lens,0.0
+FC Nantes,152.0,6.0,SC Bastia,0.0
+FC Nantes,152.0,6.0,SM Caen,-0.16666666666666666
+FC Nantes,152.0,8.0,Stade Rennais FC,-0.25
+FC Nantes,152.0,6.0,Stade de Reims,-0.16666666666666666
+FC Nantes,152.0,8.0,Toulouse FC,-0.375
+FC Nantes,152.0,4.0,Valenciennes FC,0.75
+FC Nantes,152.0,4.0,Évian Thonon Gaillard FC,0.5
+FC Sochaux-Montbéliard,228.0,6.0,AC Ajaccio,-0.16666666666666666
+FC Sochaux-Montbéliard,228.0,2.0,AC Arles-Avignon,1.0
+FC Sochaux-Montbéliard,228.0,8.0,AJ Auxerre,-0.5
+FC Sochaux-Montbéliard,228.0,8.0,AS Monaco,0.0
+FC Sochaux-Montbéliard,228.0,10.0,AS Nancy-Lorraine,0.1
+FC Sochaux-Montbéliard,228.0,12.0,AS Saint-Étienne,-0.16666666666666666
+FC Sochaux-Montbéliard,228.0,2.0,Dijon FCO,0.5
+FC Sochaux-Montbéliard,228.0,2.0,ES Troyes AC,0.5
+FC Sochaux-Montbéliard,228.0,2.0,En Avant de Guingamp,0.0
+FC Sochaux-Montbéliard,228.0,12.0,FC Lorient,0.16666666666666666
+FC Sochaux-Montbéliard,228.0,4.0,FC Nantes,0.25
+FC Sochaux-Montbéliard,228.0,12.0,Girondins de Bordeaux,-0.3333333333333333
+FC Sochaux-Montbéliard,228.0,4.0,Grenoble Foot 38,0.25
+FC Sochaux-Montbéliard,228.0,12.0,LOSC Lille,-0.4166666666666667
+FC Sochaux-Montbéliard,228.0,2.0,Le Havre AC,-0.5
+FC Sochaux-Montbéliard,228.0,4.0,Le Mans FC,0.25
+FC Sochaux-Montbéliard,228.0,10.0,Montpellier Hérault SC,-0.9
+FC Sochaux-Montbéliard,228.0,12.0,OGC Nice,0.08333333333333333
+FC Sochaux-Montbéliard,228.0,12.0,Olympique Lyonnais,-0.4166666666666667
+FC Sochaux-Montbéliard,228.0,12.0,Olympique de Marseille,-0.3333333333333333
+FC Sochaux-Montbéliard,228.0,12.0,Paris Saint-Germain,-0.5
+FC Sochaux-Montbéliard,228.0,4.0,RC Lens,0.25
+FC Sochaux-Montbéliard,228.0,4.0,SC Bastia,-0.25
+FC Sochaux-Montbéliard,228.0,6.0,SM Caen,0.16666666666666666
+FC Sochaux-Montbéliard,228.0,6.0,Stade Brestois 29,0.16666666666666666
+FC Sochaux-Montbéliard,228.0,12.0,Stade Rennais FC,0.08333333333333333
+FC Sochaux-Montbéliard,228.0,4.0,Stade de Reims,0.0
+FC Sochaux-Montbéliard,228.0,12.0,Toulouse FC,-0.3333333333333333
+FC Sochaux-Montbéliard,228.0,2.0,US Boulogne Cote D'Opale,-0.5
+FC Sochaux-Montbéliard,228.0,12.0,Valenciennes FC,-0.08333333333333333
+FC Sochaux-Montbéliard,228.0,6.0,Évian Thonon Gaillard FC,0.0
+Fiorentina,300.0,14.0,Atalanta,0.6428571428571429
+Fiorentina,300.0,4.0,Bari,0.25
+Fiorentina,300.0,14.0,Bologna,0.2857142857142857
+Fiorentina,300.0,2.0,Brescia,0.5
+Fiorentina,300.0,14.0,Cagliari,0.14285714285714285
+Fiorentina,300.0,2.0,Carpi,1.0
+Fiorentina,300.0,11.0,Catania,0.45454545454545453
+Fiorentina,300.0,5.0,Cesena,0.6
+Fiorentina,300.0,15.0,Chievo Verona,0.4666666666666667
+Fiorentina,300.0,4.0,Empoli,0.0
+Fiorentina,300.0,2.0,Frosinone,0.5
+Fiorentina,300.0,16.0,Genoa,0.4375
+Fiorentina,300.0,6.0,Hellas Verona,0.5
+Fiorentina,300.0,16.0,Inter,-0.1875
+Fiorentina,300.0,16.0,Juventus,-0.5
+Fiorentina,300.0,16.0,Lazio,-0.3125
+Fiorentina,300.0,6.0,Lecce,-0.3333333333333333
+Fiorentina,300.0,4.0,Livorno,1.0
+Fiorentina,300.0,16.0,Milan,-0.1875
+Fiorentina,300.0,16.0,Napoli,-0.3125
+Fiorentina,300.0,2.0,Novara,0.5
+Fiorentina,300.0,14.0,Palermo,0.2857142857142857
+Fiorentina,300.0,11.0,Parma,0.18181818181818182
+Fiorentina,300.0,2.0,Pescara,0.0
+Fiorentina,300.0,2.0,Reggio Calabria,0.5
+Fiorentina,300.0,16.0,Roma,-0.5
+Fiorentina,300.0,14.0,Sampdoria,0.2857142857142857
+Fiorentina,300.0,6.0,Sassuolo,0.3333333333333333
+Fiorentina,300.0,8.0,Siena,0.5
+Fiorentina,300.0,10.0,Torino,0.3
+Fiorentina,300.0,16.0,Udinese,0.1875
+Frosinone,38.0,2.0,Atalanta,-0.5
+Frosinone,38.0,2.0,Bologna,0.0
+Frosinone,38.0,2.0,Carpi,0.0
+Frosinone,38.0,2.0,Chievo Verona,-1.0
+Frosinone,38.0,2.0,Empoli,1.0
+Frosinone,38.0,2.0,Fiorentina,-0.5
+Frosinone,38.0,2.0,Genoa,-0.5
+Frosinone,38.0,2.0,Hellas Verona,1.0
+Frosinone,38.0,2.0,Inter,-1.0
+Frosinone,38.0,2.0,Juventus,-0.5
+Frosinone,38.0,2.0,Lazio,-0.5
+Frosinone,38.0,2.0,Milan,-0.5
+Frosinone,38.0,2.0,Napoli,-1.0
+Frosinone,38.0,2.0,Palermo,-1.0
+Frosinone,38.0,2.0,Roma,-1.0
+Frosinone,38.0,2.0,Sampdoria,0.0
+Frosinone,38.0,2.0,Sassuolo,-0.5
+Frosinone,38.0,2.0,Torino,-1.0
+Frosinone,38.0,2.0,Udinese,0.0
+Fulham,228.0,12.0,Arsenal,-0.3333333333333333
+Fulham,228.0,12.0,Aston Villa,0.08333333333333333
+Fulham,228.0,4.0,Birmingham City,0.25
+Fulham,228.0,8.0,Blackburn Rovers,-0.25
+Fulham,228.0,2.0,Blackpool,0.5
+Fulham,228.0,8.0,Bolton Wanderers,0.625
+Fulham,228.0,2.0,Burnley,0.5
+Fulham,228.0,2.0,Cardiff City,-1.0
+Fulham,228.0,12.0,Chelsea,-0.5833333333333334
+Fulham,228.0,2.0,Crystal Palace,0.5
+Fulham,228.0,12.0,Everton,-0.6666666666666666
+Fulham,228.0,6.0,Hull City,-0.5
+Fulham,228.0,12.0,Liverpool,-0.3333333333333333
+Fulham,228.0,12.0,Manchester City,-0.5
+Fulham,228.0,12.0,Manchester United,-0.5
+Fulham,228.0,2.0,Middlesbrough,0.5
+Fulham,228.0,10.0,Newcastle United,0.3
+Fulham,228.0,6.0,Norwich City,0.6666666666666666
+Fulham,228.0,4.0,Portsmouth,0.75
+Fulham,228.0,4.0,Queens Park Rangers,0.5
+Fulham,228.0,2.0,Reading,-0.5
+Fulham,228.0,4.0,Southampton,-0.5
+Fulham,228.0,12.0,Stoke City,0.08333333333333333
+Fulham,228.0,12.0,Sunderland,0.08333333333333333
+Fulham,228.0,6.0,Swansea City,-0.6666666666666666
+Fulham,228.0,12.0,Tottenham Hotspur,-0.5
+Fulham,228.0,10.0,West Bromwich Albion,0.2
+Fulham,228.0,10.0,West Ham United,-0.2
+Fulham,228.0,10.0,Wigan Athletic,0.6
+Fulham,228.0,6.0,Wolverhampton Wanderers,0.0
+GFC Ajaccio,38.0,2.0,AS Monaco,-0.5
+GFC Ajaccio,38.0,2.0,AS Saint-Étienne,-1.0
+GFC Ajaccio,38.0,2.0,Angers SCO,-0.5
+GFC Ajaccio,38.0,2.0,ES Troyes AC,-0.5
+GFC Ajaccio,38.0,2.0,En Avant de Guingamp,-0.5
+GFC Ajaccio,38.0,2.0,FC Lorient,-0.5
+GFC Ajaccio,38.0,2.0,FC Nantes,-0.5
+GFC Ajaccio,38.0,2.0,Girondins de Bordeaux,0.5
+GFC Ajaccio,38.0,2.0,LOSC Lille,-1.0
+GFC Ajaccio,38.0,2.0,Montpellier Hérault SC,0.0
+GFC Ajaccio,38.0,2.0,OGC Nice,0.0
+GFC Ajaccio,38.0,2.0,Olympique Lyonnais,0.0
+GFC Ajaccio,38.0,2.0,Olympique de Marseille,0.0
+GFC Ajaccio,38.0,2.0,Paris Saint-Germain,-1.0
+GFC Ajaccio,38.0,2.0,SC Bastia,1.0
+GFC Ajaccio,38.0,2.0,SM Caen,0.0
+GFC Ajaccio,38.0,2.0,Stade Rennais FC,-0.5
+GFC Ajaccio,38.0,2.0,Stade de Reims,0.5
+GFC Ajaccio,38.0,2.0,Toulouse FC,0.0
+Genoa,302.0,14.0,Atalanta,0.21428571428571427
+Genoa,302.0,4.0,Bari,0.0
+Genoa,302.0,14.0,Bologna,-0.14285714285714285
+Genoa,302.0,2.0,Brescia,0.5
+Genoa,302.0,14.0,Cagliari,0.07142857142857142
+Genoa,302.0,2.0,Carpi,-1.0
+Genoa,302.0,12.0,Catania,-0.16666666666666666
+Genoa,302.0,6.0,Cesena,0.3333333333333333
+Genoa,302.0,16.0,Chievo Verona,-0.125
+Genoa,302.0,4.0,Empoli,0.0
+Genoa,302.0,16.0,Fiorentina,-0.4375
+Genoa,302.0,2.0,Frosinone,0.5
+Genoa,302.0,6.0,Hellas Verona,0.3333333333333333
+Genoa,302.0,16.0,Inter,-0.375
+Genoa,302.0,15.0,Juventus,-0.5333333333333333
+Genoa,302.0,16.0,Lazio,0.1875
+Genoa,302.0,5.0,Lecce,0.8
+Genoa,302.0,4.0,Livorno,0.0
+Genoa,302.0,16.0,Milan,-0.1875
+Genoa,302.0,16.0,Napoli,-0.3125
+Genoa,302.0,2.0,Novara,0.5
+Genoa,302.0,14.0,Palermo,-0.07142857142857142
+Genoa,302.0,12.0,Parma,0.3333333333333333
+Genoa,302.0,2.0,Pescara,0.0
+Genoa,302.0,2.0,Reggio Calabria,1.0
+Genoa,302.0,16.0,Roma,-0.375
+Genoa,302.0,14.0,Sampdoria,0.14285714285714285
+Genoa,302.0,6.0,Sassuolo,0.16666666666666666
+Genoa,302.0,8.0,Siena,0.125
+Genoa,302.0,10.0,Torino,0.2
+Genoa,302.0,16.0,Udinese,0.1875
+Getafe CF,304.0,16.0,Athletic Club de Bilbao,-0.1875
+Getafe CF,304.0,16.0,Atlético Madrid,-0.4375
+Getafe CF,304.0,12.0,CA Osasuna,0.08333333333333333
+Getafe CF,304.0,2.0,CD Numancia,0.0
+Getafe CF,304.0,2.0,CD Tenerife,0.0
+Getafe CF,304.0,2.0,Córdoba CF,0.5
+Getafe CF,304.0,4.0,Elche CF,0.0
+Getafe CF,304.0,16.0,FC Barcelona,-0.6875
+Getafe CF,304.0,10.0,Granada CF,-0.3
+Getafe CF,304.0,2.0,Hércules Club de Fútbol,0.5
+Getafe CF,304.0,12.0,Levante UD,0.0
+Getafe CF,304.0,16.0,Málaga CF,-0.3125
+Getafe CF,304.0,8.0,RC Celta de Vigo,0.0
+Getafe CF,304.0,12.0,RC Deportivo de La Coruña,0.3333333333333333
+Getafe CF,304.0,2.0,RC Recreativo,0.5
+Getafe CF,304.0,16.0,RCD Espanyol,-0.0625
+Getafe CF,304.0,10.0,RCD Mallorca,0.2
+Getafe CF,304.0,8.0,Racing Santander,0.125
+Getafe CF,304.0,10.0,Rayo Vallecano,-0.7
+Getafe CF,304.0,10.0,Real Betis Balompié,0.0
+Getafe CF,304.0,16.0,Real Madrid CF,-0.75
+Getafe CF,304.0,12.0,Real Sociedad,0.08333333333333333
+Getafe CF,304.0,10.0,Real Sporting de Gijón,0.2
+Getafe CF,304.0,8.0,Real Valladolid,0.0
+Getafe CF,304.0,8.0,Real Zaragoza,-0.25
+Getafe CF,304.0,4.0,SD Eibar,-0.5
+Getafe CF,304.0,16.0,Sevilla FC,0.125
+Getafe CF,304.0,10.0,UD Almería,-0.1
+Getafe CF,304.0,2.0,UD Las Palmas,0.0
+Getafe CF,304.0,16.0,Valencia CF,-0.5
+Getafe CF,304.0,14.0,Villarreal CF,-0.07142857142857142
+Getafe CF,304.0,2.0,Xerez Club Deportivo,1.0
+Girondins de Bordeaux,304.0,6.0,AC Ajaccio,0.16666666666666666
+Girondins de Bordeaux,304.0,2.0,AC Arles-Avignon,0.5
+Girondins de Bordeaux,304.0,8.0,AJ Auxerre,0.375
+Girondins de Bordeaux,304.0,12.0,AS Monaco,0.3333333333333333
+Girondins de Bordeaux,304.0,10.0,AS Nancy-Lorraine,0.3
+Girondins de Bordeaux,304.0,16.0,AS Saint-Étienne,0.0625
+Girondins de Bordeaux,304.0,2.0,Angers SCO,-0.5
+Girondins de Bordeaux,304.0,2.0,Dijon FCO,-0.5
+Girondins de Bordeaux,304.0,4.0,ES Troyes AC,0.25
+Girondins de Bordeaux,304.0,6.0,En Avant de Guingamp,0.5
+Girondins de Bordeaux,304.0,16.0,FC Lorient,0.375
+Girondins de Bordeaux,304.0,2.0,FC Metz,0.0
+Girondins de Bordeaux,304.0,8.0,FC Nantes,0.25
+Girondins de Bordeaux,304.0,12.0,FC Sochaux-Montbéliard,0.3333333333333333
+Girondins de Bordeaux,304.0,2.0,GFC Ajaccio,-0.5
+Girondins de Bordeaux,304.0,4.0,Grenoble Foot 38,0.75
+Girondins de Bordeaux,304.0,16.0,LOSC Lille,0.0
+Girondins de Bordeaux,304.0,2.0,Le Havre AC,1.0
+Girondins de Bordeaux,304.0,4.0,Le Mans FC,0.5
+Girondins de Bordeaux,304.0,14.0,Montpellier Hérault SC,0.2857142857142857
+Girondins de Bordeaux,304.0,16.0,OGC Nice,0.0625
+Girondins de Bordeaux,304.0,16.0,Olympique Lyonnais,0.0
+Girondins de Bordeaux,304.0,16.0,Olympique de Marseille,-0.0625
+Girondins de Bordeaux,304.0,16.0,Paris Saint-Germain,-0.0625
+Girondins de Bordeaux,304.0,6.0,RC Lens,0.16666666666666666
+Girondins de Bordeaux,304.0,8.0,SC Bastia,-0.125
+Girondins de Bordeaux,304.0,10.0,SM Caen,0.0
+Girondins de Bordeaux,304.0,6.0,Stade Brestois 29,0.0
+Girondins de Bordeaux,304.0,16.0,Stade Rennais FC,0.3125
+Girondins de Bordeaux,304.0,8.0,Stade de Reims,-0.5
+Girondins de Bordeaux,304.0,16.0,Toulouse FC,-0.0625
+Girondins de Bordeaux,304.0,2.0,US Boulogne Cote D'Opale,0.5
+Girondins de Bordeaux,304.0,12.0,Valenciennes FC,0.4166666666666667
+Girondins de Bordeaux,304.0,8.0,Évian Thonon Gaillard FC,0.625
+Granada CF,190.0,10.0,Athletic Club de Bilbao,0.1
+Granada CF,190.0,10.0,Atlético Madrid,-0.8
+Granada CF,190.0,6.0,CA Osasuna,0.3333333333333333
+Granada CF,190.0,2.0,Córdoba CF,0.0
+Granada CF,190.0,4.0,Elche CF,0.75
+Granada CF,190.0,10.0,FC Barcelona,-0.8
+Granada CF,190.0,10.0,Getafe CF,0.3
+Granada CF,190.0,10.0,Levante UD,-0.1
+Granada CF,190.0,10.0,Málaga CF,0.0
+Granada CF,190.0,8.0,RC Celta de Vigo,-0.375
+Granada CF,190.0,6.0,RC Deportivo de La Coruña,0.5
+Granada CF,190.0,10.0,RCD Espanyol,-0.3
+Granada CF,190.0,4.0,RCD Mallorca,0.0
+Granada CF,190.0,2.0,Racing Santander,0.5
+Granada CF,190.0,10.0,Rayo Vallecano,-0.5
+Granada CF,190.0,8.0,Real Betis Balompié,0.0
+Granada CF,190.0,10.0,Real Madrid CF,-0.8
+Granada CF,190.0,10.0,Real Sociedad,-0.2
+Granada CF,190.0,4.0,Real Sporting de Gijón,0.25
+Granada CF,190.0,4.0,Real Valladolid,0.25
+Granada CF,190.0,4.0,Real Zaragoza,-0.25
+Granada CF,190.0,4.0,SD Eibar,-0.5
+Granada CF,190.0,10.0,Sevilla FC,-0.2
+Granada CF,190.0,4.0,UD Almería,-0.75
+Granada CF,190.0,2.0,UD Las Palmas,0.0
+Granada CF,190.0,10.0,Valencia CF,-0.9
+Granada CF,190.0,8.0,Villarreal CF,-0.375
+Grenoble Foot 38,76.0,4.0,AJ Auxerre,-0.25
+Grenoble Foot 38,76.0,4.0,AS Monaco,0.0
+Grenoble Foot 38,76.0,4.0,AS Nancy-Lorraine,-0.25
+Grenoble Foot 38,76.0,4.0,AS Saint-Étienne,0.0
+Grenoble Foot 38,76.0,4.0,FC Lorient,-0.5
+Grenoble Foot 38,76.0,2.0,FC Nantes,-0.5
+Grenoble Foot 38,76.0,4.0,FC Sochaux-Montbéliard,-0.25
+Grenoble Foot 38,76.0,4.0,Girondins de Bordeaux,-0.75
+Grenoble Foot 38,76.0,4.0,LOSC Lille,-0.75
+Grenoble Foot 38,76.0,2.0,Le Havre AC,0.5
+Grenoble Foot 38,76.0,4.0,Le Mans FC,0.0
+Grenoble Foot 38,76.0,2.0,Montpellier Hérault SC,-1.0
+Grenoble Foot 38,76.0,4.0,OGC Nice,-0.25
+Grenoble Foot 38,76.0,4.0,Olympique Lyonnais,-0.75
+Grenoble Foot 38,76.0,4.0,Olympique de Marseille,-1.0
+Grenoble Foot 38,76.0,4.0,Paris Saint-Germain,0.25
+Grenoble Foot 38,76.0,2.0,RC Lens,-0.5
+Grenoble Foot 38,76.0,2.0,SM Caen,0.5
+Grenoble Foot 38,76.0,4.0,Stade Rennais FC,-0.5
+Grenoble Foot 38,76.0,4.0,Toulouse FC,0.0
+Grenoble Foot 38,76.0,2.0,US Boulogne Cote D'Opale,0.0
+Grenoble Foot 38,76.0,4.0,Valenciennes FC,-0.5
+Hellas Verona,114.0,6.0,Atalanta,0.6666666666666666
+Hellas Verona,114.0,4.0,Bologna,0.25
+Hellas Verona,114.0,4.0,Cagliari,0.5
+Hellas Verona,114.0,2.0,Carpi,-0.5
+Hellas Verona,114.0,2.0,Catania,0.5
+Hellas Verona,114.0,2.0,Cesena,0.0
+Hellas Verona,114.0,6.0,Chievo Verona,0.0
+Hellas Verona,114.0,4.0,Empoli,-0.25
+Hellas Verona,114.0,6.0,Fiorentina,-0.5
+Hellas Verona,114.0,2.0,Frosinone,-1.0
+Hellas Verona,114.0,6.0,Genoa,-0.3333333333333333
+Hellas Verona,114.0,6.0,Inter,-0.6666666666666666
+Hellas Verona,114.0,6.0,Juventus,-0.3333333333333333
+Hellas Verona,114.0,6.0,Lazio,-0.3333333333333333
+Hellas Verona,114.0,2.0,Livorno,1.0
+Hellas Verona,114.0,6.0,Milan,0.0
+Hellas Verona,114.0,6.0,Napoli,-0.6666666666666666
+Hellas Verona,114.0,4.0,Palermo,-0.5
+Hellas Verona,114.0,4.0,Parma,0.25
+Hellas Verona,114.0,6.0,Roma,-0.5
+Hellas Verona,114.0,6.0,Sampdoria,-0.5
+Hellas Verona,114.0,6.0,Sassuolo,0.16666666666666666
+Hellas Verona,114.0,6.0,Torino,-0.16666666666666666
+Hellas Verona,114.0,6.0,Udinese,0.0
+Hull City,152.0,8.0,Arsenal,-0.625
+Hull City,152.0,8.0,Aston Villa,-0.625
+Hull City,152.0,2.0,Birmingham City,-0.5
+Hull City,152.0,4.0,Blackburn Rovers,-0.5
+Hull City,152.0,4.0,Bolton Wanderers,0.0
+Hull City,152.0,4.0,Burnley,-1.0
+Hull City,152.0,2.0,Cardiff City,0.5
+Hull City,152.0,8.0,Chelsea,-0.75
+Hull City,152.0,4.0,Crystal Palace,0.0
+Hull City,152.0,8.0,Everton,-0.25
+Hull City,152.0,6.0,Fulham,0.5
+Hull City,152.0,2.0,Leicester City,-0.5
+Hull City,152.0,8.0,Liverpool,-0.125
+Hull City,152.0,8.0,Manchester City,-0.375
+Hull City,152.0,8.0,Manchester United,-0.875
+Hull City,152.0,2.0,Middlesbrough,0.0
+Hull City,152.0,6.0,Newcastle United,0.0
+Hull City,152.0,2.0,Norwich City,0.0
+Hull City,152.0,4.0,Portsmouth,-0.25
+Hull City,152.0,2.0,Queens Park Rangers,1.0
+Hull City,152.0,4.0,Southampton,-1.0
+Hull City,152.0,8.0,Stoke City,-0.375
+Hull City,152.0,8.0,Sunderland,-0.125
+Hull City,152.0,4.0,Swansea City,-0.25
+Hull City,152.0,8.0,Tottenham Hotspur,-0.5
+Hull City,152.0,6.0,West Bromwich Albion,0.16666666666666666
+Hull City,152.0,8.0,West Ham United,-0.25
+Hull City,152.0,4.0,Wigan Athletic,-0.25
+Hull City,152.0,2.0,Wolverhampton Wanderers,0.0
+Hércules Club de Fútbol,38.0,2.0,Athletic Club de Bilbao,-1.0
+Hércules Club de Fútbol,38.0,2.0,Atlético Madrid,0.0
+Hércules Club de Fútbol,38.0,2.0,CA Osasuna,-1.0
+Hércules Club de Fútbol,38.0,2.0,FC Barcelona,0.0
+Hércules Club de Fútbol,38.0,2.0,Getafe CF,-0.5
+Hércules Club de Fútbol,38.0,2.0,Levante UD,0.0
+Hércules Club de Fútbol,38.0,2.0,Málaga CF,0.0
+Hércules Club de Fútbol,38.0,2.0,RC Deportivo de La Coruña,0.0
+Hércules Club de Fútbol,38.0,2.0,RCD Espanyol,-0.5
+Hércules Club de Fútbol,38.0,2.0,RCD Mallorca,-0.5
+Hércules Club de Fútbol,38.0,2.0,Racing Santander,-0.5
+Hércules Club de Fútbol,38.0,2.0,Real Madrid CF,-1.0
+Hércules Club de Fútbol,38.0,2.0,Real Sociedad,1.0
+Hércules Club de Fútbol,38.0,2.0,Real Sporting de Gijón,-0.5
+Hércules Club de Fútbol,38.0,2.0,Real Zaragoza,0.5
+Hércules Club de Fútbol,38.0,2.0,Sevilla FC,0.0
+Hércules Club de Fútbol,38.0,2.0,UD Almería,-0.5
+Hércules Club de Fútbol,38.0,2.0,Valencia CF,-1.0
+Hércules Club de Fútbol,38.0,2.0,Villarreal CF,-0.5
+Inter,303.0,14.0,Atalanta,0.07142857142857142
+Inter,303.0,4.0,Bari,0.5
+Inter,303.0,14.0,Bologna,0.5
+Inter,303.0,2.0,Brescia,0.0
+Inter,303.0,14.0,Cagliari,0.21428571428571427
+Inter,303.0,2.0,Carpi,0.5
+Inter,303.0,11.0,Catania,0.5454545454545454
+Inter,303.0,6.0,Cesena,0.8333333333333334
+Inter,303.0,16.0,Chievo Verona,0.5625
+Inter,303.0,4.0,Empoli,0.75
+Inter,303.0,16.0,Fiorentina,0.1875
+Inter,303.0,2.0,Frosinone,1.0
+Inter,303.0,16.0,Genoa,0.375
+Inter,303.0,6.0,Hellas Verona,0.6666666666666666
+Inter,303.0,16.0,Juventus,-0.3125
+Inter,303.0,16.0,Lazio,0.0625
+Inter,303.0,6.0,Lecce,0.5
+Inter,303.0,4.0,Livorno,0.75
+Inter,303.0,16.0,Milan,0.1875
+Inter,303.0,16.0,Napoli,-0.0625
+Inter,303.0,2.0,Novara,-1.0
+Inter,303.0,14.0,Palermo,0.35714285714285715
+Inter,303.0,12.0,Parma,0.08333333333333333
+Inter,303.0,2.0,Pescara,1.0
+Inter,303.0,2.0,Reggio Calabria,1.0
+Inter,303.0,16.0,Roma,-0.125
+Inter,303.0,14.0,Sampdoria,0.35714285714285715
+Inter,303.0,6.0,Sassuolo,0.0
+Inter,303.0,8.0,Siena,0.5
+Inter,303.0,10.0,Torino,0.2
+Inter,303.0,16.0,Udinese,0.3125
+Juventus,301.0,14.0,Atalanta,0.9285714285714286
+Juventus,301.0,4.0,Bari,0.0
+Juventus,301.0,13.0,Bologna,0.5384615384615384
+Juventus,301.0,2.0,Brescia,0.5
+Juventus,301.0,14.0,Cagliari,0.5
+Juventus,301.0,2.0,Carpi,1.0
+Juventus,301.0,12.0,Catania,0.5
+Juventus,301.0,6.0,Cesena,0.6666666666666666
+Juventus,301.0,16.0,Chievo Verona,0.5
+Juventus,301.0,4.0,Empoli,1.0
+Juventus,301.0,16.0,Fiorentina,0.5
+Juventus,301.0,2.0,Frosinone,0.5
+Juventus,301.0,15.0,Genoa,0.5333333333333333
+Juventus,301.0,6.0,Hellas Verona,0.3333333333333333
+Juventus,301.0,16.0,Inter,0.3125
+Juventus,301.0,16.0,Lazio,0.75
+Juventus,301.0,6.0,Lecce,0.3333333333333333
+Juventus,301.0,4.0,Livorno,0.75
+Juventus,301.0,16.0,Milan,0.375
+Juventus,301.0,15.0,Napoli,0.0
+Juventus,301.0,2.0,Novara,1.0
+Juventus,301.0,14.0,Palermo,0.2857142857142857
+Juventus,301.0,12.0,Parma,0.16666666666666666
+Juventus,301.0,2.0,Pescara,1.0
+Juventus,301.0,2.0,Reggio Calabria,0.5
+Juventus,301.0,16.0,Roma,0.4375
+Juventus,301.0,14.0,Sampdoria,0.21428571428571427
+Juventus,301.0,6.0,Sassuolo,0.5
+Juventus,301.0,8.0,Siena,0.75
+Juventus,301.0,10.0,Torino,0.8
+Juventus,301.0,16.0,Udinese,0.375
+LOSC Lille,304.0,6.0,AC Ajaccio,1.0
+LOSC Lille,304.0,2.0,AC Arles-Avignon,1.0
+LOSC Lille,304.0,8.0,AJ Auxerre,0.0
+LOSC Lille,304.0,12.0,AS Monaco,0.4166666666666667
+LOSC Lille,304.0,10.0,AS Nancy-Lorraine,0.6
+LOSC Lille,304.0,16.0,AS Saint-Étienne,0.375
+LOSC Lille,304.0,2.0,Angers SCO,-0.5
+LOSC Lille,304.0,2.0,Dijon FCO,1.0
+LOSC Lille,304.0,4.0,ES Troyes AC,-0.25
+LOSC Lille,304.0,6.0,En Avant de Guingamp,0.16666666666666666
+LOSC Lille,304.0,16.0,FC Lorient,0.1875
+LOSC Lille,304.0,2.0,FC Metz,0.5
+LOSC Lille,304.0,8.0,FC Nantes,0.5
+LOSC Lille,304.0,12.0,FC Sochaux-Montbéliard,0.4166666666666667
+LOSC Lille,304.0,2.0,GFC Ajaccio,1.0
+LOSC Lille,304.0,16.0,Girondins de Bordeaux,0.0
+LOSC Lille,304.0,4.0,Grenoble Foot 38,0.75
+LOSC Lille,304.0,2.0,Le Havre AC,1.0
+LOSC Lille,304.0,4.0,Le Mans FC,0.25
+LOSC Lille,304.0,14.0,Montpellier Hérault SC,0.14285714285714285
+LOSC Lille,304.0,16.0,OGC Nice,-0.0625
+LOSC Lille,304.0,16.0,Olympique Lyonnais,0.1875
+LOSC Lille,304.0,16.0,Olympique de Marseille,-0.25
+LOSC Lille,304.0,16.0,Paris Saint-Germain,-0.3125
+LOSC Lille,304.0,6.0,RC Lens,0.6666666666666666
+LOSC Lille,304.0,8.0,SC Bastia,0.375
+LOSC Lille,304.0,10.0,SM Caen,0.9
+LOSC Lille,304.0,6.0,Stade Brestois 29,0.6666666666666666
+LOSC Lille,304.0,16.0,Stade Rennais FC,0.1875
+LOSC Lille,304.0,8.0,Stade de Reims,-0.125
+LOSC Lille,304.0,16.0,Toulouse FC,0.375
+LOSC Lille,304.0,2.0,US Boulogne Cote D'Opale,1.0
+LOSC Lille,304.0,12.0,Valenciennes FC,0.5
+LOSC Lille,304.0,8.0,Évian Thonon Gaillard FC,0.5
+Lazio,301.0,14.0,Atalanta,0.07142857142857142
+Lazio,301.0,4.0,Bari,0.0
+Lazio,301.0,13.0,Bologna,0.38461538461538464
+Lazio,301.0,2.0,Brescia,1.0
+Lazio,301.0,14.0,Cagliari,0.42857142857142855
+Lazio,301.0,2.0,Carpi,0.5
+Lazio,301.0,12.0,Catania,-0.08333333333333333
+Lazio,301.0,6.0,Cesena,0.3333333333333333
+Lazio,301.0,16.0,Chievo Verona,0.3125
+Lazio,301.0,4.0,Empoli,0.0
+Lazio,301.0,16.0,Fiorentina,0.3125
+Lazio,301.0,2.0,Frosinone,0.5
+Lazio,301.0,16.0,Genoa,-0.1875
+Lazio,301.0,6.0,Hellas Verona,0.3333333333333333
+Lazio,301.0,16.0,Inter,-0.0625
+Lazio,301.0,16.0,Juventus,-0.75
+Lazio,301.0,6.0,Lecce,0.3333333333333333
+Lazio,301.0,4.0,Livorno,1.0
+Lazio,301.0,16.0,Milan,-0.1875
+Lazio,301.0,15.0,Napoli,-0.3333333333333333
+Lazio,301.0,2.0,Novara,0.0
+Lazio,301.0,14.0,Palermo,0.2857142857142857
+Lazio,301.0,12.0,Parma,0.4166666666666667
+Lazio,301.0,2.0,Pescara,1.0
+Lazio,301.0,2.0,Reggio Calabria,1.0
+Lazio,301.0,15.0,Roma,-0.4
+Lazio,301.0,14.0,Sampdoria,0.21428571428571427
+Lazio,301.0,6.0,Sassuolo,0.16666666666666666
+Lazio,301.0,8.0,Siena,0.0
+Lazio,301.0,10.0,Torino,0.2
+Lazio,301.0,16.0,Udinese,0.125
+Le Havre AC,38.0,2.0,AJ Auxerre,-1.0
+Le Havre AC,38.0,2.0,AS Monaco,0.0
+Le Havre AC,38.0,2.0,AS Nancy-Lorraine,-1.0
+Le Havre AC,38.0,2.0,AS Saint-Étienne,-1.0
+Le Havre AC,38.0,2.0,FC Lorient,-0.5
+Le Havre AC,38.0,2.0,FC Nantes,0.0
+Le Havre AC,38.0,2.0,FC Sochaux-Montbéliard,0.5
+Le Havre AC,38.0,2.0,Girondins de Bordeaux,-1.0
+Le Havre AC,38.0,2.0,Grenoble Foot 38,-0.5
+Le Havre AC,38.0,2.0,LOSC Lille,-1.0
+Le Havre AC,38.0,2.0,Le Mans FC,-1.0
+Le Havre AC,38.0,2.0,OGC Nice,0.5
+Le Havre AC,38.0,2.0,Olympique Lyonnais,-1.0
+Le Havre AC,38.0,2.0,Olympique de Marseille,-1.0
+Le Havre AC,38.0,2.0,Paris Saint-Germain,-1.0
+Le Havre AC,38.0,2.0,SM Caen,0.0
+Le Havre AC,38.0,2.0,Stade Rennais FC,0.5
+Le Havre AC,38.0,2.0,Toulouse FC,-1.0
+Le Havre AC,38.0,2.0,Valenciennes FC,0.0
+Le Mans FC,76.0,4.0,AJ Auxerre,-1.0
+Le Mans FC,76.0,4.0,AS Monaco,-0.5
+Le Mans FC,76.0,4.0,AS Nancy-Lorraine,0.25
+Le Mans FC,76.0,4.0,AS Saint-Étienne,0.0
+Le Mans FC,76.0,4.0,FC Lorient,-0.75
+Le Mans FC,76.0,2.0,FC Nantes,0.0
+Le Mans FC,76.0,4.0,FC Sochaux-Montbéliard,-0.25
+Le Mans FC,76.0,4.0,Girondins de Bordeaux,-0.5
+Le Mans FC,76.0,4.0,Grenoble Foot 38,0.0
+Le Mans FC,76.0,4.0,LOSC Lille,-0.25
+Le Mans FC,76.0,2.0,Le Havre AC,1.0
+Le Mans FC,76.0,2.0,Montpellier Hérault SC,-0.5
+Le Mans FC,76.0,4.0,OGC Nice,-0.75
+Le Mans FC,76.0,4.0,Olympique Lyonnais,-0.75
+Le Mans FC,76.0,4.0,Olympique de Marseille,-0.5
+Le Mans FC,76.0,4.0,Paris Saint-Germain,-0.5
+Le Mans FC,76.0,2.0,RC Lens,0.0
+Le Mans FC,76.0,2.0,SM Caen,0.0
+Le Mans FC,76.0,4.0,Stade Rennais FC,-0.5
+Le Mans FC,76.0,4.0,Toulouse FC,-1.0
+Le Mans FC,76.0,2.0,US Boulogne Cote D'Opale,0.5
+Le Mans FC,76.0,4.0,Valenciennes FC,1.0
+Lecce,111.0,4.0,Atalanta,-0.25
+Lecce,111.0,2.0,Bari,0.0
+Lecce,111.0,6.0,Bologna,-0.3333333333333333
+Lecce,111.0,2.0,Brescia,0.5
+Lecce,111.0,6.0,Cagliari,-0.16666666666666666
+Lecce,111.0,6.0,Catania,0.16666666666666666
+Lecce,111.0,3.0,Cesena,0.0
+Lecce,111.0,6.0,Chievo Verona,0.0
+Lecce,111.0,6.0,Fiorentina,0.3333333333333333
+Lecce,111.0,5.0,Genoa,-0.8
+Lecce,111.0,6.0,Inter,-0.5
+Lecce,111.0,6.0,Juventus,-0.3333333333333333
+Lecce,111.0,6.0,Lazio,-0.3333333333333333
+Lecce,111.0,5.0,Milan,-0.6
+Lecce,111.0,6.0,Napoli,-0.5
+Lecce,111.0,2.0,Novara,0.0
+Lecce,111.0,6.0,Palermo,-0.5
+Lecce,111.0,4.0,Parma,0.0
+Lecce,111.0,2.0,Reggio Calabria,-0.5
+Lecce,111.0,6.0,Roma,-0.6666666666666666
+Lecce,111.0,4.0,Sampdoria,-0.5
+Lecce,111.0,4.0,Siena,0.25
+Lecce,111.0,2.0,Torino,-0.5
+Lecce,111.0,6.0,Udinese,-0.5
+Leicester City,76.0,4.0,Arsenal,-0.75
+Leicester City,76.0,4.0,Aston Villa,0.25
+Leicester City,76.0,2.0,Bournemouth,0.0
+Leicester City,76.0,2.0,Burnley,0.5
+Leicester City,76.0,4.0,Chelsea,-0.25
+Leicester City,76.0,4.0,Crystal Palace,0.0
+Leicester City,76.0,4.0,Everton,0.5
+Leicester City,76.0,2.0,Hull City,0.5
+Leicester City,76.0,4.0,Liverpool,-0.25
+Leicester City,76.0,4.0,Manchester City,-0.25
+Leicester City,76.0,4.0,Manchester United,0.0
+Leicester City,76.0,4.0,Newcastle United,0.5
+Leicester City,76.0,2.0,Norwich City,1.0
+Leicester City,76.0,2.0,Queens Park Rangers,0.0
+Leicester City,76.0,4.0,Southampton,0.25
+Leicester City,76.0,4.0,Stoke City,0.25
+Leicester City,76.0,4.0,Sunderland,0.5
+Leicester City,76.0,4.0,Swansea City,0.5
+Leicester City,76.0,4.0,Tottenham Hotspur,-0.25
+Leicester City,76.0,2.0,Watford,1.0
+Leicester City,76.0,4.0,West Bromwich Albion,0.25
+Leicester City,76.0,4.0,West Ham United,0.25
+Levante UD,228.0,12.0,Athletic Club de Bilbao,-0.4166666666666667
+Levante UD,228.0,12.0,Atlético Madrid,-0.16666666666666666
+Levante UD,228.0,8.0,CA Osasuna,-0.125
+Levante UD,228.0,2.0,Córdoba CF,0.5
+Levante UD,228.0,4.0,Elche CF,0.0
+Levante UD,228.0,12.0,FC Barcelona,-0.8333333333333334
+Levante UD,228.0,12.0,Getafe CF,0.0
+Levante UD,228.0,10.0,Granada CF,0.1
+Levante UD,228.0,2.0,Hércules Club de Fútbol,0.0
+Levante UD,228.0,12.0,Málaga CF,-0.25
+Levante UD,228.0,8.0,RC Celta de Vigo,-0.625
+Levante UD,228.0,8.0,RC Deportivo de La Coruña,-0.25
+Levante UD,228.0,12.0,RCD Espanyol,0.25
+Levante UD,228.0,6.0,RCD Mallorca,-0.16666666666666666
+Levante UD,228.0,4.0,Racing Santander,0.25
+Levante UD,228.0,10.0,Rayo Vallecano,-0.3
+Levante UD,228.0,8.0,Real Betis Balompié,-0.25
+Levante UD,228.0,12.0,Real Madrid CF,-0.75
+Levante UD,228.0,12.0,Real Sociedad,0.16666666666666666
+Levante UD,228.0,6.0,Real Sporting de Gijón,0.16666666666666666
+Levante UD,228.0,4.0,Real Valladolid,0.0
+Levante UD,228.0,6.0,Real Zaragoza,-0.3333333333333333
+Levante UD,228.0,4.0,SD Eibar,0.0
+Levante UD,228.0,12.0,Sevilla FC,-0.08333333333333333
+Levante UD,228.0,6.0,UD Almería,0.8333333333333334
+Levante UD,228.0,2.0,UD Las Palmas,0.5
+Levante UD,228.0,12.0,Valencia CF,-0.08333333333333333
+Levante UD,228.0,10.0,Villarreal CF,-0.2
+Liverpool,304.0,16.0,Arsenal,-0.25
+Liverpool,304.0,16.0,Aston Villa,0.3125
+Liverpool,304.0,4.0,Birmingham City,0.25
+Liverpool,304.0,8.0,Blackburn Rovers,0.5
+Liverpool,304.0,2.0,Blackpool,-1.0
+Liverpool,304.0,8.0,Bolton Wanderers,0.75
+Liverpool,304.0,2.0,Bournemouth,1.0
+Liverpool,304.0,4.0,Burnley,1.0
+Liverpool,304.0,2.0,Cardiff City,1.0
+Liverpool,304.0,16.0,Chelsea,0.125
+Liverpool,304.0,6.0,Crystal Palace,-0.16666666666666666
+Liverpool,304.0,16.0,Everton,0.375
+Liverpool,304.0,12.0,Fulham,0.3333333333333333
+Liverpool,304.0,8.0,Hull City,0.125
+Liverpool,304.0,4.0,Leicester City,0.25
+Liverpool,304.0,16.0,Manchester City,0.125
+Liverpool,304.0,16.0,Manchester United,-0.1875
+Liverpool,304.0,2.0,Middlesbrough,0.0
+Liverpool,304.0,14.0,Newcastle United,0.21428571428571427
+Liverpool,304.0,8.0,Norwich City,0.75
+Liverpool,304.0,4.0,Portsmouth,0.5
+Liverpool,304.0,6.0,Queens Park Rangers,0.6666666666666666
+Liverpool,304.0,2.0,Reading,0.5
+Liverpool,304.0,8.0,Southampton,0.125
+Liverpool,304.0,16.0,Stoke City,0.1875
+Liverpool,304.0,16.0,Sunderland,0.4375
+Liverpool,304.0,10.0,Swansea City,0.3
+Liverpool,304.0,16.0,Tottenham Hotspur,0.0625
+Liverpool,304.0,2.0,Watford,0.0
+Liverpool,304.0,14.0,West Bromwich Albion,0.14285714285714285
+Liverpool,304.0,14.0,West Ham United,0.2857142857142857
+Liverpool,304.0,10.0,Wigan Athletic,0.2
+Liverpool,304.0,6.0,Wolverhampton Wanderers,0.5
+Livorno,76.0,4.0,Atalanta,0.0
+Livorno,76.0,2.0,Bari,-0.5
+Livorno,76.0,4.0,Bologna,-0.5
+Livorno,76.0,4.0,Cagliari,0.0
+Livorno,76.0,4.0,Catania,0.75
+Livorno,76.0,4.0,Chievo Verona,-1.0
+Livorno,76.0,4.0,Fiorentina,-1.0
+Livorno,76.0,4.0,Genoa,0.0
+Livorno,76.0,2.0,Hellas Verona,-1.0
+Livorno,76.0,4.0,Inter,-0.75
+Livorno,76.0,4.0,Juventus,-0.75
+Livorno,76.0,4.0,Lazio,-1.0
+Livorno,76.0,4.0,Milan,-0.25
+Livorno,76.0,4.0,Napoli,-0.75
+Livorno,76.0,2.0,Palermo,-1.0
+Livorno,76.0,4.0,Parma,-0.5
+Livorno,76.0,4.0,Roma,-0.25
+Livorno,76.0,4.0,Sampdoria,-0.5
+Livorno,76.0,2.0,Sassuolo,1.0
+Livorno,76.0,2.0,Siena,-0.5
+Livorno,76.0,2.0,Torino,-0.5
+Livorno,76.0,4.0,Udinese,-1.0
+Manchester City,304.0,16.0,Arsenal,0.0
+Manchester City,304.0,16.0,Aston Villa,0.5
+Manchester City,304.0,4.0,Birmingham City,0.25
+Manchester City,304.0,8.0,Blackburn Rovers,0.75
+Manchester City,304.0,2.0,Blackpool,1.0
+Manchester City,304.0,8.0,Bolton Wanderers,0.625
+Manchester City,304.0,2.0,Bournemouth,1.0
+Manchester City,304.0,4.0,Burnley,0.0
+Manchester City,304.0,2.0,Cardiff City,0.0
+Manchester City,304.0,16.0,Chelsea,0.0625
+Manchester City,304.0,6.0,Crystal Palace,0.6666666666666666
+Manchester City,304.0,16.0,Everton,-0.0625
+Manchester City,304.0,12.0,Fulham,0.5
+Manchester City,304.0,8.0,Hull City,0.375
+Manchester City,304.0,4.0,Leicester City,0.25
+Manchester City,304.0,16.0,Liverpool,-0.125
+Manchester City,304.0,16.0,Manchester United,-0.125
+Manchester City,304.0,2.0,Middlesbrough,0.0
+Manchester City,304.0,14.0,Newcastle United,0.8571428571428571
+Manchester City,304.0,8.0,Norwich City,0.5
+Manchester City,304.0,4.0,Portsmouth,0.5
+Manchester City,304.0,6.0,Queens Park Rangers,0.6666666666666666
+Manchester City,304.0,2.0,Reading,1.0
+Manchester City,304.0,8.0,Southampton,0.375
+Manchester City,304.0,16.0,Stoke City,0.3125
+Manchester City,304.0,16.0,Sunderland,0.3125
+Manchester City,304.0,10.0,Swansea City,0.6
+Manchester City,304.0,16.0,Tottenham Hotspur,0.0625
+Manchester City,304.0,2.0,Watford,1.0
+Manchester City,304.0,14.0,West Bromwich Albion,0.7857142857142857
+Manchester City,304.0,14.0,West Ham United,0.35714285714285715
+Manchester City,304.0,10.0,Wigan Athletic,0.7
+Manchester City,304.0,6.0,Wolverhampton Wanderers,0.6666666666666666
+Manchester United,304.0,16.0,Arsenal,0.375
+Manchester United,304.0,16.0,Aston Villa,0.625
+Manchester United,304.0,4.0,Birmingham City,0.5
+Manchester United,304.0,8.0,Blackburn Rovers,0.5
+Manchester United,304.0,2.0,Blackpool,1.0
+Manchester United,304.0,8.0,Bolton Wanderers,0.875
+Manchester United,304.0,2.0,Bournemouth,0.0
+Manchester United,304.0,4.0,Burnley,0.25
+Manchester United,304.0,2.0,Cardiff City,0.5
+Manchester United,304.0,16.0,Chelsea,-0.125
+Manchester United,304.0,6.0,Crystal Palace,0.8333333333333334
+Manchester United,304.0,16.0,Everton,0.1875
+Manchester United,304.0,12.0,Fulham,0.5
+Manchester United,304.0,8.0,Hull City,0.875
+Manchester United,304.0,4.0,Leicester City,0.0
+Manchester United,304.0,16.0,Liverpool,0.1875
+Manchester United,304.0,16.0,Manchester City,0.125
+Manchester United,304.0,2.0,Middlesbrough,1.0
+Manchester United,304.0,14.0,Newcastle United,0.35714285714285715
+Manchester United,304.0,8.0,Norwich City,0.5
+Manchester United,304.0,4.0,Portsmouth,1.0
+Manchester United,304.0,6.0,Queens Park Rangers,1.0
+Manchester United,304.0,2.0,Reading,1.0
+Manchester United,304.0,8.0,Southampton,0.25
+Manchester United,304.0,16.0,Stoke City,0.625
+Manchester United,304.0,16.0,Sunderland,0.5625
+Manchester United,304.0,10.0,Swansea City,0.3
+Manchester United,304.0,16.0,Tottenham Hotspur,0.3125
+Manchester United,304.0,2.0,Watford,1.0
+Manchester United,304.0,14.0,West Bromwich Albion,0.35714285714285715
+Manchester United,304.0,14.0,West Ham United,0.6428571428571429
+Manchester United,304.0,10.0,Wigan Athletic,0.8
+Manchester United,304.0,6.0,Wolverhampton Wanderers,0.6666666666666666
+Middlesbrough,38.0,2.0,Arsenal,-0.5
+Middlesbrough,38.0,2.0,Aston Villa,0.5
+Middlesbrough,38.0,2.0,Blackburn Rovers,0.0
+Middlesbrough,38.0,2.0,Bolton Wanderers,-1.0
+Middlesbrough,38.0,2.0,Chelsea,-1.0
+Middlesbrough,38.0,2.0,Everton,-0.5
+Middlesbrough,38.0,2.0,Fulham,-0.5
+Middlesbrough,38.0,2.0,Hull City,0.0
+Middlesbrough,38.0,2.0,Liverpool,0.0
+Middlesbrough,38.0,2.0,Manchester City,0.0
+Middlesbrough,38.0,2.0,Manchester United,-1.0
+Middlesbrough,38.0,2.0,Newcastle United,-0.5
+Middlesbrough,38.0,2.0,Portsmouth,-0.5
+Middlesbrough,38.0,2.0,Stoke City,0.0
+Middlesbrough,38.0,2.0,Sunderland,-0.5
+Middlesbrough,38.0,2.0,Tottenham Hotspur,0.0
+Middlesbrough,38.0,2.0,West Bromwich Albion,-1.0
+Middlesbrough,38.0,2.0,West Ham United,-0.5
+Middlesbrough,38.0,2.0,Wigan Athletic,0.5
+Milan,303.0,14.0,Atalanta,0.2857142857142857
+Milan,303.0,4.0,Bari,0.5
+Milan,303.0,14.0,Bologna,0.42857142857142855
+Milan,303.0,2.0,Brescia,1.0
+Milan,303.0,14.0,Cagliari,0.7857142857142857
+Milan,303.0,2.0,Carpi,0.0
+Milan,303.0,12.0,Catania,0.75
+Milan,303.0,6.0,Cesena,0.5
+Milan,303.0,16.0,Chievo Verona,0.8125
+Milan,303.0,4.0,Empoli,0.25
+Milan,303.0,16.0,Fiorentina,0.1875
+Milan,303.0,2.0,Frosinone,0.5
+Milan,303.0,16.0,Genoa,0.1875
+Milan,303.0,6.0,Hellas Verona,0.0
+Milan,303.0,16.0,Inter,-0.1875
+Milan,303.0,16.0,Juventus,-0.375
+Milan,303.0,16.0,Lazio,0.1875
+Milan,303.0,5.0,Lecce,0.6
+Milan,303.0,4.0,Livorno,0.25
+Milan,303.0,16.0,Napoli,-0.0625
+Milan,303.0,2.0,Novara,1.0
+Milan,303.0,14.0,Palermo,0.21428571428571427
+Milan,303.0,12.0,Parma,0.4166666666666667
+Milan,303.0,2.0,Pescara,1.0
+Milan,303.0,2.0,Reggio Calabria,0.5
+Milan,303.0,16.0,Roma,-0.0625
+Milan,303.0,14.0,Sampdoria,0.2857142857142857
+Milan,303.0,6.0,Sassuolo,-0.3333333333333333
+Milan,303.0,8.0,Siena,1.0
+Milan,303.0,10.0,Torino,0.5
+Milan,303.0,16.0,Udinese,0.125
+Montpellier Hérault SC,266.0,6.0,AC Ajaccio,0.5
+Montpellier Hérault SC,266.0,2.0,AC Arles-Avignon,0.5
+Montpellier Hérault SC,266.0,6.0,AJ Auxerre,0.0
+Montpellier Hérault SC,266.0,10.0,AS Monaco,-0.6
+Montpellier Hérault SC,266.0,8.0,AS Nancy-Lorraine,0.125
+Montpellier Hérault SC,266.0,14.0,AS Saint-Étienne,-0.5714285714285714
+Montpellier Hérault SC,266.0,2.0,Angers SCO,0.0
+Montpellier Hérault SC,266.0,2.0,Dijon FCO,0.5
+Montpellier Hérault SC,266.0,4.0,ES Troyes AC,0.25
+Montpellier Hérault SC,266.0,6.0,En Avant de Guingamp,0.6666666666666666
+Montpellier Hérault SC,266.0,14.0,FC Lorient,0.21428571428571427
+Montpellier Hérault SC,266.0,2.0,FC Metz,1.0
+Montpellier Hérault SC,266.0,6.0,FC Nantes,0.16666666666666666
+Montpellier Hérault SC,266.0,10.0,FC Sochaux-Montbéliard,0.9
+Montpellier Hérault SC,266.0,2.0,GFC Ajaccio,0.0
+Montpellier Hérault SC,266.0,14.0,Girondins de Bordeaux,-0.2857142857142857
+Montpellier Hérault SC,266.0,2.0,Grenoble Foot 38,1.0
+Montpellier Hérault SC,266.0,14.0,LOSC Lille,-0.14285714285714285
+Montpellier Hérault SC,266.0,2.0,Le Mans FC,0.5
+Montpellier Hérault SC,266.0,14.0,OGC Nice,0.35714285714285715
+Montpellier Hérault SC,266.0,14.0,Olympique Lyonnais,-0.35714285714285715
+Montpellier Hérault SC,266.0,14.0,Olympique de Marseille,-0.21428571428571427
+Montpellier Hérault SC,266.0,14.0,Paris Saint-Germain,-0.2857142857142857
+Montpellier Hérault SC,266.0,6.0,RC Lens,0.16666666666666666
+Montpellier Hérault SC,266.0,8.0,SC Bastia,-0.125
+Montpellier Hérault SC,266.0,8.0,SM Caen,0.0
+Montpellier Hérault SC,266.0,6.0,Stade Brestois 29,0.5
+Montpellier Hérault SC,266.0,14.0,Stade Rennais FC,0.21428571428571427
+Montpellier Hérault SC,266.0,8.0,Stade de Reims,0.375
+Montpellier Hérault SC,266.0,14.0,Toulouse FC,0.35714285714285715
+Montpellier Hérault SC,266.0,2.0,US Boulogne Cote D'Opale,1.0
+Montpellier Hérault SC,266.0,10.0,Valenciennes FC,0.4
+Montpellier Hérault SC,266.0,8.0,Évian Thonon Gaillard FC,-0.125
+Málaga CF,304.0,16.0,Athletic Club de Bilbao,-0.125
+Málaga CF,304.0,16.0,Atlético Madrid,-0.1875
+Málaga CF,304.0,12.0,CA Osasuna,0.08333333333333333
+Málaga CF,304.0,2.0,CD Numancia,0.0
+Málaga CF,304.0,2.0,CD Tenerife,0.0
+Málaga CF,304.0,2.0,Córdoba CF,1.0
+Málaga CF,304.0,4.0,Elche CF,0.0
+Málaga CF,304.0,16.0,FC Barcelona,-0.8125
+Málaga CF,304.0,16.0,Getafe CF,0.3125
+Málaga CF,304.0,10.0,Granada CF,0.0
+Málaga CF,304.0,2.0,Hércules Club de Fútbol,0.0
+Málaga CF,304.0,12.0,Levante UD,0.25
+Málaga CF,304.0,8.0,RC Celta de Vigo,0.125
+Málaga CF,304.0,12.0,RC Deportivo de La Coruña,-0.08333333333333333
+Málaga CF,304.0,2.0,RC Recreativo,0.0
+Málaga CF,304.0,16.0,RCD Espanyol,-0.125
+Málaga CF,304.0,10.0,RCD Mallorca,0.4
+Málaga CF,304.0,8.0,Racing Santander,0.625
+Málaga CF,304.0,10.0,Rayo Vallecano,0.1
+Málaga CF,304.0,10.0,Real Betis Balompié,0.2
+Málaga CF,304.0,16.0,Real Madrid CF,-0.625
+Málaga CF,304.0,12.0,Real Sociedad,-0.16666666666666666
+Málaga CF,304.0,10.0,Real Sporting de Gijón,0.2
+Málaga CF,304.0,8.0,Real Valladolid,0.375
+Málaga CF,304.0,8.0,Real Zaragoza,0.125
+Málaga CF,304.0,4.0,SD Eibar,0.25
+Málaga CF,304.0,16.0,Sevilla FC,-0.125
+Málaga CF,304.0,10.0,UD Almería,0.0
+Málaga CF,304.0,2.0,UD Las Palmas,0.5
+Málaga CF,304.0,16.0,Valencia CF,-0.5
+Málaga CF,304.0,14.0,Villarreal CF,-0.14285714285714285
+Málaga CF,304.0,2.0,Xerez Club Deportivo,-0.5
+Napoli,301.0,14.0,Atalanta,0.14285714285714285
+Napoli,301.0,4.0,Bari,0.75
+Napoli,301.0,14.0,Bologna,0.21428571428571427
+Napoli,301.0,2.0,Brescia,0.5
+Napoli,301.0,14.0,Cagliari,0.42857142857142855
+Napoli,301.0,2.0,Carpi,0.5
+Napoli,301.0,11.0,Catania,0.36363636363636365
+Napoli,301.0,6.0,Cesena,0.8333333333333334
+Napoli,301.0,16.0,Chievo Verona,0.1875
+Napoli,301.0,4.0,Empoli,0.0
+Napoli,301.0,16.0,Fiorentina,0.3125
+Napoli,301.0,2.0,Frosinone,1.0
+Napoli,301.0,16.0,Genoa,0.3125
+Napoli,301.0,6.0,Hellas Verona,0.6666666666666666
+Napoli,301.0,16.0,Inter,0.0625
+Napoli,301.0,15.0,Juventus,0.0
+Napoli,301.0,15.0,Lazio,0.3333333333333333
+Napoli,301.0,6.0,Lecce,0.5
+Napoli,301.0,4.0,Livorno,0.75
+Napoli,301.0,16.0,Milan,0.0625
+Napoli,301.0,2.0,Novara,0.5
+Napoli,301.0,14.0,Palermo,0.2857142857142857
+Napoli,301.0,12.0,Parma,0.16666666666666666
+Napoli,301.0,2.0,Pescara,1.0
+Napoli,301.0,2.0,Reggio Calabria,0.5
+Napoli,301.0,16.0,Roma,-0.125
+Napoli,301.0,14.0,Sampdoria,0.5714285714285714
+Napoli,301.0,6.0,Sassuolo,0.5
+Napoli,301.0,8.0,Siena,0.5
+Napoli,301.0,10.0,Torino,0.3
+Napoli,301.0,16.0,Udinese,-0.0625
+Newcastle United,266.0,14.0,Arsenal,-0.7142857142857143
+Newcastle United,266.0,14.0,Aston Villa,0.35714285714285715
+Newcastle United,266.0,2.0,Birmingham City,1.0
+Newcastle United,266.0,6.0,Blackburn Rovers,-0.16666666666666666
+Newcastle United,266.0,2.0,Blackpool,-0.5
+Newcastle United,266.0,6.0,Bolton Wanderers,0.16666666666666666
+Newcastle United,266.0,2.0,Bournemouth,0.0
+Newcastle United,266.0,2.0,Burnley,0.0
+Newcastle United,266.0,2.0,Cardiff City,1.0
+Newcastle United,266.0,14.0,Chelsea,-0.14285714285714285
+Newcastle United,266.0,6.0,Crystal Palace,0.3333333333333333
+Newcastle United,266.0,14.0,Everton,-0.35714285714285715
+Newcastle United,266.0,10.0,Fulham,-0.3
+Newcastle United,266.0,6.0,Hull City,0.0
+Newcastle United,266.0,4.0,Leicester City,-0.5
+Newcastle United,266.0,14.0,Liverpool,-0.21428571428571427
+Newcastle United,266.0,14.0,Manchester City,-0.8571428571428571
+Newcastle United,266.0,14.0,Manchester United,-0.35714285714285715
+Newcastle United,266.0,2.0,Middlesbrough,0.5
+Newcastle United,266.0,8.0,Norwich City,0.25
+Newcastle United,266.0,2.0,Portsmouth,0.5
+Newcastle United,266.0,6.0,Queens Park Rangers,0.5
+Newcastle United,266.0,2.0,Reading,-0.5
+Newcastle United,266.0,8.0,Southampton,-0.5
+Newcastle United,266.0,14.0,Stoke City,-0.14285714285714285
+Newcastle United,266.0,14.0,Sunderland,-0.35714285714285715
+Newcastle United,266.0,10.0,Swansea City,-0.4
+Newcastle United,266.0,14.0,Tottenham Hotspur,0.0
+Newcastle United,266.0,2.0,Watford,-1.0
+Newcastle United,266.0,14.0,West Bromwich Albion,0.21428571428571427
+Newcastle United,266.0,12.0,West Ham United,0.08333333333333333
+Newcastle United,266.0,8.0,Wigan Athletic,0.0
+Newcastle United,266.0,4.0,Wolverhampton Wanderers,0.5
+Norwich City,152.0,8.0,Arsenal,-0.5
+Norwich City,152.0,8.0,Aston Villa,-0.375
+Norwich City,152.0,2.0,Blackburn Rovers,-0.5
+Norwich City,152.0,2.0,Bolton Wanderers,1.0
+Norwich City,152.0,2.0,Bournemouth,0.0
+Norwich City,152.0,2.0,Cardiff City,-0.5
+Norwich City,152.0,8.0,Chelsea,-0.75
+Norwich City,152.0,4.0,Crystal Palace,-0.25
+Norwich City,152.0,8.0,Everton,-0.125
+Norwich City,152.0,6.0,Fulham,-0.6666666666666666
+Norwich City,152.0,2.0,Hull City,0.0
+Norwich City,152.0,2.0,Leicester City,-1.0
+Norwich City,152.0,8.0,Liverpool,-0.75
+Norwich City,152.0,8.0,Manchester City,-0.5
+Norwich City,152.0,8.0,Manchester United,-0.5
+Norwich City,152.0,8.0,Newcastle United,-0.25
+Norwich City,152.0,4.0,Queens Park Rangers,0.5
+Norwich City,152.0,2.0,Reading,0.5
+Norwich City,152.0,6.0,Southampton,0.0
+Norwich City,152.0,8.0,Stoke City,-0.125
+Norwich City,152.0,8.0,Sunderland,0.25
+Norwich City,152.0,8.0,Swansea City,0.25
+Norwich City,152.0,8.0,Tottenham Hotspur,-0.25
+Norwich City,152.0,2.0,Watford,0.0
+Norwich City,152.0,8.0,West Bromwich Albion,0.0
+Norwich City,152.0,6.0,West Ham United,-0.16666666666666666
+Norwich City,152.0,4.0,Wigan Athletic,0.0
+Norwich City,152.0,2.0,Wolverhampton Wanderers,0.5
+Novara,36.0,2.0,Atalanta,-0.5
+Novara,36.0,1.0,Bologna,-1.0
+Novara,36.0,2.0,Cagliari,-0.5
+Novara,36.0,2.0,Catania,-0.5
+Novara,36.0,2.0,Cesena,0.0
+Novara,36.0,2.0,Chievo Verona,-0.5
+Novara,36.0,2.0,Fiorentina,-0.5
+Novara,36.0,2.0,Genoa,-0.5
+Novara,36.0,2.0,Inter,1.0
+Novara,36.0,2.0,Juventus,-1.0
+Novara,36.0,2.0,Lazio,0.0
+Novara,36.0,2.0,Lecce,0.0
+Novara,36.0,2.0,Milan,-1.0
+Novara,36.0,2.0,Napoli,-0.5
+Novara,36.0,2.0,Palermo,-0.5
+Novara,36.0,2.0,Parma,0.0
+Novara,36.0,2.0,Roma,-1.0
+Novara,36.0,2.0,Siena,0.5
+Novara,36.0,1.0,Udinese,-1.0
+OGC Nice,304.0,6.0,AC Ajaccio,0.3333333333333333
+OGC Nice,304.0,2.0,AC Arles-Avignon,0.5
+OGC Nice,304.0,8.0,AJ Auxerre,0.0
+OGC Nice,304.0,12.0,AS Monaco,-0.3333333333333333
+OGC Nice,304.0,10.0,AS Nancy-Lorraine,-0.2
+OGC Nice,304.0,16.0,AS Saint-Étienne,0.25
+OGC Nice,304.0,2.0,Angers SCO,0.5
+OGC Nice,304.0,2.0,Dijon FCO,-0.5
+OGC Nice,304.0,4.0,ES Troyes AC,0.5
+OGC Nice,304.0,6.0,En Avant de Guingamp,0.0
+OGC Nice,304.0,16.0,FC Lorient,0.25
+OGC Nice,304.0,2.0,FC Metz,0.5
+OGC Nice,304.0,8.0,FC Nantes,-0.5
+OGC Nice,304.0,12.0,FC Sochaux-Montbéliard,-0.08333333333333333
+OGC Nice,304.0,2.0,GFC Ajaccio,0.0
+OGC Nice,304.0,16.0,Girondins de Bordeaux,-0.0625
+OGC Nice,304.0,4.0,Grenoble Foot 38,0.25
+OGC Nice,304.0,16.0,LOSC Lille,0.0625
+OGC Nice,304.0,2.0,Le Havre AC,-0.5
+OGC Nice,304.0,4.0,Le Mans FC,0.75
+OGC Nice,304.0,14.0,Montpellier Hérault SC,-0.35714285714285715
+OGC Nice,304.0,16.0,Olympique Lyonnais,-0.3125
+OGC Nice,304.0,16.0,Olympique de Marseille,-0.1875
+OGC Nice,304.0,16.0,Paris Saint-Germain,-0.375
+OGC Nice,304.0,6.0,RC Lens,-0.3333333333333333
+OGC Nice,304.0,8.0,SC Bastia,-0.125
+OGC Nice,304.0,10.0,SM Caen,0.1
+OGC Nice,304.0,6.0,Stade Brestois 29,0.16666666666666666
+OGC Nice,304.0,16.0,Stade Rennais FC,-0.0625
+OGC Nice,304.0,8.0,Stade de Reims,0.25
+OGC Nice,304.0,16.0,Toulouse FC,0.25
+OGC Nice,304.0,2.0,US Boulogne Cote D'Opale,0.0
+OGC Nice,304.0,12.0,Valenciennes FC,0.0
+OGC Nice,304.0,8.0,Évian Thonon Gaillard FC,-0.25
+Olympique Lyonnais,304.0,6.0,AC Ajaccio,0.0
+Olympique Lyonnais,304.0,2.0,AC Arles-Avignon,0.5
+Olympique Lyonnais,304.0,8.0,AJ Auxerre,0.25
+Olympique Lyonnais,304.0,12.0,AS Monaco,0.25
+Olympique Lyonnais,304.0,10.0,AS Nancy-Lorraine,0.7
+Olympique Lyonnais,304.0,16.0,AS Saint-Étienne,0.25
+Olympique Lyonnais,304.0,2.0,Angers SCO,0.0
+Olympique Lyonnais,304.0,2.0,Dijon FCO,1.0
+Olympique Lyonnais,304.0,4.0,ES Troyes AC,1.0
+Olympique Lyonnais,304.0,6.0,En Avant de Guingamp,1.0
+Olympique Lyonnais,304.0,16.0,FC Lorient,0.375
+Olympique Lyonnais,304.0,2.0,FC Metz,0.0
+Olympique Lyonnais,304.0,8.0,FC Nantes,0.5
+Olympique Lyonnais,304.0,12.0,FC Sochaux-Montbéliard,0.4166666666666667
+Olympique Lyonnais,304.0,2.0,GFC Ajaccio,0.0
+Olympique Lyonnais,304.0,16.0,Girondins de Bordeaux,0.0
+Olympique Lyonnais,304.0,4.0,Grenoble Foot 38,0.75
+Olympique Lyonnais,304.0,16.0,LOSC Lille,-0.1875
+Olympique Lyonnais,304.0,2.0,Le Havre AC,1.0
+Olympique Lyonnais,304.0,4.0,Le Mans FC,0.75
+Olympique Lyonnais,304.0,14.0,Montpellier Hérault SC,0.35714285714285715
+Olympique Lyonnais,304.0,16.0,OGC Nice,0.3125
+Olympique Lyonnais,304.0,16.0,Olympique de Marseille,0.1875
+Olympique Lyonnais,304.0,16.0,Paris Saint-Germain,-0.25
+Olympique Lyonnais,304.0,6.0,RC Lens,0.6666666666666666
+Olympique Lyonnais,304.0,8.0,SC Bastia,0.375
+Olympique Lyonnais,304.0,10.0,SM Caen,0.1
+Olympique Lyonnais,304.0,6.0,Stade Brestois 29,0.3333333333333333
+Olympique Lyonnais,304.0,16.0,Stade Rennais FC,0.0625
+Olympique Lyonnais,304.0,8.0,Stade de Reims,0.25
+Olympique Lyonnais,304.0,16.0,Toulouse FC,0.25
+Olympique Lyonnais,304.0,2.0,US Boulogne Cote D'Opale,0.5
+Olympique Lyonnais,304.0,12.0,Valenciennes FC,0.16666666666666666
+Olympique Lyonnais,304.0,8.0,Évian Thonon Gaillard FC,0.5
+Olympique de Marseille,304.0,6.0,AC Ajaccio,0.5
+Olympique de Marseille,304.0,2.0,AC Arles-Avignon,1.0
+Olympique de Marseille,304.0,8.0,AJ Auxerre,0.25
+Olympique de Marseille,304.0,12.0,AS Monaco,-0.16666666666666666
+Olympique de Marseille,304.0,10.0,AS Nancy-Lorraine,0.6
+Olympique de Marseille,304.0,16.0,AS Saint-Étienne,0.4375
+Olympique de Marseille,304.0,2.0,Angers SCO,0.0
+Olympique de Marseille,304.0,2.0,Dijon FCO,0.0
+Olympique de Marseille,304.0,4.0,ES Troyes AC,0.25
+Olympique de Marseille,304.0,6.0,En Avant de Guingamp,0.5
+Olympique de Marseille,304.0,16.0,FC Lorient,0.1875
+Olympique de Marseille,304.0,2.0,FC Metz,1.0
+Olympique de Marseille,304.0,8.0,FC Nantes,0.125
+Olympique de Marseille,304.0,12.0,FC Sochaux-Montbéliard,0.3333333333333333
+Olympique de Marseille,304.0,2.0,GFC Ajaccio,0.0
+Olympique de Marseille,304.0,16.0,Girondins de Bordeaux,0.0625
+Olympique de Marseille,304.0,4.0,Grenoble Foot 38,1.0
+Olympique de Marseille,304.0,16.0,LOSC Lille,0.25
+Olympique de Marseille,304.0,2.0,Le Havre AC,1.0
+Olympique de Marseille,304.0,4.0,Le Mans FC,0.5
+Olympique de Marseille,304.0,14.0,Montpellier Hérault SC,0.21428571428571427
+Olympique de Marseille,304.0,16.0,OGC Nice,0.1875
+Olympique de Marseille,304.0,16.0,Olympique Lyonnais,-0.1875
+Olympique de Marseille,304.0,16.0,Paris Saint-Germain,-0.3125
+Olympique de Marseille,304.0,6.0,RC Lens,0.5
+Olympique de Marseille,304.0,8.0,SC Bastia,0.5
+Olympique de Marseille,304.0,10.0,SM Caen,0.2
+Olympique de Marseille,304.0,6.0,Stade Brestois 29,0.3333333333333333
+Olympique de Marseille,304.0,16.0,Stade Rennais FC,0.25
+Olympique de Marseille,304.0,8.0,Stade de Reims,0.125
+Olympique de Marseille,304.0,16.0,Toulouse FC,0.25
+Olympique de Marseille,304.0,2.0,US Boulogne Cote D'Opale,1.0
+Olympique de Marseille,304.0,12.0,Valenciennes FC,0.16666666666666666
+Olympique de Marseille,304.0,8.0,Évian Thonon Gaillard FC,0.625
+Palermo,266.0,12.0,Atalanta,-0.08333333333333333
+Palermo,266.0,4.0,Bari,0.0
+Palermo,266.0,12.0,Bologna,0.25
+Palermo,266.0,2.0,Brescia,0.0
+Palermo,266.0,12.0,Cagliari,0.16666666666666666
+Palermo,266.0,2.0,Carpi,0.0
+Palermo,266.0,10.0,Catania,-0.3
+Palermo,266.0,6.0,Cesena,0.16666666666666666
+Palermo,266.0,14.0,Chievo Verona,-0.07142857142857142
+Palermo,266.0,4.0,Empoli,-0.5
+Palermo,266.0,14.0,Fiorentina,-0.2857142857142857
+Palermo,266.0,2.0,Frosinone,1.0
+Palermo,266.0,14.0,Genoa,0.07142857142857142
+Palermo,266.0,4.0,Hellas Verona,0.5
+Palermo,266.0,14.0,Inter,-0.35714285714285715
+Palermo,266.0,14.0,Juventus,-0.2857142857142857
+Palermo,266.0,14.0,Lazio,-0.2857142857142857
+Palermo,266.0,6.0,Lecce,0.5
+Palermo,266.0,2.0,Livorno,1.0
+Palermo,266.0,14.0,Milan,-0.21428571428571427
+Palermo,266.0,14.0,Napoli,-0.2857142857142857
+Palermo,266.0,2.0,Novara,0.5
+Palermo,266.0,10.0,Parma,-0.3
+Palermo,266.0,2.0,Pescara,-0.5
+Palermo,266.0,2.0,Reggio Calabria,0.5
+Palermo,266.0,14.0,Roma,-0.14285714285714285
+Palermo,266.0,12.0,Sampdoria,0.4166666666666667
+Palermo,266.0,4.0,Sassuolo,0.0
+Palermo,266.0,8.0,Siena,0.125
+Palermo,266.0,8.0,Torino,-0.25
+Palermo,266.0,14.0,Udinese,-0.07142857142857142
+Paris Saint-Germain,304.0,6.0,AC Ajaccio,0.5
+Paris Saint-Germain,304.0,2.0,AC Arles-Avignon,1.0
+Paris Saint-Germain,304.0,8.0,AJ Auxerre,0.0
+Paris Saint-Germain,304.0,12.0,AS Monaco,-0.25
+Paris Saint-Germain,304.0,10.0,AS Nancy-Lorraine,0.0
+Paris Saint-Germain,304.0,16.0,AS Saint-Étienne,0.5
+Paris Saint-Germain,304.0,2.0,Angers SCO,0.5
+Paris Saint-Germain,304.0,2.0,Dijon FCO,1.0
+Paris Saint-Germain,304.0,4.0,ES Troyes AC,1.0
+Paris Saint-Germain,304.0,6.0,En Avant de Guingamp,0.5
+Paris Saint-Germain,304.0,16.0,FC Lorient,0.5
+Paris Saint-Germain,304.0,2.0,FC Metz,1.0
+Paris Saint-Germain,304.0,8.0,FC Nantes,1.0
+Paris Saint-Germain,304.0,12.0,FC Sochaux-Montbéliard,0.5
+Paris Saint-Germain,304.0,2.0,GFC Ajaccio,1.0
+Paris Saint-Germain,304.0,16.0,Girondins de Bordeaux,0.0625
+Paris Saint-Germain,304.0,4.0,Grenoble Foot 38,-0.25
+Paris Saint-Germain,304.0,16.0,LOSC Lille,0.3125
+Paris Saint-Germain,304.0,2.0,Le Havre AC,1.0
+Paris Saint-Germain,304.0,4.0,Le Mans FC,0.5
+Paris Saint-Germain,304.0,14.0,Montpellier Hérault SC,0.2857142857142857
+Paris Saint-Germain,304.0,16.0,OGC Nice,0.375
+Paris Saint-Germain,304.0,16.0,Olympique Lyonnais,0.25
+Paris Saint-Germain,304.0,16.0,Olympique de Marseille,0.3125
+Paris Saint-Germain,304.0,6.0,RC Lens,0.5
+Paris Saint-Germain,304.0,8.0,SC Bastia,0.75
+Paris Saint-Germain,304.0,10.0,SM Caen,0.8
+Paris Saint-Germain,304.0,6.0,Stade Brestois 29,0.8333333333333334
+Paris Saint-Germain,304.0,16.0,Stade Rennais FC,0.0
+Paris Saint-Germain,304.0,8.0,Stade de Reims,0.5
+Paris Saint-Germain,304.0,16.0,Toulouse FC,0.5625
+Paris Saint-Germain,304.0,2.0,US Boulogne Cote D'Opale,1.0
+Paris Saint-Germain,304.0,12.0,Valenciennes FC,0.5833333333333334
+Paris Saint-Germain,304.0,8.0,Évian Thonon Gaillard FC,0.5
+Parma,226.0,9.0,Atalanta,0.0
+Parma,226.0,4.0,Bari,0.25
+Parma,226.0,10.0,Bologna,0.1
+Parma,226.0,2.0,Brescia,0.0
+Parma,226.0,12.0,Cagliari,-0.16666666666666666
+Parma,226.0,10.0,Catania,-0.2
+Parma,226.0,6.0,Cesena,-0.16666666666666666
+Parma,226.0,12.0,Chievo Verona,0.4166666666666667
+Parma,226.0,2.0,Empoli,-0.5
+Parma,226.0,11.0,Fiorentina,-0.18181818181818182
+Parma,226.0,12.0,Genoa,-0.3333333333333333
+Parma,226.0,4.0,Hellas Verona,-0.25
+Parma,226.0,12.0,Inter,-0.08333333333333333
+Parma,226.0,12.0,Juventus,-0.16666666666666666
+Parma,226.0,12.0,Lazio,-0.4166666666666667
+Parma,226.0,4.0,Lecce,0.0
+Parma,226.0,4.0,Livorno,0.5
+Parma,226.0,12.0,Milan,-0.4166666666666667
+Parma,226.0,12.0,Napoli,-0.16666666666666666
+Parma,226.0,2.0,Novara,0.0
+Parma,226.0,10.0,Palermo,0.3
+Parma,226.0,2.0,Pescara,0.0
+Parma,226.0,12.0,Roma,-0.5833333333333334
+Parma,226.0,10.0,Sampdoria,0.3
+Parma,226.0,4.0,Sassuolo,0.0
+Parma,226.0,6.0,Siena,0.5
+Parma,226.0,6.0,Torino,0.16666666666666666
+Parma,226.0,12.0,Udinese,0.08333333333333333
+Pescara,38.0,2.0,Atalanta,-0.5
+Pescara,38.0,2.0,Bologna,-0.5
+Pescara,38.0,2.0,Cagliari,0.0
+Pescara,38.0,2.0,Catania,0.0
+Pescara,38.0,2.0,Chievo Verona,-1.0
+Pescara,38.0,2.0,Fiorentina,0.0
+Pescara,38.0,2.0,Genoa,0.0
+Pescara,38.0,2.0,Inter,-1.0
+Pescara,38.0,2.0,Juventus,-1.0
+Pescara,38.0,2.0,Lazio,-1.0
+Pescara,38.0,2.0,Milan,-1.0
+Pescara,38.0,2.0,Napoli,-1.0
+Pescara,38.0,2.0,Palermo,0.5
+Pescara,38.0,2.0,Parma,0.0
+Pescara,38.0,2.0,Roma,-0.5
+Pescara,38.0,2.0,Sampdoria,-1.0
+Pescara,38.0,2.0,Siena,-1.0
+Pescara,38.0,2.0,Torino,-1.0
+Pescara,38.0,2.0,Udinese,-1.0
+Portsmouth,76.0,4.0,Arsenal,-1.0
+Portsmouth,76.0,4.0,Aston Villa,-0.75
+Portsmouth,76.0,2.0,Birmingham City,-1.0
+Portsmouth,76.0,4.0,Blackburn Rovers,-0.25
+Portsmouth,76.0,4.0,Bolton Wanderers,-0.25
+Portsmouth,76.0,2.0,Burnley,1.0
+Portsmouth,76.0,4.0,Chelsea,-1.0
+Portsmouth,76.0,4.0,Everton,0.0
+Portsmouth,76.0,4.0,Fulham,-0.75
+Portsmouth,76.0,4.0,Hull City,0.25
+Portsmouth,76.0,4.0,Liverpool,-0.5
+Portsmouth,76.0,4.0,Manchester City,-0.5
+Portsmouth,76.0,4.0,Manchester United,-1.0
+Portsmouth,76.0,2.0,Middlesbrough,0.5
+Portsmouth,76.0,2.0,Newcastle United,-0.5
+Portsmouth,76.0,4.0,Stoke City,-0.25
+Portsmouth,76.0,4.0,Sunderland,0.5
+Portsmouth,76.0,4.0,Tottenham Hotspur,-0.25
+Portsmouth,76.0,2.0,West Bromwich Albion,0.0
+Portsmouth,76.0,4.0,West Ham United,-0.5
+Portsmouth,76.0,4.0,Wigan Athletic,-0.25
+Portsmouth,76.0,2.0,Wolverhampton Wanderers,1.0
+Queens Park Rangers,114.0,6.0,Arsenal,-0.6666666666666666
+Queens Park Rangers,114.0,6.0,Aston Villa,0.0
+Queens Park Rangers,114.0,2.0,Blackburn Rovers,-0.5
+Queens Park Rangers,114.0,2.0,Bolton Wanderers,-1.0
+Queens Park Rangers,114.0,2.0,Burnley,0.0
+Queens Park Rangers,114.0,6.0,Chelsea,-0.16666666666666666
+Queens Park Rangers,114.0,2.0,Crystal Palace,-0.5
+Queens Park Rangers,114.0,6.0,Everton,-0.3333333333333333
+Queens Park Rangers,114.0,4.0,Fulham,-0.5
+Queens Park Rangers,114.0,2.0,Hull City,-1.0
+Queens Park Rangers,114.0,2.0,Leicester City,0.0
+Queens Park Rangers,114.0,6.0,Liverpool,-0.6666666666666666
+Queens Park Rangers,114.0,6.0,Manchester City,-0.6666666666666666
+Queens Park Rangers,114.0,6.0,Manchester United,-1.0
+Queens Park Rangers,114.0,6.0,Newcastle United,-0.5
+Queens Park Rangers,114.0,4.0,Norwich City,-0.5
+Queens Park Rangers,114.0,2.0,Reading,0.0
+Queens Park Rangers,114.0,4.0,Southampton,-0.5
+Queens Park Rangers,114.0,6.0,Stoke City,-0.16666666666666666
+Queens Park Rangers,114.0,6.0,Sunderland,0.16666666666666666
+Queens Park Rangers,114.0,6.0,Swansea City,-0.3333333333333333
+Queens Park Rangers,114.0,6.0,Tottenham Hotspur,-0.5
+Queens Park Rangers,114.0,6.0,West Bromwich Albion,-0.16666666666666666
+Queens Park Rangers,114.0,4.0,West Ham United,-0.5
+Queens Park Rangers,114.0,4.0,Wigan Athletic,0.0
+Queens Park Rangers,114.0,2.0,Wolverhampton Wanderers,0.0
+RC Celta de Vigo,152.0,8.0,Athletic Club de Bilbao,-0.625
+RC Celta de Vigo,152.0,8.0,Atlético Madrid,-0.625
+RC Celta de Vigo,152.0,4.0,CA Osasuna,0.25
+RC Celta de Vigo,152.0,2.0,Córdoba CF,0.5
+RC Celta de Vigo,152.0,4.0,Elche CF,-0.25
+RC Celta de Vigo,152.0,8.0,FC Barcelona,-0.375
+RC Celta de Vigo,152.0,8.0,Getafe CF,0.0
+RC Celta de Vigo,152.0,8.0,Granada CF,0.375
+RC Celta de Vigo,152.0,8.0,Levante UD,0.625
+RC Celta de Vigo,152.0,8.0,Málaga CF,-0.125
+RC Celta de Vigo,152.0,6.0,RC Deportivo de La Coruña,0.0
+RC Celta de Vigo,152.0,8.0,RCD Espanyol,0.0
+RC Celta de Vigo,152.0,2.0,RCD Mallorca,-0.5
+RC Celta de Vigo,152.0,8.0,Rayo Vallecano,-0.5
+RC Celta de Vigo,152.0,6.0,Real Betis Balompié,0.0
+RC Celta de Vigo,152.0,8.0,Real Madrid CF,-0.75
+RC Celta de Vigo,152.0,8.0,Real Sociedad,0.0
+RC Celta de Vigo,152.0,2.0,Real Sporting de Gijón,1.0
+RC Celta de Vigo,152.0,4.0,Real Valladolid,0.5
+RC Celta de Vigo,152.0,2.0,Real Zaragoza,1.0
+RC Celta de Vigo,152.0,4.0,SD Eibar,0.25
+RC Celta de Vigo,152.0,8.0,Sevilla FC,0.25
+RC Celta de Vigo,152.0,4.0,UD Almería,0.25
+RC Celta de Vigo,152.0,2.0,UD Las Palmas,-0.5
+RC Celta de Vigo,152.0,8.0,Valencia CF,-0.25
+RC Celta de Vigo,152.0,6.0,Villarreal CF,0.0
+RC Deportivo de La Coruña,228.0,12.0,Athletic Club de Bilbao,0.3333333333333333
+RC Deportivo de La Coruña,228.0,12.0,Atlético Madrid,-0.6666666666666666
+RC Deportivo de La Coruña,228.0,8.0,CA Osasuna,0.0
+RC Deportivo de La Coruña,228.0,2.0,CD Numancia,1.0
+RC Deportivo de La Coruña,228.0,2.0,CD Tenerife,1.0
+RC Deportivo de La Coruña,228.0,2.0,Córdoba CF,0.0
+RC Deportivo de La Coruña,228.0,2.0,Elche CF,0.0
+RC Deportivo de La Coruña,228.0,12.0,FC Barcelona,-0.6666666666666666
+RC Deportivo de La Coruña,228.0,12.0,Getafe CF,-0.3333333333333333
+RC Deportivo de La Coruña,228.0,6.0,Granada CF,-0.5
+RC Deportivo de La Coruña,228.0,2.0,Hércules Club de Fútbol,0.0
+RC Deportivo de La Coruña,228.0,8.0,Levante UD,0.25
+RC Deportivo de La Coruña,228.0,12.0,Málaga CF,0.08333333333333333
+RC Deportivo de La Coruña,228.0,6.0,RC Celta de Vigo,0.0
+RC Deportivo de La Coruña,228.0,2.0,RC Recreativo,1.0
+RC Deportivo de La Coruña,228.0,12.0,RCD Espanyol,-0.16666666666666666
+RC Deportivo de La Coruña,228.0,8.0,RCD Mallorca,0.375
+RC Deportivo de La Coruña,228.0,6.0,Racing Santander,0.3333333333333333
+RC Deportivo de La Coruña,228.0,6.0,Rayo Vallecano,0.16666666666666666
+RC Deportivo de La Coruña,228.0,6.0,Real Betis Balompié,0.16666666666666666
+RC Deportivo de La Coruña,228.0,12.0,Real Madrid CF,-0.75
+RC Deportivo de La Coruña,228.0,8.0,Real Sociedad,-0.125
+RC Deportivo de La Coruña,228.0,8.0,Real Sporting de Gijón,-0.5
+RC Deportivo de La Coruña,228.0,6.0,Real Valladolid,-0.5
+RC Deportivo de La Coruña,228.0,6.0,Real Zaragoza,-0.3333333333333333
+RC Deportivo de La Coruña,228.0,4.0,SD Eibar,0.75
+RC Deportivo de La Coruña,228.0,12.0,Sevilla FC,-0.4166666666666667
+RC Deportivo de La Coruña,228.0,8.0,UD Almería,0.0
+RC Deportivo de La Coruña,228.0,2.0,UD Las Palmas,0.0
+RC Deportivo de La Coruña,228.0,12.0,Valencia CF,-0.4166666666666667
+RC Deportivo de La Coruña,228.0,10.0,Villarreal CF,-0.1
+RC Deportivo de La Coruña,228.0,2.0,Xerez Club Deportivo,1.0
+RC Lens,114.0,2.0,AC Arles-Avignon,0.0
+RC Lens,114.0,4.0,AJ Auxerre,0.25
+RC Lens,114.0,6.0,AS Monaco,-0.3333333333333333
+RC Lens,114.0,4.0,AS Nancy-Lorraine,-0.5
+RC Lens,114.0,6.0,AS Saint-Étienne,0.16666666666666666
+RC Lens,114.0,2.0,En Avant de Guingamp,-1.0
+RC Lens,114.0,6.0,FC Lorient,-0.6666666666666666
+RC Lens,114.0,2.0,FC Metz,0.0
+RC Lens,114.0,2.0,FC Nantes,0.0
+RC Lens,114.0,4.0,FC Sochaux-Montbéliard,-0.25
+RC Lens,114.0,6.0,Girondins de Bordeaux,-0.16666666666666666
+RC Lens,114.0,2.0,Grenoble Foot 38,0.5
+RC Lens,114.0,6.0,LOSC Lille,-0.6666666666666666
+RC Lens,114.0,2.0,Le Mans FC,0.0
+RC Lens,114.0,6.0,Montpellier Hérault SC,-0.16666666666666666
+RC Lens,114.0,6.0,OGC Nice,0.3333333333333333
+RC Lens,114.0,6.0,Olympique Lyonnais,-0.6666666666666666
+RC Lens,114.0,6.0,Olympique de Marseille,-0.5
+RC Lens,114.0,6.0,Paris Saint-Germain,-0.5
+RC Lens,114.0,2.0,SC Bastia,0.0
+RC Lens,114.0,4.0,SM Caen,0.0
+RC Lens,114.0,2.0,Stade Brestois 29,-0.5
+RC Lens,114.0,6.0,Stade Rennais FC,-0.5
+RC Lens,114.0,2.0,Stade de Reims,0.5
+RC Lens,114.0,6.0,Toulouse FC,-0.16666666666666666
+RC Lens,114.0,2.0,US Boulogne Cote D'Opale,0.0
+RC Lens,114.0,4.0,Valenciennes FC,0.0
+RC Lens,114.0,2.0,Évian Thonon Gaillard FC,-1.0
+RC Recreativo,38.0,2.0,Athletic Club de Bilbao,0.0
+RC Recreativo,38.0,2.0,Atlético Madrid,-1.0
+RC Recreativo,38.0,2.0,CA Osasuna,1.0
+RC Recreativo,38.0,2.0,CD Numancia,0.0
+RC Recreativo,38.0,2.0,FC Barcelona,-1.0
+RC Recreativo,38.0,2.0,Getafe CF,-0.5
+RC Recreativo,38.0,2.0,Málaga CF,0.0
+RC Recreativo,38.0,2.0,RC Deportivo de La Coruña,-1.0
+RC Recreativo,38.0,2.0,RCD Espanyol,-0.5
+RC Recreativo,38.0,2.0,RCD Mallorca,0.0
+RC Recreativo,38.0,2.0,Racing Santander,-0.5
+RC Recreativo,38.0,2.0,Real Betis Balompié,1.0
+RC Recreativo,38.0,2.0,Real Madrid CF,-1.0
+RC Recreativo,38.0,2.0,Real Sporting de Gijón,0.0
+RC Recreativo,38.0,2.0,Real Valladolid,-0.5
+RC Recreativo,38.0,2.0,Sevilla FC,-1.0
+RC Recreativo,38.0,2.0,UD Almería,-0.5
+RC Recreativo,38.0,2.0,Valencia CF,0.0
+RC Recreativo,38.0,2.0,Villarreal CF,-1.0
+RCD Espanyol,304.0,16.0,Athletic Club de Bilbao,0.3125
+RCD Espanyol,304.0,16.0,Atlético Madrid,-0.375
+RCD Espanyol,304.0,12.0,CA Osasuna,-0.25
+RCD Espanyol,304.0,2.0,CD Numancia,-0.5
+RCD Espanyol,304.0,2.0,CD Tenerife,0.0
+RCD Espanyol,304.0,2.0,Córdoba CF,0.5
+RCD Espanyol,304.0,4.0,Elche CF,-0.25
+RCD Espanyol,304.0,16.0,FC Barcelona,-0.6875
+RCD Espanyol,304.0,16.0,Getafe CF,0.0625
+RCD Espanyol,304.0,10.0,Granada CF,0.3
+RCD Espanyol,304.0,2.0,Hércules Club de Fútbol,0.5
+RCD Espanyol,304.0,12.0,Levante UD,-0.25
+RCD Espanyol,304.0,16.0,Málaga CF,0.125
+RCD Espanyol,304.0,8.0,RC Celta de Vigo,0.0
+RCD Espanyol,304.0,12.0,RC Deportivo de La Coruña,0.16666666666666666
+RCD Espanyol,304.0,2.0,RC Recreativo,0.5
+RCD Espanyol,304.0,10.0,RCD Mallorca,-0.2
+RCD Espanyol,304.0,8.0,Racing Santander,-0.125
+RCD Espanyol,304.0,10.0,Rayo Vallecano,0.4
+RCD Espanyol,304.0,10.0,Real Betis Balompié,0.1
+RCD Espanyol,304.0,16.0,Real Madrid CF,-0.8125
+RCD Espanyol,304.0,12.0,Real Sociedad,-0.08333333333333333
+RCD Espanyol,304.0,10.0,Real Sporting de Gijón,-0.1
+RCD Espanyol,304.0,8.0,Real Valladolid,0.125
+RCD Espanyol,304.0,8.0,Real Zaragoza,-0.375
+RCD Espanyol,304.0,4.0,SD Eibar,0.0
+RCD Espanyol,304.0,16.0,Sevilla FC,-0.375
+RCD Espanyol,304.0,10.0,UD Almería,0.3
+RCD Espanyol,304.0,2.0,UD Las Palmas,0.0
+RCD Espanyol,304.0,16.0,Valencia CF,-0.3125
+RCD Espanyol,304.0,14.0,Villarreal CF,-0.35714285714285715
+RCD Espanyol,304.0,2.0,Xerez Club Deportivo,0.0
+RCD Mallorca,190.0,10.0,Athletic Club de Bilbao,-0.2
+RCD Mallorca,190.0,10.0,Atlético Madrid,0.0
+RCD Mallorca,190.0,10.0,CA Osasuna,0.2
+RCD Mallorca,190.0,2.0,CD Numancia,1.0
+RCD Mallorca,190.0,2.0,CD Tenerife,0.0
+RCD Mallorca,190.0,10.0,FC Barcelona,-0.7
+RCD Mallorca,190.0,10.0,Getafe CF,-0.2
+RCD Mallorca,190.0,4.0,Granada CF,0.0
+RCD Mallorca,190.0,2.0,Hércules Club de Fútbol,0.5
+RCD Mallorca,190.0,6.0,Levante UD,0.16666666666666666
+RCD Mallorca,190.0,10.0,Málaga CF,-0.4
+RCD Mallorca,190.0,2.0,RC Celta de Vigo,0.5
+RCD Mallorca,190.0,8.0,RC Deportivo de La Coruña,-0.375
+RCD Mallorca,190.0,2.0,RC Recreativo,0.0
+RCD Mallorca,190.0,10.0,RCD Espanyol,0.2
+RCD Mallorca,190.0,8.0,Racing Santander,0.375
+RCD Mallorca,190.0,4.0,Rayo Vallecano,0.25
+RCD Mallorca,190.0,6.0,Real Betis Balompié,0.16666666666666666
+RCD Mallorca,190.0,10.0,Real Madrid CF,-0.7
+RCD Mallorca,190.0,6.0,Real Sociedad,0.0
+RCD Mallorca,190.0,8.0,Real Sporting de Gijón,-0.25
+RCD Mallorca,190.0,6.0,Real Valladolid,0.3333333333333333
+RCD Mallorca,190.0,8.0,Real Zaragoza,0.25
+RCD Mallorca,190.0,10.0,Sevilla FC,-0.3
+RCD Mallorca,190.0,6.0,UD Almería,0.16666666666666666
+RCD Mallorca,190.0,10.0,Valencia CF,0.1
+RCD Mallorca,190.0,8.0,Villarreal CF,-0.25
+RCD Mallorca,190.0,2.0,Xerez Club Deportivo,0.0
+Racing Santander,152.0,8.0,Athletic Club de Bilbao,-0.75
+Racing Santander,152.0,8.0,Atlético Madrid,0.0
+Racing Santander,152.0,8.0,CA Osasuna,0.25
+Racing Santander,152.0,2.0,CD Numancia,0.0
+Racing Santander,152.0,2.0,CD Tenerife,0.0
+Racing Santander,152.0,8.0,FC Barcelona,-0.875
+Racing Santander,152.0,8.0,Getafe CF,-0.125
+Racing Santander,152.0,2.0,Granada CF,-0.5
+Racing Santander,152.0,2.0,Hércules Club de Fútbol,0.5
+Racing Santander,152.0,4.0,Levante UD,-0.25
+Racing Santander,152.0,8.0,Málaga CF,-0.625
+Racing Santander,152.0,6.0,RC Deportivo de La Coruña,-0.3333333333333333
+Racing Santander,152.0,2.0,RC Recreativo,0.5
+Racing Santander,152.0,8.0,RCD Espanyol,0.125
+Racing Santander,152.0,8.0,RCD Mallorca,-0.375
+Racing Santander,152.0,2.0,Rayo Vallecano,-0.5
+Racing Santander,152.0,4.0,Real Betis Balompié,-0.25
+Racing Santander,152.0,8.0,Real Madrid CF,-0.875
+Racing Santander,152.0,4.0,Real Sociedad,-0.25
+Racing Santander,152.0,8.0,Real Sporting de Gijón,0.375
+Racing Santander,152.0,4.0,Real Valladolid,0.25
+Racing Santander,152.0,6.0,Real Zaragoza,0.16666666666666666
+Racing Santander,152.0,8.0,Sevilla FC,0.125
+Racing Santander,152.0,6.0,UD Almería,-0.16666666666666666
+Racing Santander,152.0,8.0,Valencia CF,-0.375
+Racing Santander,152.0,8.0,Villarreal CF,-0.375
+Racing Santander,152.0,2.0,Xerez Club Deportivo,0.5
+Rayo Vallecano,190.0,10.0,Athletic Club de Bilbao,-0.4
+Rayo Vallecano,190.0,10.0,Atlético Madrid,-0.7
+Rayo Vallecano,190.0,6.0,CA Osasuna,0.0
+Rayo Vallecano,190.0,2.0,Córdoba CF,0.0
+Rayo Vallecano,190.0,4.0,Elche CF,-0.5
+Rayo Vallecano,190.0,10.0,FC Barcelona,-1.0
+Rayo Vallecano,190.0,10.0,Getafe CF,0.7
+Rayo Vallecano,190.0,10.0,Granada CF,0.5
+Rayo Vallecano,190.0,10.0,Levante UD,0.3
+Rayo Vallecano,190.0,10.0,Málaga CF,-0.1
+Rayo Vallecano,190.0,8.0,RC Celta de Vigo,0.5
+Rayo Vallecano,190.0,6.0,RC Deportivo de La Coruña,-0.16666666666666666
+Rayo Vallecano,190.0,10.0,RCD Espanyol,-0.4
+Rayo Vallecano,190.0,4.0,RCD Mallorca,-0.25
+Rayo Vallecano,190.0,2.0,Racing Santander,0.5
+Rayo Vallecano,190.0,8.0,Real Betis Balompié,0.5
+Rayo Vallecano,190.0,10.0,Real Madrid CF,-1.0
+Rayo Vallecano,190.0,10.0,Real Sociedad,-0.1
+Rayo Vallecano,190.0,4.0,Real Sporting de Gijón,-0.25
+Rayo Vallecano,190.0,4.0,Real Valladolid,-0.75
+Rayo Vallecano,190.0,4.0,Real Zaragoza,-0.25
+Rayo Vallecano,190.0,4.0,SD Eibar,-0.25
+Rayo Vallecano,190.0,10.0,Sevilla FC,-0.6
+Rayo Vallecano,190.0,4.0,UD Almería,1.0
+Rayo Vallecano,190.0,2.0,UD Las Palmas,1.0
+Rayo Vallecano,190.0,10.0,Valencia CF,-0.3
+Rayo Vallecano,190.0,8.0,Villarreal CF,-0.5
+Reading,38.0,2.0,Arsenal,-1.0
+Reading,38.0,2.0,Aston Villa,-1.0
+Reading,38.0,2.0,Chelsea,-0.5
+Reading,38.0,2.0,Everton,0.0
+Reading,38.0,2.0,Fulham,0.5
+Reading,38.0,2.0,Liverpool,-0.5
+Reading,38.0,2.0,Manchester City,-1.0
+Reading,38.0,2.0,Manchester United,-1.0
+Reading,38.0,2.0,Newcastle United,0.5
+Reading,38.0,2.0,Norwich City,-0.5
+Reading,38.0,2.0,Queens Park Rangers,0.0
+Reading,38.0,2.0,Southampton,-1.0
+Reading,38.0,2.0,Stoke City,-0.5
+Reading,38.0,2.0,Sunderland,0.0
+Reading,38.0,2.0,Swansea City,0.0
+Reading,38.0,2.0,Tottenham Hotspur,-1.0
+Reading,38.0,2.0,West Bromwich Albion,0.0
+Reading,38.0,2.0,West Ham United,0.0
+Reading,38.0,2.0,Wigan Athletic,-1.0
+Real Betis Balompié,190.0,10.0,Athletic Club de Bilbao,-0.3
+Real Betis Balompié,190.0,10.0,Atlético Madrid,-0.7
+Real Betis Balompié,190.0,8.0,CA Osasuna,0.0
+Real Betis Balompié,190.0,2.0,CD Numancia,0.5
+Real Betis Balompié,190.0,2.0,Elche CF,-0.5
+Real Betis Balompié,190.0,10.0,FC Barcelona,-0.8
+Real Betis Balompié,190.0,10.0,Getafe CF,0.0
+Real Betis Balompié,190.0,8.0,Granada CF,0.0
+Real Betis Balompié,190.0,8.0,Levante UD,0.25
+Real Betis Balompié,190.0,10.0,Málaga CF,-0.2
+Real Betis Balompié,190.0,6.0,RC Celta de Vigo,0.0
+Real Betis Balompié,190.0,6.0,RC Deportivo de La Coruña,-0.16666666666666666
+Real Betis Balompié,190.0,2.0,RC Recreativo,-1.0
+Real Betis Balompié,190.0,10.0,RCD Espanyol,-0.1
+Real Betis Balompié,190.0,6.0,RCD Mallorca,-0.16666666666666666
+Real Betis Balompié,190.0,4.0,Racing Santander,0.25
+Real Betis Balompié,190.0,8.0,Rayo Vallecano,-0.5
+Real Betis Balompié,190.0,10.0,Real Madrid CF,-0.7
+Real Betis Balompié,190.0,8.0,Real Sociedad,-0.25
+Real Betis Balompié,190.0,6.0,Real Sporting de Gijón,0.5
+Real Betis Balompié,190.0,6.0,Real Valladolid,0.5
+Real Betis Balompié,190.0,4.0,Real Zaragoza,1.0
+Real Betis Balompié,190.0,2.0,SD Eibar,-0.5
+Real Betis Balompié,190.0,10.0,Sevilla FC,-0.2
+Real Betis Balompié,190.0,4.0,UD Almería,-0.5
+Real Betis Balompié,190.0,2.0,UD Las Palmas,0.0
+Real Betis Balompié,190.0,10.0,Valencia CF,-0.1
+Real Betis Balompié,190.0,8.0,Villarreal CF,0.0
+Real Madrid CF,304.0,16.0,Athletic Club de Bilbao,0.6875
+Real Madrid CF,304.0,16.0,Atlético Madrid,0.3125
+Real Madrid CF,304.0,12.0,CA Osasuna,0.4166666666666667
+Real Madrid CF,304.0,2.0,CD Numancia,1.0
+Real Madrid CF,304.0,2.0,CD Tenerife,1.0
+Real Madrid CF,304.0,2.0,Córdoba CF,1.0
+Real Madrid CF,304.0,4.0,Elche CF,1.0
+Real Madrid CF,304.0,16.0,FC Barcelona,-0.375
+Real Madrid CF,304.0,16.0,Getafe CF,0.75
+Real Madrid CF,304.0,10.0,Granada CF,0.8
+Real Madrid CF,304.0,2.0,Hércules Club de Fútbol,1.0
+Real Madrid CF,304.0,12.0,Levante UD,0.75
+Real Madrid CF,304.0,16.0,Málaga CF,0.625
+Real Madrid CF,304.0,8.0,RC Celta de Vigo,0.75
+Real Madrid CF,304.0,12.0,RC Deportivo de La Coruña,0.75
+Real Madrid CF,304.0,2.0,RC Recreativo,1.0
+Real Madrid CF,304.0,16.0,RCD Espanyol,0.8125
+Real Madrid CF,304.0,10.0,RCD Mallorca,0.7
+Real Madrid CF,304.0,8.0,Racing Santander,0.875
+Real Madrid CF,304.0,10.0,Rayo Vallecano,1.0
+Real Madrid CF,304.0,10.0,Real Betis Balompié,0.7
+Real Madrid CF,304.0,12.0,Real Sociedad,0.75
+Real Madrid CF,304.0,10.0,Real Sporting de Gijón,0.6
+Real Madrid CF,304.0,8.0,Real Valladolid,0.625
+Real Madrid CF,304.0,8.0,Real Zaragoza,0.625
+Real Madrid CF,304.0,4.0,SD Eibar,1.0
+Real Madrid CF,304.0,16.0,Sevilla FC,0.375
+Real Madrid CF,304.0,10.0,UD Almería,0.8
+Real Madrid CF,304.0,2.0,UD Las Palmas,1.0
+Real Madrid CF,304.0,16.0,Valencia CF,0.4375
+Real Madrid CF,304.0,14.0,Villarreal CF,0.5
+Real Madrid CF,304.0,2.0,Xerez Club Deportivo,1.0
+Real Sociedad,228.0,12.0,Athletic Club de Bilbao,0.16666666666666666
+Real Sociedad,228.0,12.0,Atlético Madrid,-0.5833333333333334
+Real Sociedad,228.0,8.0,CA Osasuna,0.0
+Real Sociedad,228.0,2.0,Córdoba CF,0.5
+Real Sociedad,228.0,4.0,Elche CF,0.25
+Real Sociedad,228.0,12.0,FC Barcelona,-0.08333333333333333
+Real Sociedad,228.0,12.0,Getafe CF,-0.08333333333333333
+Real Sociedad,228.0,10.0,Granada CF,0.2
+Real Sociedad,228.0,2.0,Hércules Club de Fútbol,-1.0
+Real Sociedad,228.0,12.0,Levante UD,-0.16666666666666666
+Real Sociedad,228.0,12.0,Málaga CF,0.16666666666666666
+Real Sociedad,228.0,8.0,RC Celta de Vigo,0.0
+Real Sociedad,228.0,8.0,RC Deportivo de La Coruña,0.125
+Real Sociedad,228.0,12.0,RCD Espanyol,0.08333333333333333
+Real Sociedad,228.0,6.0,RCD Mallorca,0.0
+Real Sociedad,228.0,4.0,Racing Santander,0.25
+Real Sociedad,228.0,10.0,Rayo Vallecano,0.1
+Real Sociedad,228.0,8.0,Real Betis Balompié,0.25
+Real Sociedad,228.0,12.0,Real Madrid CF,-0.75
+Real Sociedad,228.0,6.0,Real Sporting de Gijón,0.5
+Real Sociedad,228.0,4.0,Real Valladolid,0.5
+Real Sociedad,228.0,6.0,Real Zaragoza,0.3333333333333333
+Real Sociedad,228.0,4.0,SD Eibar,0.0
+Real Sociedad,228.0,12.0,Sevilla FC,0.08333333333333333
+Real Sociedad,228.0,6.0,UD Almería,0.0
+Real Sociedad,228.0,2.0,UD Las Palmas,-1.0
+Real Sociedad,228.0,12.0,Valencia CF,0.4166666666666667
+Real Sociedad,228.0,10.0,Villarreal CF,-0.4
+Real Sporting de Gijón,190.0,10.0,Athletic Club de Bilbao,-0.3
+Real Sporting de Gijón,190.0,10.0,Atlético Madrid,-0.4
+Real Sporting de Gijón,190.0,8.0,CA Osasuna,0.125
+Real Sporting de Gijón,190.0,2.0,CD Numancia,0.0
+Real Sporting de Gijón,190.0,2.0,CD Tenerife,-1.0
+Real Sporting de Gijón,190.0,10.0,FC Barcelona,-0.9
+Real Sporting de Gijón,190.0,10.0,Getafe CF,-0.2
+Real Sporting de Gijón,190.0,4.0,Granada CF,-0.25
+Real Sporting de Gijón,190.0,2.0,Hércules Club de Fútbol,0.5
+Real Sporting de Gijón,190.0,6.0,Levante UD,-0.16666666666666666
+Real Sporting de Gijón,190.0,10.0,Málaga CF,-0.2
+Real Sporting de Gijón,190.0,2.0,RC Celta de Vigo,-1.0
+Real Sporting de Gijón,190.0,8.0,RC Deportivo de La Coruña,0.5
+Real Sporting de Gijón,190.0,2.0,RC Recreativo,0.0
+Real Sporting de Gijón,190.0,10.0,RCD Espanyol,0.1
+Real Sporting de Gijón,190.0,8.0,RCD Mallorca,0.25
+Real Sporting de Gijón,190.0,8.0,Racing Santander,-0.375
+Real Sporting de Gijón,190.0,4.0,Rayo Vallecano,0.25
+Real Sporting de Gijón,190.0,6.0,Real Betis Balompié,-0.5
+Real Sporting de Gijón,190.0,10.0,Real Madrid CF,-0.6
+Real Sporting de Gijón,190.0,6.0,Real Sociedad,-0.5
+Real Sporting de Gijón,190.0,4.0,Real Valladolid,0.0
+Real Sporting de Gijón,190.0,6.0,Real Zaragoza,0.0
+Real Sporting de Gijón,190.0,2.0,SD Eibar,0.0
+Real Sporting de Gijón,190.0,10.0,Sevilla FC,-0.2
+Real Sporting de Gijón,190.0,6.0,UD Almería,0.16666666666666666
+Real Sporting de Gijón,190.0,2.0,UD Las Palmas,0.5
+Real Sporting de Gijón,190.0,10.0,Valencia CF,-0.3
+Real Sporting de Gijón,190.0,10.0,Villarreal CF,-0.4
+Real Sporting de Gijón,190.0,2.0,Xerez Club Deportivo,0.0
+Real Valladolid,152.0,8.0,Athletic Club de Bilbao,-0.5
+Real Valladolid,152.0,8.0,Atlético Madrid,-0.5
+Real Valladolid,152.0,8.0,CA Osasuna,-0.25
+Real Valladolid,152.0,2.0,CD Numancia,-0.5
+Real Valladolid,152.0,2.0,CD Tenerife,0.0
+Real Valladolid,152.0,2.0,Elche CF,0.0
+Real Valladolid,152.0,8.0,FC Barcelona,-0.75
+Real Valladolid,152.0,8.0,Getafe CF,0.0
+Real Valladolid,152.0,4.0,Granada CF,-0.25
+Real Valladolid,152.0,4.0,Levante UD,0.0
+Real Valladolid,152.0,8.0,Málaga CF,-0.375
+Real Valladolid,152.0,4.0,RC Celta de Vigo,-0.5
+Real Valladolid,152.0,6.0,RC Deportivo de La Coruña,0.5
+Real Valladolid,152.0,2.0,RC Recreativo,0.5
+Real Valladolid,152.0,8.0,RCD Espanyol,-0.125
+Real Valladolid,152.0,6.0,RCD Mallorca,-0.3333333333333333
+Real Valladolid,152.0,4.0,Racing Santander,-0.25
+Real Valladolid,152.0,4.0,Rayo Vallecano,0.75
+Real Valladolid,152.0,6.0,Real Betis Balompié,-0.5
+Real Valladolid,152.0,8.0,Real Madrid CF,-0.625
+Real Valladolid,152.0,4.0,Real Sociedad,-0.5
+Real Valladolid,152.0,4.0,Real Sporting de Gijón,0.0
+Real Valladolid,152.0,4.0,Real Zaragoza,0.75
+Real Valladolid,152.0,8.0,Sevilla FC,0.125
+Real Valladolid,152.0,6.0,UD Almería,0.0
+Real Valladolid,152.0,8.0,Valencia CF,-0.375
+Real Valladolid,152.0,6.0,Villarreal CF,-0.16666666666666666
+Real Valladolid,152.0,2.0,Xerez Club Deportivo,-0.5
+Real Zaragoza,152.0,8.0,Athletic Club de Bilbao,-0.125
+Real Zaragoza,152.0,8.0,Atlético Madrid,-0.625
+Real Zaragoza,152.0,8.0,CA Osasuna,-0.5
+Real Zaragoza,152.0,2.0,CD Tenerife,1.0
+Real Zaragoza,152.0,8.0,FC Barcelona,-1.0
+Real Zaragoza,152.0,8.0,Getafe CF,0.25
+Real Zaragoza,152.0,4.0,Granada CF,0.25
+Real Zaragoza,152.0,2.0,Hércules Club de Fútbol,-0.5
+Real Zaragoza,152.0,6.0,Levante UD,0.3333333333333333
+Real Zaragoza,152.0,8.0,Málaga CF,-0.125
+Real Zaragoza,152.0,2.0,RC Celta de Vigo,-1.0
+Real Zaragoza,152.0,6.0,RC Deportivo de La Coruña,0.3333333333333333
+Real Zaragoza,152.0,8.0,RCD Espanyol,0.375
+Real Zaragoza,152.0,8.0,RCD Mallorca,-0.25
+Real Zaragoza,152.0,6.0,Racing Santander,-0.16666666666666666
+Real Zaragoza,152.0,4.0,Rayo Vallecano,0.25
+Real Zaragoza,152.0,4.0,Real Betis Balompié,-1.0
+Real Zaragoza,152.0,8.0,Real Madrid CF,-0.625
+Real Zaragoza,152.0,6.0,Real Sociedad,-0.3333333333333333
+Real Zaragoza,152.0,6.0,Real Sporting de Gijón,0.0
+Real Zaragoza,152.0,4.0,Real Valladolid,-0.75
+Real Zaragoza,152.0,8.0,Sevilla FC,-0.5
+Real Zaragoza,152.0,4.0,UD Almería,0.25
+Real Zaragoza,152.0,8.0,Valencia CF,0.0
+Real Zaragoza,152.0,6.0,Villarreal CF,-0.3333333333333333
+Real Zaragoza,152.0,2.0,Xerez Club Deportivo,-0.5
+Reggio Calabria,38.0,2.0,Atalanta,1.0
+Reggio Calabria,38.0,2.0,Bologna,0.5
+Reggio Calabria,38.0,2.0,Cagliari,0.5
+Reggio Calabria,38.0,2.0,Catania,-0.5
+Reggio Calabria,38.0,2.0,Chievo Verona,-1.0
+Reggio Calabria,38.0,2.0,Fiorentina,-0.5
+Reggio Calabria,38.0,2.0,Genoa,-1.0
+Reggio Calabria,38.0,2.0,Inter,-1.0
+Reggio Calabria,38.0,2.0,Juventus,-0.5
+Reggio Calabria,38.0,2.0,Lazio,-1.0
+Reggio Calabria,38.0,2.0,Lecce,0.5
+Reggio Calabria,38.0,2.0,Milan,-0.5
+Reggio Calabria,38.0,2.0,Napoli,-0.5
+Reggio Calabria,38.0,2.0,Palermo,-0.5
+Reggio Calabria,38.0,2.0,Roma,-0.5
+Reggio Calabria,38.0,2.0,Sampdoria,-1.0
+Reggio Calabria,38.0,2.0,Siena,-0.5
+Reggio Calabria,38.0,2.0,Torino,0.0
+Reggio Calabria,38.0,2.0,Udinese,0.0
+Roma,303.0,14.0,Atalanta,0.35714285714285715
+Roma,303.0,4.0,Bari,1.0
+Roma,303.0,14.0,Bologna,0.42857142857142855
+Roma,303.0,2.0,Brescia,-0.5
+Roma,303.0,14.0,Cagliari,0.21428571428571427
+Roma,303.0,2.0,Carpi,1.0
+Roma,303.0,12.0,Catania,0.0
+Roma,303.0,6.0,Cesena,0.8333333333333334
+Roma,303.0,16.0,Chievo Verona,0.4375
+Roma,303.0,4.0,Empoli,0.75
+Roma,303.0,16.0,Fiorentina,0.5
+Roma,303.0,2.0,Frosinone,1.0
+Roma,303.0,16.0,Genoa,0.375
+Roma,303.0,6.0,Hellas Verona,0.5
+Roma,303.0,16.0,Inter,0.125
+Roma,303.0,16.0,Juventus,-0.4375
+Roma,303.0,15.0,Lazio,0.4
+Roma,303.0,6.0,Lecce,0.6666666666666666
+Roma,303.0,4.0,Livorno,0.25
+Roma,303.0,16.0,Milan,0.0625
+Roma,303.0,16.0,Napoli,0.125
+Roma,303.0,2.0,Novara,1.0
+Roma,303.0,14.0,Palermo,0.14285714285714285
+Roma,303.0,12.0,Parma,0.5833333333333334
+Roma,303.0,2.0,Pescara,0.5
+Roma,303.0,2.0,Reggio Calabria,0.5
+Roma,303.0,14.0,Sampdoria,0.0
+Roma,303.0,6.0,Sassuolo,0.5
+Roma,303.0,8.0,Siena,0.375
+Roma,303.0,10.0,Torino,0.7
+Roma,303.0,16.0,Udinese,0.375
+SC Bastia,152.0,4.0,AC Ajaccio,0.5
+SC Bastia,152.0,6.0,AS Monaco,-1.0
+SC Bastia,152.0,2.0,AS Nancy-Lorraine,1.0
+SC Bastia,152.0,8.0,AS Saint-Étienne,-0.625
+SC Bastia,152.0,2.0,Angers SCO,0.0
+SC Bastia,152.0,4.0,ES Troyes AC,0.5
+SC Bastia,152.0,6.0,En Avant de Guingamp,0.0
+SC Bastia,152.0,8.0,FC Lorient,-0.125
+SC Bastia,152.0,2.0,FC Metz,0.0
+SC Bastia,152.0,6.0,FC Nantes,0.0
+SC Bastia,152.0,4.0,FC Sochaux-Montbéliard,0.25
+SC Bastia,152.0,2.0,GFC Ajaccio,-1.0
+SC Bastia,152.0,8.0,Girondins de Bordeaux,0.125
+SC Bastia,152.0,8.0,LOSC Lille,-0.375
+SC Bastia,152.0,8.0,Montpellier Hérault SC,0.125
+SC Bastia,152.0,8.0,OGC Nice,0.125
+SC Bastia,152.0,8.0,Olympique Lyonnais,-0.375
+SC Bastia,152.0,8.0,Olympique de Marseille,-0.5
+SC Bastia,152.0,8.0,Paris Saint-Germain,-0.75
+SC Bastia,152.0,2.0,RC Lens,0.0
+SC Bastia,152.0,4.0,SM Caen,0.25
+SC Bastia,152.0,2.0,Stade Brestois 29,0.0
+SC Bastia,152.0,8.0,Stade Rennais FC,0.25
+SC Bastia,152.0,8.0,Stade de Reims,0.25
+SC Bastia,152.0,8.0,Toulouse FC,0.375
+SC Bastia,152.0,4.0,Valenciennes FC,0.0
+SC Bastia,152.0,6.0,Évian Thonon Gaillard FC,-0.16666666666666666
+SD Eibar,76.0,4.0,Athletic Club de Bilbao,-0.25
+SD Eibar,76.0,4.0,Atlético Madrid,-1.0
+SD Eibar,76.0,2.0,Córdoba CF,0.5
+SD Eibar,76.0,2.0,Elche CF,0.0
+SD Eibar,76.0,4.0,FC Barcelona,-1.0
+SD Eibar,76.0,4.0,Getafe CF,0.5
+SD Eibar,76.0,4.0,Granada CF,0.5
+SD Eibar,76.0,4.0,Levante UD,0.0
+SD Eibar,76.0,4.0,Málaga CF,-0.25
+SD Eibar,76.0,4.0,RC Celta de Vigo,-0.25
+SD Eibar,76.0,4.0,RC Deportivo de La Coruña,-0.75
+SD Eibar,76.0,4.0,RCD Espanyol,0.0
+SD Eibar,76.0,4.0,Rayo Vallecano,0.25
+SD Eibar,76.0,2.0,Real Betis Balompié,0.5
+SD Eibar,76.0,4.0,Real Madrid CF,-1.0
+SD Eibar,76.0,4.0,Real Sociedad,0.0
+SD Eibar,76.0,2.0,Real Sporting de Gijón,0.0
+SD Eibar,76.0,4.0,Sevilla FC,-0.5
+SD Eibar,76.0,2.0,UD Almería,0.0
+SD Eibar,76.0,2.0,UD Las Palmas,0.0
+SD Eibar,76.0,4.0,Valencia CF,-0.75
+SD Eibar,76.0,4.0,Villarreal CF,-0.5
+SM Caen,190.0,2.0,AC Ajaccio,0.0
+SM Caen,190.0,2.0,AC Arles-Avignon,0.0
+SM Caen,190.0,6.0,AJ Auxerre,0.3333333333333333
+SM Caen,190.0,8.0,AS Monaco,-0.125
+SM Caen,190.0,6.0,AS Nancy-Lorraine,-0.6666666666666666
+SM Caen,190.0,10.0,AS Saint-Étienne,0.1
+SM Caen,190.0,2.0,Angers SCO,-0.5
+SM Caen,190.0,2.0,Dijon FCO,0.0
+SM Caen,190.0,2.0,ES Troyes AC,1.0
+SM Caen,190.0,4.0,En Avant de Guingamp,-0.25
+SM Caen,190.0,10.0,FC Lorient,-0.1
+SM Caen,190.0,2.0,FC Metz,-0.5
+SM Caen,190.0,6.0,FC Nantes,0.16666666666666666
+SM Caen,190.0,6.0,FC Sochaux-Montbéliard,-0.16666666666666666
+SM Caen,190.0,2.0,GFC Ajaccio,0.0
+SM Caen,190.0,10.0,Girondins de Bordeaux,0.0
+SM Caen,190.0,2.0,Grenoble Foot 38,-0.5
+SM Caen,190.0,10.0,LOSC Lille,-0.9
+SM Caen,190.0,2.0,Le Havre AC,0.0
+SM Caen,190.0,2.0,Le Mans FC,0.0
+SM Caen,190.0,8.0,Montpellier Hérault SC,0.0
+SM Caen,190.0,10.0,OGC Nice,-0.1
+SM Caen,190.0,10.0,Olympique Lyonnais,-0.1
+SM Caen,190.0,10.0,Olympique de Marseille,-0.2
+SM Caen,190.0,10.0,Paris Saint-Germain,-0.8
+SM Caen,190.0,4.0,RC Lens,0.0
+SM Caen,190.0,4.0,SC Bastia,-0.25
+SM Caen,190.0,4.0,Stade Brestois 29,0.0
+SM Caen,190.0,10.0,Stade Rennais FC,-0.1
+SM Caen,190.0,4.0,Stade de Reims,0.5
+SM Caen,190.0,10.0,Toulouse FC,-0.1
+SM Caen,190.0,6.0,Valenciennes FC,-0.16666666666666666
+SM Caen,190.0,4.0,Évian Thonon Gaillard FC,0.75
+Sampdoria,266.0,12.0,Atalanta,0.16666666666666666
+Sampdoria,266.0,4.0,Bari,0.25
+Sampdoria,266.0,12.0,Bologna,0.25
+Sampdoria,266.0,2.0,Brescia,-0.5
+Sampdoria,266.0,12.0,Cagliari,-0.25
+Sampdoria,266.0,2.0,Carpi,0.0
+Sampdoria,266.0,10.0,Catania,-0.1
+Sampdoria,266.0,4.0,Cesena,0.0
+Sampdoria,266.0,14.0,Chievo Verona,0.21428571428571427
+Sampdoria,266.0,4.0,Empoli,0.25
+Sampdoria,266.0,14.0,Fiorentina,-0.2857142857142857
+Sampdoria,266.0,2.0,Frosinone,0.0
+Sampdoria,266.0,14.0,Genoa,-0.14285714285714285
+Sampdoria,266.0,6.0,Hellas Verona,0.5
+Sampdoria,266.0,14.0,Inter,-0.35714285714285715
+Sampdoria,266.0,14.0,Juventus,-0.21428571428571427
+Sampdoria,266.0,14.0,Lazio,-0.21428571428571427
+Sampdoria,266.0,4.0,Lecce,0.5
+Sampdoria,266.0,4.0,Livorno,0.5
+Sampdoria,266.0,14.0,Milan,-0.2857142857142857
+Sampdoria,266.0,14.0,Napoli,-0.5714285714285714
+Sampdoria,266.0,12.0,Palermo,-0.4166666666666667
+Sampdoria,266.0,10.0,Parma,-0.3
+Sampdoria,266.0,2.0,Pescara,1.0
+Sampdoria,266.0,2.0,Reggio Calabria,1.0
+Sampdoria,266.0,14.0,Roma,0.0
+Sampdoria,266.0,6.0,Sassuolo,-0.16666666666666666
+Sampdoria,266.0,6.0,Siena,0.3333333333333333
+Sampdoria,266.0,10.0,Torino,0.2
+Sampdoria,266.0,14.0,Udinese,0.07142857142857142
+Sassuolo,114.0,6.0,Atalanta,0.16666666666666666
+Sassuolo,114.0,4.0,Bologna,0.25
+Sassuolo,114.0,4.0,Cagliari,-0.25
+Sassuolo,114.0,2.0,Carpi,1.0
+Sassuolo,114.0,2.0,Catania,0.5
+Sassuolo,114.0,2.0,Cesena,0.5
+Sassuolo,114.0,6.0,Chievo Verona,0.16666666666666666
+Sassuolo,114.0,4.0,Empoli,0.0
+Sassuolo,114.0,6.0,Fiorentina,-0.3333333333333333
+Sassuolo,114.0,2.0,Frosinone,0.5
+Sassuolo,114.0,6.0,Genoa,-0.16666666666666666
+Sassuolo,114.0,6.0,Hellas Verona,-0.16666666666666666
+Sassuolo,114.0,6.0,Inter,0.0
+Sassuolo,114.0,6.0,Juventus,-0.5
+Sassuolo,114.0,6.0,Lazio,-0.16666666666666666
+Sassuolo,114.0,2.0,Livorno,-1.0
+Sassuolo,114.0,6.0,Milan,0.3333333333333333
+Sassuolo,114.0,6.0,Napoli,-0.5
+Sassuolo,114.0,4.0,Palermo,0.0
+Sassuolo,114.0,4.0,Parma,0.0
+Sassuolo,114.0,6.0,Roma,-0.5
+Sassuolo,114.0,6.0,Sampdoria,0.16666666666666666
+Sassuolo,114.0,6.0,Torino,0.0
+Sassuolo,114.0,6.0,Udinese,-0.16666666666666666
+Sevilla FC,304.0,16.0,Athletic Club de Bilbao,0.0
+Sevilla FC,304.0,16.0,Atlético Madrid,-0.125
+Sevilla FC,304.0,12.0,CA Osasuna,0.4166666666666667
+Sevilla FC,304.0,2.0,CD Numancia,1.0
+Sevilla FC,304.0,2.0,CD Tenerife,1.0
+Sevilla FC,304.0,2.0,Córdoba CF,1.0
+Sevilla FC,304.0,4.0,Elche CF,0.75
+Sevilla FC,304.0,16.0,FC Barcelona,-0.6875
+Sevilla FC,304.0,16.0,Getafe CF,-0.125
+Sevilla FC,304.0,10.0,Granada CF,0.2
+Sevilla FC,304.0,2.0,Hércules Club de Fútbol,0.0
+Sevilla FC,304.0,12.0,Levante UD,0.08333333333333333
+Sevilla FC,304.0,16.0,Málaga CF,0.125
+Sevilla FC,304.0,8.0,RC Celta de Vigo,-0.25
+Sevilla FC,304.0,12.0,RC Deportivo de La Coruña,0.4166666666666667
+Sevilla FC,304.0,2.0,RC Recreativo,1.0
+Sevilla FC,304.0,16.0,RCD Espanyol,0.375
+Sevilla FC,304.0,10.0,RCD Mallorca,0.3
+Sevilla FC,304.0,8.0,Racing Santander,-0.125
+Sevilla FC,304.0,10.0,Rayo Vallecano,0.6
+Sevilla FC,304.0,10.0,Real Betis Balompié,0.2
+Sevilla FC,304.0,16.0,Real Madrid CF,-0.375
+Sevilla FC,304.0,12.0,Real Sociedad,-0.08333333333333333
+Sevilla FC,304.0,10.0,Real Sporting de Gijón,0.2
+Sevilla FC,304.0,8.0,Real Valladolid,-0.125
+Sevilla FC,304.0,8.0,Real Zaragoza,0.5
+Sevilla FC,304.0,4.0,SD Eibar,0.5
+Sevilla FC,304.0,10.0,UD Almería,0.8
+Sevilla FC,304.0,2.0,UD Las Palmas,0.0
+Sevilla FC,304.0,16.0,Valencia CF,0.0625
+Sevilla FC,304.0,14.0,Villarreal CF,0.2857142857142857
+Sevilla FC,304.0,2.0,Xerez Club Deportivo,0.5
+Siena,150.0,8.0,Atalanta,-0.375
+Siena,150.0,2.0,Bari,0.0
+Siena,150.0,8.0,Bologna,0.125
+Siena,150.0,7.0,Cagliari,0.0
+Siena,150.0,8.0,Catania,-0.125
+Siena,150.0,1.0,Cesena,1.0
+Siena,150.0,8.0,Chievo Verona,0.125
+Siena,150.0,8.0,Fiorentina,-0.5
+Siena,150.0,8.0,Genoa,-0.125
+Siena,150.0,8.0,Inter,-0.5
+Siena,150.0,8.0,Juventus,-0.75
+Siena,150.0,8.0,Lazio,0.0
+Siena,150.0,4.0,Lecce,-0.25
+Siena,150.0,2.0,Livorno,0.5
+Siena,150.0,8.0,Milan,-1.0
+Siena,150.0,8.0,Napoli,-0.5
+Siena,150.0,2.0,Novara,-0.5
+Siena,150.0,8.0,Palermo,-0.125
+Siena,150.0,6.0,Parma,-0.5
+Siena,150.0,2.0,Pescara,1.0
+Siena,150.0,2.0,Reggio Calabria,0.5
+Siena,150.0,8.0,Roma,-0.375
+Siena,150.0,6.0,Sampdoria,-0.3333333333333333
+Siena,150.0,4.0,Torino,-0.25
+Siena,150.0,8.0,Udinese,-0.25
+Southampton,152.0,8.0,Arsenal,-0.125
+Southampton,152.0,8.0,Aston Villa,0.375
+Southampton,152.0,2.0,Bournemouth,0.0
+Southampton,152.0,2.0,Burnley,0.0
+Southampton,152.0,2.0,Cardiff City,0.0
+Southampton,152.0,8.0,Chelsea,-0.125
+Southampton,152.0,6.0,Crystal Palace,0.6666666666666666
+Southampton,152.0,8.0,Everton,-0.25
+Southampton,152.0,4.0,Fulham,0.5
+Southampton,152.0,4.0,Hull City,1.0
+Southampton,152.0,4.0,Leicester City,-0.25
+Southampton,152.0,8.0,Liverpool,-0.125
+Southampton,152.0,8.0,Manchester City,-0.375
+Southampton,152.0,8.0,Manchester United,-0.25
+Southampton,152.0,8.0,Newcastle United,0.5
+Southampton,152.0,6.0,Norwich City,0.0
+Southampton,152.0,4.0,Queens Park Rangers,0.5
+Southampton,152.0,2.0,Reading,1.0
+Southampton,152.0,8.0,Stoke City,0.0
+Southampton,152.0,8.0,Sunderland,0.0
+Southampton,152.0,8.0,Swansea City,0.5
+Southampton,152.0,8.0,Tottenham Hotspur,-0.625
+Southampton,152.0,2.0,Watford,0.5
+Southampton,152.0,8.0,West Bromwich Albion,0.0
+Southampton,152.0,8.0,West Ham United,-0.125
+Southampton,152.0,2.0,Wigan Athletic,-0.5
+Stade Brestois 29,114.0,4.0,AC Ajaccio,-0.25
+Stade Brestois 29,114.0,2.0,AC Arles-Avignon,0.0
+Stade Brestois 29,114.0,4.0,AJ Auxerre,0.25
+Stade Brestois 29,114.0,2.0,AS Monaco,1.0
+Stade Brestois 29,114.0,6.0,AS Nancy-Lorraine,-0.3333333333333333
+Stade Brestois 29,114.0,6.0,AS Saint-Étienne,-0.5
+Stade Brestois 29,114.0,2.0,Dijon FCO,-0.5
+Stade Brestois 29,114.0,2.0,ES Troyes AC,0.0
+Stade Brestois 29,114.0,6.0,FC Lorient,-0.16666666666666666
+Stade Brestois 29,114.0,6.0,FC Sochaux-Montbéliard,-0.16666666666666666
+Stade Brestois 29,114.0,6.0,Girondins de Bordeaux,0.0
+Stade Brestois 29,114.0,6.0,LOSC Lille,-0.6666666666666666
+Stade Brestois 29,114.0,6.0,Montpellier Hérault SC,-0.5
+Stade Brestois 29,114.0,6.0,OGC Nice,-0.16666666666666666
+Stade Brestois 29,114.0,6.0,Olympique Lyonnais,-0.3333333333333333
+Stade Brestois 29,114.0,6.0,Olympique de Marseille,-0.3333333333333333
+Stade Brestois 29,114.0,6.0,Paris Saint-Germain,-0.8333333333333334
+Stade Brestois 29,114.0,2.0,RC Lens,0.5
+Stade Brestois 29,114.0,2.0,SC Bastia,0.0
+Stade Brestois 29,114.0,4.0,SM Caen,0.0
+Stade Brestois 29,114.0,6.0,Stade Rennais FC,-0.3333333333333333
+Stade Brestois 29,114.0,2.0,Stade de Reims,-0.5
+Stade Brestois 29,114.0,6.0,Toulouse FC,-0.6666666666666666
+Stade Brestois 29,114.0,6.0,Valenciennes FC,0.16666666666666666
+Stade Brestois 29,114.0,4.0,Évian Thonon Gaillard FC,0.75
+Stade Rennais FC,304.0,6.0,AC Ajaccio,0.16666666666666666
+Stade Rennais FC,304.0,2.0,AC Arles-Avignon,1.0
+Stade Rennais FC,304.0,8.0,AJ Auxerre,-0.125
+Stade Rennais FC,304.0,12.0,AS Monaco,-0.08333333333333333
+Stade Rennais FC,304.0,10.0,AS Nancy-Lorraine,0.1
+Stade Rennais FC,304.0,16.0,AS Saint-Étienne,0.125
+Stade Rennais FC,304.0,2.0,Angers SCO,1.0
+Stade Rennais FC,304.0,2.0,Dijon FCO,1.0
+Stade Rennais FC,304.0,4.0,ES Troyes AC,0.25
+Stade Rennais FC,304.0,6.0,En Avant de Guingamp,0.0
+Stade Rennais FC,304.0,16.0,FC Lorient,0.1875
+Stade Rennais FC,304.0,2.0,FC Metz,0.5
+Stade Rennais FC,304.0,8.0,FC Nantes,0.25
+Stade Rennais FC,304.0,12.0,FC Sochaux-Montbéliard,-0.08333333333333333
+Stade Rennais FC,304.0,2.0,GFC Ajaccio,0.5
+Stade Rennais FC,304.0,16.0,Girondins de Bordeaux,-0.3125
+Stade Rennais FC,304.0,4.0,Grenoble Foot 38,0.5
+Stade Rennais FC,304.0,16.0,LOSC Lille,-0.1875
+Stade Rennais FC,304.0,2.0,Le Havre AC,-0.5
+Stade Rennais FC,304.0,4.0,Le Mans FC,0.5
+Stade Rennais FC,304.0,14.0,Montpellier Hérault SC,-0.21428571428571427
+Stade Rennais FC,304.0,16.0,OGC Nice,0.0625
+Stade Rennais FC,304.0,16.0,Olympique Lyonnais,-0.0625
+Stade Rennais FC,304.0,16.0,Olympique de Marseille,-0.25
+Stade Rennais FC,304.0,16.0,Paris Saint-Germain,0.0
+Stade Rennais FC,304.0,6.0,RC Lens,0.5
+Stade Rennais FC,304.0,8.0,SC Bastia,-0.25
+Stade Rennais FC,304.0,10.0,SM Caen,0.1
+Stade Rennais FC,304.0,6.0,Stade Brestois 29,0.3333333333333333
+Stade Rennais FC,304.0,8.0,Stade de Reims,0.125
+Stade Rennais FC,304.0,16.0,Toulouse FC,0.0625
+Stade Rennais FC,304.0,2.0,US Boulogne Cote D'Opale,0.0
+Stade Rennais FC,304.0,12.0,Valenciennes FC,-0.16666666666666666
+Stade Rennais FC,304.0,8.0,Évian Thonon Gaillard FC,0.25
+Stade de Reims,152.0,4.0,AC Ajaccio,-0.25
+Stade de Reims,152.0,6.0,AS Monaco,-0.5
+Stade de Reims,152.0,2.0,AS Nancy-Lorraine,1.0
+Stade de Reims,152.0,8.0,AS Saint-Étienne,-0.5
+Stade de Reims,152.0,2.0,Angers SCO,0.5
+Stade de Reims,152.0,4.0,ES Troyes AC,-0.5
+Stade de Reims,152.0,6.0,En Avant de Guingamp,-0.16666666666666666
+Stade de Reims,152.0,8.0,FC Lorient,0.125
+Stade de Reims,152.0,2.0,FC Metz,-0.5
+Stade de Reims,152.0,6.0,FC Nantes,0.16666666666666666
+Stade de Reims,152.0,4.0,FC Sochaux-Montbéliard,0.0
+Stade de Reims,152.0,2.0,GFC Ajaccio,-0.5
+Stade de Reims,152.0,8.0,Girondins de Bordeaux,0.5
+Stade de Reims,152.0,8.0,LOSC Lille,0.125
+Stade de Reims,152.0,8.0,Montpellier Hérault SC,-0.375
+Stade de Reims,152.0,8.0,OGC Nice,-0.25
+Stade de Reims,152.0,8.0,Olympique Lyonnais,-0.25
+Stade de Reims,152.0,8.0,Olympique de Marseille,-0.125
+Stade de Reims,152.0,8.0,Paris Saint-Germain,-0.5
+Stade de Reims,152.0,2.0,RC Lens,-0.5
+Stade de Reims,152.0,8.0,SC Bastia,-0.25
+Stade de Reims,152.0,4.0,SM Caen,-0.5
+Stade de Reims,152.0,2.0,Stade Brestois 29,0.5
+Stade de Reims,152.0,8.0,Stade Rennais FC,-0.125
+Stade de Reims,152.0,8.0,Toulouse FC,-0.375
+Stade de Reims,152.0,4.0,Valenciennes FC,-0.25
+Stade de Reims,152.0,6.0,Évian Thonon Gaillard FC,0.3333333333333333
+Stoke City,304.0,16.0,Arsenal,-0.3125
+Stoke City,304.0,16.0,Aston Villa,0.25
+Stoke City,304.0,4.0,Birmingham City,-0.25
+Stoke City,304.0,8.0,Blackburn Rovers,0.625
+Stoke City,304.0,2.0,Blackpool,-0.5
+Stoke City,304.0,8.0,Bolton Wanderers,-0.25
+Stoke City,304.0,2.0,Bournemouth,1.0
+Stoke City,304.0,4.0,Burnley,0.0
+Stoke City,304.0,2.0,Cardiff City,0.0
+Stoke City,304.0,16.0,Chelsea,-0.5625
+Stoke City,304.0,6.0,Crystal Palace,-0.5
+Stoke City,304.0,16.0,Everton,-0.0625
+Stoke City,304.0,12.0,Fulham,-0.08333333333333333
+Stoke City,304.0,8.0,Hull City,0.375
+Stoke City,304.0,4.0,Leicester City,-0.25
+Stoke City,304.0,16.0,Liverpool,-0.1875
+Stoke City,304.0,16.0,Manchester City,-0.3125
+Stoke City,304.0,16.0,Manchester United,-0.625
+Stoke City,304.0,2.0,Middlesbrough,0.0
+Stoke City,304.0,14.0,Newcastle United,0.14285714285714285
+Stoke City,304.0,8.0,Norwich City,0.125
+Stoke City,304.0,4.0,Portsmouth,0.25
+Stoke City,304.0,6.0,Queens Park Rangers,0.16666666666666666
+Stoke City,304.0,2.0,Reading,0.5
+Stoke City,304.0,8.0,Southampton,0.0
+Stoke City,304.0,16.0,Sunderland,-0.1875
+Stoke City,304.0,10.0,Swansea City,0.1
+Stoke City,304.0,16.0,Tottenham Hotspur,-0.1875
+Stoke City,304.0,2.0,Watford,0.0
+Stoke City,304.0,14.0,West Bromwich Albion,0.21428571428571427
+Stoke City,304.0,14.0,West Ham United,0.07142857142857142
+Stoke City,304.0,10.0,Wigan Athletic,-0.1
+Stoke City,304.0,6.0,Wolverhampton Wanderers,0.3333333333333333
+Sunderland,304.0,16.0,Arsenal,-0.4375
+Sunderland,304.0,16.0,Aston Villa,-0.25
+Sunderland,304.0,4.0,Birmingham City,-0.25
+Sunderland,304.0,8.0,Blackburn Rovers,0.375
+Sunderland,304.0,2.0,Blackpool,0.0
+Sunderland,304.0,8.0,Bolton Wanderers,0.5
+Sunderland,304.0,2.0,Bournemouth,-0.5
+Sunderland,304.0,4.0,Burnley,0.25
+Sunderland,304.0,2.0,Cardiff City,0.5
+Sunderland,304.0,16.0,Chelsea,-0.5625
+Sunderland,304.0,6.0,Crystal Palace,0.0
+Sunderland,304.0,16.0,Everton,-0.25
+Sunderland,304.0,12.0,Fulham,-0.08333333333333333
+Sunderland,304.0,8.0,Hull City,0.125
+Sunderland,304.0,4.0,Leicester City,-0.5
+Sunderland,304.0,16.0,Liverpool,-0.4375
+Sunderland,304.0,16.0,Manchester City,-0.3125
+Sunderland,304.0,16.0,Manchester United,-0.5625
+Sunderland,304.0,2.0,Middlesbrough,0.5
+Sunderland,304.0,14.0,Newcastle United,0.35714285714285715
+Sunderland,304.0,8.0,Norwich City,-0.25
+Sunderland,304.0,4.0,Portsmouth,-0.5
+Sunderland,304.0,6.0,Queens Park Rangers,-0.16666666666666666
+Sunderland,304.0,2.0,Reading,0.0
+Sunderland,304.0,8.0,Southampton,0.0
+Sunderland,304.0,16.0,Stoke City,0.1875
+Sunderland,304.0,10.0,Swansea City,0.0
+Sunderland,304.0,16.0,Tottenham Hotspur,-0.5
+Sunderland,304.0,2.0,Watford,-0.5
+Sunderland,304.0,14.0,West Bromwich Albion,-0.42857142857142855
+Sunderland,304.0,14.0,West Ham United,-0.21428571428571427
+Sunderland,304.0,10.0,Wigan Athletic,0.1
+Sunderland,304.0,6.0,Wolverhampton Wanderers,-0.5
+Swansea City,190.0,10.0,Arsenal,0.1
+Swansea City,190.0,10.0,Aston Villa,0.5
+Swansea City,190.0,2.0,Blackburn Rovers,0.0
+Swansea City,190.0,2.0,Bolton Wanderers,0.5
+Swansea City,190.0,2.0,Bournemouth,-0.5
+Swansea City,190.0,2.0,Burnley,1.0
+Swansea City,190.0,2.0,Cardiff City,0.0
+Swansea City,190.0,10.0,Chelsea,-0.5
+Swansea City,190.0,6.0,Crystal Palace,0.0
+Swansea City,190.0,10.0,Everton,-0.4
+Swansea City,190.0,6.0,Fulham,0.6666666666666666
+Swansea City,190.0,4.0,Hull City,0.25
+Swansea City,190.0,4.0,Leicester City,-0.5
+Swansea City,190.0,10.0,Liverpool,-0.3
+Swansea City,190.0,10.0,Manchester City,-0.6
+Swansea City,190.0,10.0,Manchester United,-0.3
+Swansea City,190.0,10.0,Newcastle United,0.4
+Swansea City,190.0,8.0,Norwich City,-0.25
+Swansea City,190.0,6.0,Queens Park Rangers,0.3333333333333333
+Swansea City,190.0,2.0,Reading,0.0
+Swansea City,190.0,8.0,Southampton,-0.5
+Swansea City,190.0,10.0,Stoke City,-0.1
+Swansea City,190.0,10.0,Sunderland,0.0
+Swansea City,190.0,10.0,Tottenham Hotspur,-0.8
+Swansea City,190.0,2.0,Watford,0.0
+Swansea City,190.0,10.0,West Bromwich Albion,0.3
+Swansea City,190.0,8.0,West Ham United,-0.125
+Swansea City,190.0,4.0,Wigan Athletic,0.75
+Swansea City,190.0,2.0,Wolverhampton Wanderers,0.0
+Torino,190.0,10.0,Atalanta,0.5
+Torino,190.0,8.0,Bologna,0.25
+Torino,190.0,8.0,Cagliari,-0.25
+Torino,190.0,2.0,Carpi,-0.5
+Torino,190.0,6.0,Catania,0.3333333333333333
+Torino,190.0,2.0,Cesena,1.0
+Torino,190.0,10.0,Chievo Verona,0.2
+Torino,190.0,4.0,Empoli,-0.75
+Torino,190.0,10.0,Fiorentina,-0.3
+Torino,190.0,2.0,Frosinone,1.0
+Torino,190.0,10.0,Genoa,-0.2
+Torino,190.0,6.0,Hellas Verona,0.16666666666666666
+Torino,190.0,10.0,Inter,-0.2
+Torino,190.0,10.0,Juventus,-0.8
+Torino,190.0,10.0,Lazio,-0.2
+Torino,190.0,2.0,Lecce,0.5
+Torino,190.0,2.0,Livorno,0.5
+Torino,190.0,10.0,Milan,-0.5
+Torino,190.0,10.0,Napoli,-0.3
+Torino,190.0,8.0,Palermo,0.25
+Torino,190.0,6.0,Parma,-0.16666666666666666
+Torino,190.0,2.0,Pescara,1.0
+Torino,190.0,2.0,Reggio Calabria,0.0
+Torino,190.0,10.0,Roma,-0.7
+Torino,190.0,10.0,Sampdoria,-0.2
+Torino,190.0,6.0,Sassuolo,0.0
+Torino,190.0,4.0,Siena,0.25
+Torino,190.0,10.0,Udinese,0.1
+Tottenham Hotspur,304.0,16.0,Arsenal,0.0
+Tottenham Hotspur,304.0,16.0,Aston Villa,0.5625
+Tottenham Hotspur,304.0,4.0,Birmingham City,0.5
+Tottenham Hotspur,304.0,8.0,Blackburn Rovers,0.75
+Tottenham Hotspur,304.0,2.0,Blackpool,-0.5
+Tottenham Hotspur,304.0,8.0,Bolton Wanderers,0.375
+Tottenham Hotspur,304.0,2.0,Bournemouth,1.0
+Tottenham Hotspur,304.0,4.0,Burnley,0.25
+Tottenham Hotspur,304.0,2.0,Cardiff City,1.0
+Tottenham Hotspur,304.0,16.0,Chelsea,-0.125
+Tottenham Hotspur,304.0,6.0,Crystal Palace,0.5
+Tottenham Hotspur,304.0,16.0,Everton,0.0625
+Tottenham Hotspur,304.0,12.0,Fulham,0.5
+Tottenham Hotspur,304.0,8.0,Hull City,0.5
+Tottenham Hotspur,304.0,4.0,Leicester City,0.25
+Tottenham Hotspur,304.0,16.0,Liverpool,-0.0625
+Tottenham Hotspur,304.0,16.0,Manchester City,-0.0625
+Tottenham Hotspur,304.0,16.0,Manchester United,-0.3125
+Tottenham Hotspur,304.0,2.0,Middlesbrough,0.0
+Tottenham Hotspur,304.0,14.0,Newcastle United,0.0
+Tottenham Hotspur,304.0,8.0,Norwich City,0.25
+Tottenham Hotspur,304.0,4.0,Portsmouth,0.25
+Tottenham Hotspur,304.0,6.0,Queens Park Rangers,0.5
+Tottenham Hotspur,304.0,2.0,Reading,1.0
+Tottenham Hotspur,304.0,8.0,Southampton,0.625
+Tottenham Hotspur,304.0,16.0,Stoke City,0.1875
+Tottenham Hotspur,304.0,16.0,Sunderland,0.5
+Tottenham Hotspur,304.0,10.0,Swansea City,0.8
+Tottenham Hotspur,304.0,2.0,Watford,1.0
+Tottenham Hotspur,304.0,14.0,West Bromwich Albion,0.21428571428571427
+Tottenham Hotspur,304.0,14.0,West Ham United,0.2857142857142857
+Tottenham Hotspur,304.0,10.0,Wigan Athletic,0.1
+Tottenham Hotspur,304.0,6.0,Wolverhampton Wanderers,0.0
+Toulouse FC,304.0,6.0,AC Ajaccio,0.0
+Toulouse FC,304.0,2.0,AC Arles-Avignon,0.0
+Toulouse FC,304.0,8.0,AJ Auxerre,0.0
+Toulouse FC,304.0,12.0,AS Monaco,-0.4166666666666667
+Toulouse FC,304.0,10.0,AS Nancy-Lorraine,0.7
+Toulouse FC,304.0,16.0,AS Saint-Étienne,0.25
+Toulouse FC,304.0,2.0,Angers SCO,0.0
+Toulouse FC,304.0,2.0,Dijon FCO,0.5
+Toulouse FC,304.0,4.0,ES Troyes AC,0.75
+Toulouse FC,304.0,6.0,En Avant de Guingamp,-0.6666666666666666
+Toulouse FC,304.0,16.0,FC Lorient,-0.125
+Toulouse FC,304.0,2.0,FC Metz,0.0
+Toulouse FC,304.0,8.0,FC Nantes,0.375
+Toulouse FC,304.0,12.0,FC Sochaux-Montbéliard,0.3333333333333333
+Toulouse FC,304.0,2.0,GFC Ajaccio,0.0
+Toulouse FC,304.0,16.0,Girondins de Bordeaux,0.0625
+Toulouse FC,304.0,4.0,Grenoble Foot 38,0.0
+Toulouse FC,304.0,16.0,LOSC Lille,-0.375
+Toulouse FC,304.0,2.0,Le Havre AC,1.0
+Toulouse FC,304.0,4.0,Le Mans FC,1.0
+Toulouse FC,304.0,14.0,Montpellier Hérault SC,-0.35714285714285715
+Toulouse FC,304.0,16.0,OGC Nice,-0.25
+Toulouse FC,304.0,16.0,Olympique Lyonnais,-0.25
+Toulouse FC,304.0,16.0,Olympique de Marseille,-0.25
+Toulouse FC,304.0,16.0,Paris Saint-Germain,-0.5625
+Toulouse FC,304.0,6.0,RC Lens,0.16666666666666666
+Toulouse FC,304.0,8.0,SC Bastia,-0.375
+Toulouse FC,304.0,10.0,SM Caen,0.1
+Toulouse FC,304.0,6.0,Stade Brestois 29,0.6666666666666666
+Toulouse FC,304.0,16.0,Stade Rennais FC,-0.0625
+Toulouse FC,304.0,8.0,Stade de Reims,0.375
+Toulouse FC,304.0,2.0,US Boulogne Cote D'Opale,0.5
+Toulouse FC,304.0,12.0,Valenciennes FC,0.0
+Toulouse FC,304.0,8.0,Évian Thonon Gaillard FC,0.0
+UD Almería,190.0,10.0,Athletic Club de Bilbao,-0.5
+UD Almería,190.0,10.0,Atlético Madrid,-0.2
+UD Almería,190.0,8.0,CA Osasuna,0.125
+UD Almería,190.0,2.0,CD Numancia,0.0
+UD Almería,190.0,2.0,CD Tenerife,0.0
+UD Almería,190.0,2.0,Córdoba CF,0.5
+UD Almería,190.0,4.0,Elche CF,-0.5
+UD Almería,190.0,10.0,FC Barcelona,-0.9
+UD Almería,190.0,10.0,Getafe CF,0.1
+UD Almería,190.0,4.0,Granada CF,0.75
+UD Almería,190.0,2.0,Hércules Club de Fútbol,0.5
+UD Almería,190.0,6.0,Levante UD,-0.8333333333333334
+UD Almería,190.0,10.0,Málaga CF,0.0
+UD Almería,190.0,4.0,RC Celta de Vigo,-0.25
+UD Almería,190.0,8.0,RC Deportivo de La Coruña,0.0
+UD Almería,190.0,2.0,RC Recreativo,0.5
+UD Almería,190.0,10.0,RCD Espanyol,-0.3
+UD Almería,190.0,6.0,RCD Mallorca,-0.16666666666666666
+UD Almería,190.0,6.0,Racing Santander,0.16666666666666666
+UD Almería,190.0,4.0,Rayo Vallecano,-1.0
+UD Almería,190.0,4.0,Real Betis Balompié,0.5
+UD Almería,190.0,10.0,Real Madrid CF,-0.8
+UD Almería,190.0,6.0,Real Sociedad,0.0
+UD Almería,190.0,6.0,Real Sporting de Gijón,-0.16666666666666666
+UD Almería,190.0,6.0,Real Valladolid,0.0
+UD Almería,190.0,4.0,Real Zaragoza,-0.25
+UD Almería,190.0,2.0,SD Eibar,0.0
+UD Almería,190.0,10.0,Sevilla FC,-0.8
+UD Almería,190.0,10.0,Valencia CF,-0.6
+UD Almería,190.0,10.0,Villarreal CF,-0.3
+UD Almería,190.0,2.0,Xerez Club Deportivo,0.0
+UD Las Palmas,38.0,2.0,Athletic Club de Bilbao,0.0
+UD Las Palmas,38.0,2.0,Atlético Madrid,-1.0
+UD Las Palmas,38.0,2.0,FC Barcelona,-1.0
+UD Las Palmas,38.0,2.0,Getafe CF,0.0
+UD Las Palmas,38.0,2.0,Granada CF,0.0
+UD Las Palmas,38.0,2.0,Levante UD,-0.5
+UD Las Palmas,38.0,2.0,Málaga CF,-0.5
+UD Las Palmas,38.0,2.0,RC Celta de Vigo,0.5
+UD Las Palmas,38.0,2.0,RC Deportivo de La Coruña,0.0
+UD Las Palmas,38.0,2.0,RCD Espanyol,0.0
+UD Las Palmas,38.0,2.0,Rayo Vallecano,-1.0
+UD Las Palmas,38.0,2.0,Real Betis Balompié,0.0
+UD Las Palmas,38.0,2.0,Real Madrid CF,-1.0
+UD Las Palmas,38.0,2.0,Real Sociedad,1.0
+UD Las Palmas,38.0,2.0,Real Sporting de Gijón,-0.5
+UD Las Palmas,38.0,2.0,SD Eibar,0.0
+UD Las Palmas,38.0,2.0,Sevilla FC,0.0
+UD Las Palmas,38.0,2.0,Valencia CF,0.5
+UD Las Palmas,38.0,2.0,Villarreal CF,0.5
+US Boulogne Cote D'Opale,38.0,2.0,AJ Auxerre,0.0
+US Boulogne Cote D'Opale,38.0,2.0,AS Monaco,-1.0
+US Boulogne Cote D'Opale,38.0,2.0,AS Nancy-Lorraine,0.0
+US Boulogne Cote D'Opale,38.0,2.0,AS Saint-Étienne,0.0
+US Boulogne Cote D'Opale,38.0,2.0,FC Lorient,0.0
+US Boulogne Cote D'Opale,38.0,2.0,FC Sochaux-Montbéliard,0.5
+US Boulogne Cote D'Opale,38.0,2.0,Girondins de Bordeaux,-0.5
+US Boulogne Cote D'Opale,38.0,2.0,Grenoble Foot 38,0.0
+US Boulogne Cote D'Opale,38.0,2.0,LOSC Lille,-1.0
+US Boulogne Cote D'Opale,38.0,2.0,Le Mans FC,-0.5
+US Boulogne Cote D'Opale,38.0,2.0,Montpellier Hérault SC,-1.0
+US Boulogne Cote D'Opale,38.0,2.0,OGC Nice,0.0
+US Boulogne Cote D'Opale,38.0,2.0,Olympique Lyonnais,-0.5
+US Boulogne Cote D'Opale,38.0,2.0,Olympique de Marseille,-1.0
+US Boulogne Cote D'Opale,38.0,2.0,Paris Saint-Germain,-1.0
+US Boulogne Cote D'Opale,38.0,2.0,RC Lens,0.0
+US Boulogne Cote D'Opale,38.0,2.0,Stade Rennais FC,0.0
+US Boulogne Cote D'Opale,38.0,2.0,Toulouse FC,-0.5
+US Boulogne Cote D'Opale,38.0,2.0,Valenciennes FC,-0.5
+Udinese,302.0,13.0,Atalanta,0.07692307692307693
+Udinese,302.0,4.0,Bari,0.25
+Udinese,302.0,14.0,Bologna,0.21428571428571427
+Udinese,302.0,2.0,Brescia,0.5
+Udinese,302.0,14.0,Cagliari,0.21428571428571427
+Udinese,302.0,2.0,Carpi,-1.0
+Udinese,302.0,12.0,Catania,0.25
+Udinese,302.0,6.0,Cesena,0.5
+Udinese,302.0,16.0,Chievo Verona,0.3125
+Udinese,302.0,4.0,Empoli,0.25
+Udinese,302.0,16.0,Fiorentina,-0.1875
+Udinese,302.0,2.0,Frosinone,0.0
+Udinese,302.0,16.0,Genoa,-0.1875
+Udinese,302.0,6.0,Hellas Verona,0.0
+Udinese,302.0,16.0,Inter,-0.3125
+Udinese,302.0,16.0,Juventus,-0.375
+Udinese,302.0,16.0,Lazio,-0.125
+Udinese,302.0,6.0,Lecce,0.5
+Udinese,302.0,4.0,Livorno,1.0
+Udinese,302.0,16.0,Milan,-0.125
+Udinese,302.0,16.0,Napoli,0.0625
+Udinese,302.0,1.0,Novara,1.0
+Udinese,302.0,14.0,Palermo,0.07142857142857142
+Udinese,302.0,12.0,Parma,-0.08333333333333333
+Udinese,302.0,2.0,Pescara,1.0
+Udinese,302.0,2.0,Reggio Calabria,0.0
+Udinese,302.0,16.0,Roma,-0.375
+Udinese,302.0,14.0,Sampdoria,-0.07142857142857142
+Udinese,302.0,6.0,Sassuolo,0.16666666666666666
+Udinese,302.0,8.0,Siena,0.25
+Udinese,302.0,10.0,Torino,-0.1
+Valencia CF,304.0,16.0,Athletic Club de Bilbao,0.1875
+Valencia CF,304.0,16.0,Atlético Madrid,-0.0625
+Valencia CF,304.0,12.0,CA Osasuna,0.4166666666666667
+Valencia CF,304.0,2.0,CD Numancia,0.0
+Valencia CF,304.0,2.0,CD Tenerife,0.5
+Valencia CF,304.0,2.0,Córdoba CF,1.0
+Valencia CF,304.0,4.0,Elche CF,0.5
+Valencia CF,304.0,16.0,FC Barcelona,-0.4375
+Valencia CF,304.0,16.0,Getafe CF,0.5
+Valencia CF,304.0,10.0,Granada CF,0.9
+Valencia CF,304.0,2.0,Hércules Club de Fútbol,1.0
+Valencia CF,304.0,12.0,Levante UD,0.08333333333333333
+Valencia CF,304.0,16.0,Málaga CF,0.5
+Valencia CF,304.0,8.0,RC Celta de Vigo,0.25
+Valencia CF,304.0,12.0,RC Deportivo de La Coruña,0.4166666666666667
+Valencia CF,304.0,2.0,RC Recreativo,0.0
+Valencia CF,304.0,16.0,RCD Espanyol,0.3125
+Valencia CF,304.0,10.0,RCD Mallorca,-0.1
+Valencia CF,304.0,8.0,Racing Santander,0.375
+Valencia CF,304.0,10.0,Rayo Vallecano,0.3
+Valencia CF,304.0,10.0,Real Betis Balompié,0.1
+Valencia CF,304.0,16.0,Real Madrid CF,-0.4375
+Valencia CF,304.0,12.0,Real Sociedad,-0.4166666666666667
+Valencia CF,304.0,10.0,Real Sporting de Gijón,0.3
+Valencia CF,304.0,8.0,Real Valladolid,0.375
+Valencia CF,304.0,8.0,Real Zaragoza,0.0
+Valencia CF,304.0,4.0,SD Eibar,0.75
+Valencia CF,304.0,16.0,Sevilla FC,-0.0625
+Valencia CF,304.0,10.0,UD Almería,0.6
+Valencia CF,304.0,2.0,UD Las Palmas,-0.5
+Valencia CF,304.0,14.0,Villarreal CF,0.0
+Valencia CF,304.0,2.0,Xerez Club Deportivo,1.0
+Valenciennes FC,228.0,6.0,AC Ajaccio,-0.16666666666666666
+Valenciennes FC,228.0,2.0,AC Arles-Avignon,1.0
+Valenciennes FC,228.0,8.0,AJ Auxerre,0.0
+Valenciennes FC,228.0,8.0,AS Monaco,0.25
+Valenciennes FC,228.0,10.0,AS Nancy-Lorraine,-0.3
+Valenciennes FC,228.0,12.0,AS Saint-Étienne,-0.25
+Valenciennes FC,228.0,2.0,Dijon FCO,1.0
+Valenciennes FC,228.0,2.0,ES Troyes AC,1.0
+Valenciennes FC,228.0,2.0,En Avant de Guingamp,-0.5
+Valenciennes FC,228.0,12.0,FC Lorient,-0.08333333333333333
+Valenciennes FC,228.0,4.0,FC Nantes,-0.75
+Valenciennes FC,228.0,12.0,FC Sochaux-Montbéliard,0.08333333333333333
+Valenciennes FC,228.0,12.0,Girondins de Bordeaux,-0.4166666666666667
+Valenciennes FC,228.0,4.0,Grenoble Foot 38,0.5
+Valenciennes FC,228.0,12.0,LOSC Lille,-0.5
+Valenciennes FC,228.0,2.0,Le Havre AC,0.0
+Valenciennes FC,228.0,4.0,Le Mans FC,-1.0
+Valenciennes FC,228.0,10.0,Montpellier Hérault SC,-0.4
+Valenciennes FC,228.0,12.0,OGC Nice,0.0
+Valenciennes FC,228.0,12.0,Olympique Lyonnais,-0.16666666666666666
+Valenciennes FC,228.0,12.0,Olympique de Marseille,-0.16666666666666666
+Valenciennes FC,228.0,12.0,Paris Saint-Germain,-0.5833333333333334
+Valenciennes FC,228.0,4.0,RC Lens,0.0
+Valenciennes FC,228.0,4.0,SC Bastia,0.0
+Valenciennes FC,228.0,6.0,SM Caen,0.16666666666666666
+Valenciennes FC,228.0,6.0,Stade Brestois 29,-0.16666666666666666
+Valenciennes FC,228.0,12.0,Stade Rennais FC,0.16666666666666666
+Valenciennes FC,228.0,4.0,Stade de Reims,0.25
+Valenciennes FC,228.0,12.0,Toulouse FC,0.0
+Valenciennes FC,228.0,2.0,US Boulogne Cote D'Opale,0.5
+Valenciennes FC,228.0,6.0,Évian Thonon Gaillard FC,-0.3333333333333333
+Villarreal CF,266.0,14.0,Athletic Club de Bilbao,0.2857142857142857
+Villarreal CF,266.0,14.0,Atlético Madrid,-0.07142857142857142
+Villarreal CF,266.0,10.0,CA Osasuna,0.0
+Villarreal CF,266.0,2.0,CD Numancia,1.0
+Villarreal CF,266.0,2.0,CD Tenerife,0.5
+Villarreal CF,266.0,2.0,Córdoba CF,0.5
+Villarreal CF,266.0,4.0,Elche CF,0.5
+Villarreal CF,266.0,14.0,FC Barcelona,-0.7142857142857143
+Villarreal CF,266.0,14.0,Getafe CF,0.07142857142857142
+Villarreal CF,266.0,8.0,Granada CF,0.375
+Villarreal CF,266.0,2.0,Hércules Club de Fútbol,0.5
+Villarreal CF,266.0,10.0,Levante UD,0.2
+Villarreal CF,266.0,14.0,Málaga CF,0.14285714285714285
+Villarreal CF,266.0,6.0,RC Celta de Vigo,0.0
+Villarreal CF,266.0,10.0,RC Deportivo de La Coruña,0.1
+Villarreal CF,266.0,2.0,RC Recreativo,1.0
+Villarreal CF,266.0,14.0,RCD Espanyol,0.35714285714285715
+Villarreal CF,266.0,8.0,RCD Mallorca,0.25
+Villarreal CF,266.0,8.0,Racing Santander,0.375
+Villarreal CF,266.0,8.0,Rayo Vallecano,0.5
+Villarreal CF,266.0,8.0,Real Betis Balompié,0.0
+Villarreal CF,266.0,14.0,Real Madrid CF,-0.5
+Villarreal CF,266.0,10.0,Real Sociedad,0.4
+Villarreal CF,266.0,10.0,Real Sporting de Gijón,0.4
+Villarreal CF,266.0,6.0,Real Valladolid,0.16666666666666666
+Villarreal CF,266.0,6.0,Real Zaragoza,0.3333333333333333
+Villarreal CF,266.0,4.0,SD Eibar,0.5
+Villarreal CF,266.0,14.0,Sevilla FC,-0.2857142857142857
+Villarreal CF,266.0,10.0,UD Almería,0.3
+Villarreal CF,266.0,2.0,UD Las Palmas,-0.5
+Villarreal CF,266.0,14.0,Valencia CF,0.0
+Villarreal CF,266.0,2.0,Xerez Club Deportivo,0.0
+Watford,38.0,2.0,Arsenal,-1.0
+Watford,38.0,2.0,Aston Villa,1.0
+Watford,38.0,2.0,Bournemouth,0.0
+Watford,38.0,2.0,Chelsea,0.0
+Watford,38.0,2.0,Crystal Palace,0.0
+Watford,38.0,2.0,Everton,0.0
+Watford,38.0,2.0,Leicester City,-1.0
+Watford,38.0,2.0,Liverpool,0.0
+Watford,38.0,2.0,Manchester City,-1.0
+Watford,38.0,2.0,Manchester United,-1.0
+Watford,38.0,2.0,Newcastle United,1.0
+Watford,38.0,2.0,Norwich City,0.0
+Watford,38.0,2.0,Southampton,-0.5
+Watford,38.0,2.0,Stoke City,0.0
+Watford,38.0,2.0,Sunderland,0.5
+Watford,38.0,2.0,Swansea City,0.0
+Watford,38.0,2.0,Tottenham Hotspur,-1.0
+Watford,38.0,2.0,West Bromwich Albion,0.5
+Watford,38.0,2.0,West Ham United,0.0
+West Bromwich Albion,266.0,14.0,Arsenal,-0.5714285714285714
+West Bromwich Albion,266.0,14.0,Aston Villa,-0.07142857142857142
+West Bromwich Albion,266.0,2.0,Birmingham City,1.0
+West Bromwich Albion,266.0,6.0,Blackburn Rovers,0.0
+West Bromwich Albion,266.0,2.0,Blackpool,0.0
+West Bromwich Albion,266.0,6.0,Bolton Wanderers,0.0
+West Bromwich Albion,266.0,2.0,Bournemouth,-0.5
+West Bromwich Albion,266.0,2.0,Burnley,0.5
+West Bromwich Albion,266.0,2.0,Cardiff City,-0.5
+West Bromwich Albion,266.0,14.0,Chelsea,-0.35714285714285715
+West Bromwich Albion,266.0,6.0,Crystal Palace,0.16666666666666666
+West Bromwich Albion,266.0,14.0,Everton,-0.21428571428571427
+West Bromwich Albion,266.0,10.0,Fulham,-0.2
+West Bromwich Albion,266.0,6.0,Hull City,-0.16666666666666666
+West Bromwich Albion,266.0,4.0,Leicester City,-0.25
+West Bromwich Albion,266.0,14.0,Liverpool,-0.14285714285714285
+West Bromwich Albion,266.0,14.0,Manchester City,-0.7857142857142857
+West Bromwich Albion,266.0,14.0,Manchester United,-0.35714285714285715
+West Bromwich Albion,266.0,2.0,Middlesbrough,1.0
+West Bromwich Albion,266.0,14.0,Newcastle United,-0.21428571428571427
+West Bromwich Albion,266.0,8.0,Norwich City,0.0
+West Bromwich Albion,266.0,2.0,Portsmouth,0.0
+West Bromwich Albion,266.0,6.0,Queens Park Rangers,0.16666666666666666
+West Bromwich Albion,266.0,2.0,Reading,0.0
+West Bromwich Albion,266.0,8.0,Southampton,0.0
+West Bromwich Albion,266.0,14.0,Stoke City,-0.21428571428571427
+West Bromwich Albion,266.0,14.0,Sunderland,0.42857142857142855
+West Bromwich Albion,266.0,10.0,Swansea City,-0.3
+West Bromwich Albion,266.0,14.0,Tottenham Hotspur,-0.21428571428571427
+West Bromwich Albion,266.0,2.0,Watford,-0.5
+West Bromwich Albion,266.0,12.0,West Ham United,-0.08333333333333333
+West Bromwich Albion,266.0,8.0,Wigan Athletic,-0.25
+West Bromwich Albion,266.0,4.0,Wolverhampton Wanderers,0.25
+West Ham United,266.0,14.0,Arsenal,-0.6428571428571429
+West Ham United,266.0,14.0,Aston Villa,-0.07142857142857142
+West Ham United,266.0,4.0,Birmingham City,-0.25
+West Ham United,266.0,6.0,Blackburn Rovers,0.16666666666666666
+West Ham United,266.0,2.0,Blackpool,0.5
+West Ham United,266.0,6.0,Bolton Wanderers,-1.0
+West Ham United,266.0,2.0,Bournemouth,0.0
+West Ham United,266.0,4.0,Burnley,0.5
+West Ham United,266.0,2.0,Cardiff City,1.0
+West Ham United,266.0,14.0,Chelsea,-0.42857142857142855
+West Ham United,266.0,6.0,Crystal Palace,-0.16666666666666666
+West Ham United,266.0,14.0,Everton,-0.5714285714285714
+West Ham United,266.0,10.0,Fulham,0.2
+West Ham United,266.0,8.0,Hull City,0.25
+West Ham United,266.0,4.0,Leicester City,-0.25
+West Ham United,266.0,14.0,Liverpool,-0.2857142857142857
+West Ham United,266.0,14.0,Manchester City,-0.35714285714285715
+West Ham United,266.0,14.0,Manchester United,-0.6428571428571429
+West Ham United,266.0,2.0,Middlesbrough,0.5
+West Ham United,266.0,12.0,Newcastle United,-0.08333333333333333
+West Ham United,266.0,6.0,Norwich City,0.16666666666666666
+West Ham United,266.0,4.0,Portsmouth,0.5
+West Ham United,266.0,4.0,Queens Park Rangers,0.5
+West Ham United,266.0,2.0,Reading,0.0
+West Ham United,266.0,8.0,Southampton,0.125
+West Ham United,266.0,14.0,Stoke City,-0.07142857142857142
+West Ham United,266.0,14.0,Sunderland,0.21428571428571427
+West Ham United,266.0,8.0,Swansea City,0.125
+West Ham United,266.0,14.0,Tottenham Hotspur,-0.2857142857142857
+West Ham United,266.0,2.0,Watford,0.0
+West Ham United,266.0,12.0,West Bromwich Albion,0.08333333333333333
+West Ham United,266.0,8.0,Wigan Athletic,0.25
+West Ham United,266.0,4.0,Wolverhampton Wanderers,0.25
+Wigan Athletic,190.0,10.0,Arsenal,-0.5
+Wigan Athletic,190.0,10.0,Aston Villa,-0.2
+Wigan Athletic,190.0,4.0,Birmingham City,-0.25
+Wigan Athletic,190.0,8.0,Blackburn Rovers,0.0
+Wigan Athletic,190.0,2.0,Blackpool,0.0
+Wigan Athletic,190.0,8.0,Bolton Wanderers,0.0
+Wigan Athletic,190.0,2.0,Burnley,1.0
+Wigan Athletic,190.0,10.0,Chelsea,-0.7
+Wigan Athletic,190.0,10.0,Everton,-0.4
+Wigan Athletic,190.0,10.0,Fulham,-0.6
+Wigan Athletic,190.0,4.0,Hull City,0.25
+Wigan Athletic,190.0,10.0,Liverpool,-0.2
+Wigan Athletic,190.0,10.0,Manchester City,-0.7
+Wigan Athletic,190.0,10.0,Manchester United,-0.8
+Wigan Athletic,190.0,2.0,Middlesbrough,-0.5
+Wigan Athletic,190.0,8.0,Newcastle United,0.0
+Wigan Athletic,190.0,4.0,Norwich City,0.0
+Wigan Athletic,190.0,4.0,Portsmouth,0.25
+Wigan Athletic,190.0,4.0,Queens Park Rangers,0.0
+Wigan Athletic,190.0,2.0,Reading,1.0
+Wigan Athletic,190.0,2.0,Southampton,0.5
+Wigan Athletic,190.0,10.0,Stoke City,0.1
+Wigan Athletic,190.0,10.0,Sunderland,-0.1
+Wigan Athletic,190.0,4.0,Swansea City,-0.75
+Wigan Athletic,190.0,10.0,Tottenham Hotspur,-0.1
+Wigan Athletic,190.0,8.0,West Bromwich Albion,0.25
+Wigan Athletic,190.0,8.0,West Ham United,-0.25
+Wigan Athletic,190.0,6.0,Wolverhampton Wanderers,0.3333333333333333
+Wolverhampton Wanderers,114.0,6.0,Arsenal,-0.8333333333333334
+Wolverhampton Wanderers,114.0,6.0,Aston Villa,-0.16666666666666666
+Wolverhampton Wanderers,114.0,4.0,Birmingham City,-0.25
+Wolverhampton Wanderers,114.0,6.0,Blackburn Rovers,-0.5
+Wolverhampton Wanderers,114.0,2.0,Blackpool,0.0
+Wolverhampton Wanderers,114.0,6.0,Bolton Wanderers,-0.5
+Wolverhampton Wanderers,114.0,2.0,Burnley,1.0
+Wolverhampton Wanderers,114.0,6.0,Chelsea,-0.6666666666666666
+Wolverhampton Wanderers,114.0,6.0,Everton,-0.3333333333333333
+Wolverhampton Wanderers,114.0,6.0,Fulham,0.0
+Wolverhampton Wanderers,114.0,2.0,Hull City,0.0
+Wolverhampton Wanderers,114.0,6.0,Liverpool,-0.5
+Wolverhampton Wanderers,114.0,6.0,Manchester City,-0.6666666666666666
+Wolverhampton Wanderers,114.0,6.0,Manchester United,-0.6666666666666666
+Wolverhampton Wanderers,114.0,4.0,Newcastle United,-0.5
+Wolverhampton Wanderers,114.0,2.0,Norwich City,-0.5
+Wolverhampton Wanderers,114.0,2.0,Portsmouth,-1.0
+Wolverhampton Wanderers,114.0,2.0,Queens Park Rangers,0.0
+Wolverhampton Wanderers,114.0,6.0,Stoke City,-0.3333333333333333
+Wolverhampton Wanderers,114.0,6.0,Sunderland,0.5
+Wolverhampton Wanderers,114.0,2.0,Swansea City,0.0
+Wolverhampton Wanderers,114.0,6.0,Tottenham Hotspur,0.0
+Wolverhampton Wanderers,114.0,4.0,West Bromwich Albion,-0.25
+Wolverhampton Wanderers,114.0,4.0,West Ham United,-0.25
+Wolverhampton Wanderers,114.0,6.0,Wigan Athletic,-0.3333333333333333
+Xerez Club Deportivo,38.0,2.0,Athletic Club de Bilbao,-1.0
+Xerez Club Deportivo,38.0,2.0,Atlético Madrid,0.0
+Xerez Club Deportivo,38.0,2.0,CA Osasuna,-0.5
+Xerez Club Deportivo,38.0,2.0,CD Tenerife,0.0
+Xerez Club Deportivo,38.0,2.0,FC Barcelona,-1.0
+Xerez Club Deportivo,38.0,2.0,Getafe CF,-1.0
+Xerez Club Deportivo,38.0,2.0,Málaga CF,0.5
+Xerez Club Deportivo,38.0,2.0,RC Deportivo de La Coruña,-1.0
+Xerez Club Deportivo,38.0,2.0,RCD Espanyol,0.0
+Xerez Club Deportivo,38.0,2.0,RCD Mallorca,0.0
+Xerez Club Deportivo,38.0,2.0,Racing Santander,-0.5
+Xerez Club Deportivo,38.0,2.0,Real Madrid CF,-1.0
+Xerez Club Deportivo,38.0,2.0,Real Sporting de Gijón,0.0
+Xerez Club Deportivo,38.0,2.0,Real Valladolid,0.5
+Xerez Club Deportivo,38.0,2.0,Real Zaragoza,0.5
+Xerez Club Deportivo,38.0,2.0,Sevilla FC,-0.5
+Xerez Club Deportivo,38.0,2.0,UD Almería,0.0
+Xerez Club Deportivo,38.0,2.0,Valencia CF,-1.0
+Xerez Club Deportivo,38.0,2.0,Villarreal CF,0.0
+Évian Thonon Gaillard FC,152.0,6.0,AC Ajaccio,0.16666666666666666
+Évian Thonon Gaillard FC,152.0,2.0,AJ Auxerre,1.0
+Évian Thonon Gaillard FC,152.0,4.0,AS Monaco,-0.25
+Évian Thonon Gaillard FC,152.0,4.0,AS Nancy-Lorraine,0.0
+Évian Thonon Gaillard FC,152.0,8.0,AS Saint-Étienne,-0.625
+Évian Thonon Gaillard FC,152.0,2.0,Dijon FCO,-1.0
+Évian Thonon Gaillard FC,152.0,2.0,ES Troyes AC,0.0
+Évian Thonon Gaillard FC,152.0,4.0,En Avant de Guingamp,0.25
+Évian Thonon Gaillard FC,152.0,8.0,FC Lorient,0.25
+Évian Thonon Gaillard FC,152.0,2.0,FC Metz,1.0
+Évian Thonon Gaillard FC,152.0,4.0,FC Nantes,-0.5
+Évian Thonon Gaillard FC,152.0,6.0,FC Sochaux-Montbéliard,0.0
+Évian Thonon Gaillard FC,152.0,8.0,Girondins de Bordeaux,-0.625
+Évian Thonon Gaillard FC,152.0,8.0,LOSC Lille,-0.5
+Évian Thonon Gaillard FC,152.0,8.0,Montpellier Hérault SC,0.125
+Évian Thonon Gaillard FC,152.0,8.0,OGC Nice,0.25
+Évian Thonon Gaillard FC,152.0,8.0,Olympique Lyonnais,-0.5
+Évian Thonon Gaillard FC,152.0,8.0,Olympique de Marseille,-0.625
+Évian Thonon Gaillard FC,152.0,8.0,Paris Saint-Germain,-0.5
+Évian Thonon Gaillard FC,152.0,2.0,RC Lens,1.0
+Évian Thonon Gaillard FC,152.0,6.0,SC Bastia,0.16666666666666666
+Évian Thonon Gaillard FC,152.0,4.0,SM Caen,-0.75
+Évian Thonon Gaillard FC,152.0,4.0,Stade Brestois 29,-0.75
+Évian Thonon Gaillard FC,152.0,8.0,Stade Rennais FC,-0.25
+Évian Thonon Gaillard FC,152.0,6.0,Stade de Reims,-0.3333333333333333
+Évian Thonon Gaillard FC,152.0,8.0,Toulouse FC,0.0
+Évian Thonon Gaillard FC,152.0,6.0,Valenciennes FC,0.3333333333333333
