@@ -4433,6 +4433,1580 @@ GFC Ajaccio,Stade Rennais FC,1.0,1.0
 GFC Ajaccio,Stade de Reims,1.0,1.0
 GFC Ajaccio,Stade de Reims,3.0,1.0
 GFC Ajaccio,Toulouse FC,1.0,2.0
+FC Bayern Munich,1. FC Kaiserslautern,0.0,1.0
+FC Bayern Munich,1. FC Kaiserslautern,3.0,3.0
+FC Bayern Munich,1. FC Köln,0.0,2.0
+FC Bayern Munich,1. FC Köln,1.0,3.0
+FC Bayern Munich,1. FC Köln,3.0,7.0
+FC Bayern Munich,1. FC Nürnberg,1.0,3.0
+FC Bayern Munich,1. FC Nürnberg,3.0,7.0
+FC Bayern Munich,1. FSV Mainz 05,0.0,4.0
+FC Bayern Munich,1. FSV Mainz 05,1.0,1.0
+FC Bayern Munich,1. FSV Mainz 05,3.0,9.0
+FC Bayern Munich,Bayer 04 Leverkusen,0.0,3.0
+FC Bayern Munich,Bayer 04 Leverkusen,1.0,5.0
+FC Bayern Munich,Bayer 04 Leverkusen,3.0,8.0
+FC Bayern Munich,Borussia Dortmund,0.0,5.0
+FC Bayern Munich,Borussia Dortmund,1.0,4.0
+FC Bayern Munich,Borussia Dortmund,3.0,7.0
+FC Bayern Munich,Borussia Mönchengladbach,0.0,4.0
+FC Bayern Munich,Borussia Mönchengladbach,1.0,6.0
+FC Bayern Munich,Borussia Mönchengladbach,3.0,6.0
+FC Bayern Munich,DSC Arminia Bielefeld,3.0,2.0
+FC Bayern Munich,Eintracht Braunschweig,3.0,2.0
+FC Bayern Munich,Eintracht Frankfurt,0.0,1.0
+FC Bayern Munich,Eintracht Frankfurt,1.0,2.0
+FC Bayern Munich,Eintracht Frankfurt,3.0,11.0
+FC Bayern Munich,FC Augsburg,0.0,2.0
+FC Bayern Munich,FC Augsburg,3.0,8.0
+FC Bayern Munich,FC Energie Cottbus,3.0,2.0
+FC Bayern Munich,FC Ingolstadt 04,3.0,2.0
+FC Bayern Munich,FC Schalke 04,0.0,2.0
+FC Bayern Munich,FC Schalke 04,1.0,3.0
+FC Bayern Munich,FC Schalke 04,3.0,11.0
+FC Bayern Munich,FC St. Pauli,3.0,2.0
+FC Bayern Munich,Fortuna Düsseldorf,3.0,2.0
+FC Bayern Munich,Hamburger SV,0.0,2.0
+FC Bayern Munich,Hamburger SV,1.0,4.0
+FC Bayern Munich,Hamburger SV,3.0,10.0
+FC Bayern Munich,Hannover 96,0.0,3.0
+FC Bayern Munich,Hannover 96,3.0,13.0
+FC Bayern Munich,Hertha BSC Berlin,0.0,1.0
+FC Bayern Munich,Hertha BSC Berlin,3.0,11.0
+FC Bayern Munich,Karlsruher SC,3.0,2.0
+FC Bayern Munich,SC Freiburg,0.0,1.0
+FC Bayern Munich,SC Freiburg,1.0,2.0
+FC Bayern Munich,SC Freiburg,3.0,9.0
+FC Bayern Munich,SC Paderborn 07,3.0,2.0
+FC Bayern Munich,SV Darmstadt 98,3.0,2.0
+FC Bayern Munich,SV Werder Bremen,0.0,1.0
+FC Bayern Munich,SV Werder Bremen,1.0,3.0
+FC Bayern Munich,SV Werder Bremen,3.0,12.0
+FC Bayern Munich,SpVgg Greuther Fürth,3.0,2.0
+FC Bayern Munich,TSG 1899 Hoffenheim,1.0,4.0
+FC Bayern Munich,TSG 1899 Hoffenheim,3.0,12.0
+FC Bayern Munich,VfB Stuttgart,0.0,1.0
+FC Bayern Munich,VfB Stuttgart,1.0,2.0
+FC Bayern Munich,VfB Stuttgart,3.0,13.0
+FC Bayern Munich,VfL Bochum,1.0,1.0
+FC Bayern Munich,VfL Bochum,3.0,3.0
+FC Bayern Munich,VfL Wolfsburg,0.0,2.0
+FC Bayern Munich,VfL Wolfsburg,1.0,1.0
+FC Bayern Munich,VfL Wolfsburg,3.0,13.0
+Bayer 04 Leverkusen,1. FC Kaiserslautern,3.0,4.0
+Bayer 04 Leverkusen,1. FC Köln,0.0,3.0
+Bayer 04 Leverkusen,1. FC Köln,1.0,2.0
+Bayer 04 Leverkusen,1. FC Köln,3.0,7.0
+Bayer 04 Leverkusen,1. FC Nürnberg,0.0,3.0
+Bayer 04 Leverkusen,1. FC Nürnberg,1.0,1.0
+Bayer 04 Leverkusen,1. FC Nürnberg,3.0,6.0
+Bayer 04 Leverkusen,1. FSV Mainz 05,0.0,5.0
+Bayer 04 Leverkusen,1. FSV Mainz 05,1.0,3.0
+Bayer 04 Leverkusen,1. FSV Mainz 05,3.0,6.0
+Bayer 04 Leverkusen,Borussia Dortmund,0.0,8.0
+Bayer 04 Leverkusen,Borussia Dortmund,1.0,5.0
+Bayer 04 Leverkusen,Borussia Dortmund,3.0,3.0
+Bayer 04 Leverkusen,Borussia Mönchengladbach,0.0,4.0
+Bayer 04 Leverkusen,Borussia Mönchengladbach,1.0,5.0
+Bayer 04 Leverkusen,Borussia Mönchengladbach,3.0,7.0
+Bayer 04 Leverkusen,DSC Arminia Bielefeld,0.0,1.0
+Bayer 04 Leverkusen,DSC Arminia Bielefeld,1.0,1.0
+Bayer 04 Leverkusen,Eintracht Braunschweig,0.0,1.0
+Bayer 04 Leverkusen,Eintracht Braunschweig,1.0,1.0
+Bayer 04 Leverkusen,Eintracht Frankfurt,0.0,4.0
+Bayer 04 Leverkusen,Eintracht Frankfurt,1.0,2.0
+Bayer 04 Leverkusen,Eintracht Frankfurt,3.0,8.0
+Bayer 04 Leverkusen,FC Augsburg,1.0,3.0
+Bayer 04 Leverkusen,FC Augsburg,3.0,7.0
+Bayer 04 Leverkusen,FC Bayern Munich,0.0,8.0
+Bayer 04 Leverkusen,FC Bayern Munich,1.0,5.0
+Bayer 04 Leverkusen,FC Bayern Munich,3.0,3.0
+Bayer 04 Leverkusen,FC Energie Cottbus,0.0,1.0
+Bayer 04 Leverkusen,FC Energie Cottbus,1.0,1.0
+Bayer 04 Leverkusen,FC Ingolstadt 04,3.0,2.0
+Bayer 04 Leverkusen,FC Schalke 04,0.0,5.0
+Bayer 04 Leverkusen,FC Schalke 04,1.0,3.0
+Bayer 04 Leverkusen,FC Schalke 04,3.0,8.0
+Bayer 04 Leverkusen,FC St. Pauli,3.0,2.0
+Bayer 04 Leverkusen,Fortuna Düsseldorf,3.0,2.0
+Bayer 04 Leverkusen,Hamburger SV,0.0,4.0
+Bayer 04 Leverkusen,Hamburger SV,1.0,5.0
+Bayer 04 Leverkusen,Hamburger SV,3.0,7.0
+Bayer 04 Leverkusen,Hannover 96,0.0,2.0
+Bayer 04 Leverkusen,Hannover 96,1.0,4.0
+Bayer 04 Leverkusen,Hannover 96,3.0,10.0
+Bayer 04 Leverkusen,Hertha BSC Berlin,0.0,3.0
+Bayer 04 Leverkusen,Hertha BSC Berlin,1.0,4.0
+Bayer 04 Leverkusen,Hertha BSC Berlin,3.0,5.0
+Bayer 04 Leverkusen,Karlsruher SC,0.0,1.0
+Bayer 04 Leverkusen,Karlsruher SC,1.0,1.0
+Bayer 04 Leverkusen,SC Freiburg,0.0,2.0
+Bayer 04 Leverkusen,SC Freiburg,1.0,3.0
+Bayer 04 Leverkusen,SC Freiburg,3.0,7.0
+Bayer 04 Leverkusen,SC Paderborn 07,1.0,1.0
+Bayer 04 Leverkusen,SC Paderborn 07,3.0,1.0
+Bayer 04 Leverkusen,SV Darmstadt 98,0.0,1.0
+Bayer 04 Leverkusen,SV Darmstadt 98,3.0,1.0
+Bayer 04 Leverkusen,SV Werder Bremen,0.0,3.0
+Bayer 04 Leverkusen,SV Werder Bremen,1.0,7.0
+Bayer 04 Leverkusen,SV Werder Bremen,3.0,6.0
+Bayer 04 Leverkusen,SpVgg Greuther Fürth,1.0,1.0
+Bayer 04 Leverkusen,SpVgg Greuther Fürth,3.0,1.0
+Bayer 04 Leverkusen,TSG 1899 Hoffenheim,0.0,1.0
+Bayer 04 Leverkusen,TSG 1899 Hoffenheim,1.0,2.0
+Bayer 04 Leverkusen,TSG 1899 Hoffenheim,3.0,13.0
+Bayer 04 Leverkusen,VfB Stuttgart,0.0,2.0
+Bayer 04 Leverkusen,VfB Stuttgart,1.0,3.0
+Bayer 04 Leverkusen,VfB Stuttgart,3.0,11.0
+Bayer 04 Leverkusen,VfL Bochum,1.0,2.0
+Bayer 04 Leverkusen,VfL Bochum,3.0,2.0
+Bayer 04 Leverkusen,VfL Wolfsburg,0.0,7.0
+Bayer 04 Leverkusen,VfL Wolfsburg,1.0,1.0
+Bayer 04 Leverkusen,VfL Wolfsburg,3.0,8.0
+FC Schalke 04,1. FC Kaiserslautern,0.0,3.0
+FC Schalke 04,1. FC Kaiserslautern,3.0,1.0
+FC Schalke 04,1. FC Köln,0.0,5.0
+FC Schalke 04,1. FC Köln,3.0,7.0
+FC Schalke 04,1. FC Nürnberg,0.0,3.0
+FC Schalke 04,1. FC Nürnberg,1.0,2.0
+FC Schalke 04,1. FC Nürnberg,3.0,5.0
+FC Schalke 04,1. FSV Mainz 05,0.0,3.0
+FC Schalke 04,1. FSV Mainz 05,1.0,4.0
+FC Schalke 04,1. FSV Mainz 05,3.0,7.0
+FC Schalke 04,Bayer 04 Leverkusen,0.0,8.0
+FC Schalke 04,Bayer 04 Leverkusen,1.0,3.0
+FC Schalke 04,Bayer 04 Leverkusen,3.0,5.0
+FC Schalke 04,Borussia Dortmund,0.0,6.0
+FC Schalke 04,Borussia Dortmund,1.0,5.0
+FC Schalke 04,Borussia Dortmund,3.0,5.0
+FC Schalke 04,Borussia Mönchengladbach,0.0,8.0
+FC Schalke 04,Borussia Mönchengladbach,1.0,2.0
+FC Schalke 04,Borussia Mönchengladbach,3.0,6.0
+FC Schalke 04,DSC Arminia Bielefeld,1.0,1.0
+FC Schalke 04,DSC Arminia Bielefeld,3.0,1.0
+FC Schalke 04,Eintracht Braunschweig,3.0,2.0
+FC Schalke 04,Eintracht Frankfurt,0.0,2.0
+FC Schalke 04,Eintracht Frankfurt,1.0,5.0
+FC Schalke 04,Eintracht Frankfurt,3.0,7.0
+FC Schalke 04,FC Augsburg,0.0,1.0
+FC Schalke 04,FC Augsburg,1.0,4.0
+FC Schalke 04,FC Augsburg,3.0,5.0
+FC Schalke 04,FC Bayern Munich,0.0,11.0
+FC Schalke 04,FC Bayern Munich,1.0,3.0
+FC Schalke 04,FC Bayern Munich,3.0,2.0
+FC Schalke 04,FC Energie Cottbus,3.0,2.0
+FC Schalke 04,FC Ingolstadt 04,0.0,1.0
+FC Schalke 04,FC Ingolstadt 04,1.0,1.0
+FC Schalke 04,FC St. Pauli,3.0,2.0
+FC Schalke 04,Fortuna Düsseldorf,1.0,1.0
+FC Schalke 04,Fortuna Düsseldorf,3.0,1.0
+FC Schalke 04,Hamburger SV,0.0,5.0
+FC Schalke 04,Hamburger SV,1.0,5.0
+FC Schalke 04,Hamburger SV,3.0,6.0
+FC Schalke 04,Hannover 96,0.0,5.0
+FC Schalke 04,Hannover 96,1.0,2.0
+FC Schalke 04,Hannover 96,3.0,9.0
+FC Schalke 04,Hertha BSC Berlin,0.0,1.0
+FC Schalke 04,Hertha BSC Berlin,1.0,2.0
+FC Schalke 04,Hertha BSC Berlin,3.0,9.0
+FC Schalke 04,Karlsruher SC,3.0,2.0
+FC Schalke 04,SC Freiburg,0.0,4.0
+FC Schalke 04,SC Freiburg,1.0,2.0
+FC Schalke 04,SC Freiburg,3.0,6.0
+FC Schalke 04,SC Paderborn 07,3.0,2.0
+FC Schalke 04,SV Darmstadt 98,1.0,1.0
+FC Schalke 04,SV Darmstadt 98,3.0,1.0
+FC Schalke 04,SV Werder Bremen,0.0,2.0
+FC Schalke 04,SV Werder Bremen,1.0,4.0
+FC Schalke 04,SV Werder Bremen,3.0,10.0
+FC Schalke 04,SpVgg Greuther Fürth,0.0,1.0
+FC Schalke 04,SpVgg Greuther Fürth,3.0,1.0
+FC Schalke 04,TSG 1899 Hoffenheim,0.0,5.0
+FC Schalke 04,TSG 1899 Hoffenheim,1.0,4.0
+FC Schalke 04,TSG 1899 Hoffenheim,3.0,7.0
+FC Schalke 04,VfB Stuttgart,0.0,7.0
+FC Schalke 04,VfB Stuttgart,1.0,2.0
+FC Schalke 04,VfB Stuttgart,3.0,7.0
+FC Schalke 04,VfL Bochum,0.0,1.0
+FC Schalke 04,VfL Bochum,1.0,1.0
+FC Schalke 04,VfL Bochum,3.0,2.0
+FC Schalke 04,VfL Wolfsburg,0.0,6.0
+FC Schalke 04,VfL Wolfsburg,1.0,3.0
+FC Schalke 04,VfL Wolfsburg,3.0,7.0
+VfL Wolfsburg,1. FC Kaiserslautern,0.0,1.0
+VfL Wolfsburg,1. FC Kaiserslautern,1.0,2.0
+VfL Wolfsburg,1. FC Kaiserslautern,3.0,1.0
+VfL Wolfsburg,1. FC Köln,0.0,1.0
+VfL Wolfsburg,1. FC Köln,1.0,5.0
+VfL Wolfsburg,1. FC Köln,3.0,6.0
+VfL Wolfsburg,1. FC Nürnberg,0.0,4.0
+VfL Wolfsburg,1. FC Nürnberg,1.0,2.0
+VfL Wolfsburg,1. FC Nürnberg,3.0,4.0
+VfL Wolfsburg,1. FSV Mainz 05,0.0,4.0
+VfL Wolfsburg,1. FSV Mainz 05,1.0,6.0
+VfL Wolfsburg,1. FSV Mainz 05,3.0,4.0
+VfL Wolfsburg,Bayer 04 Leverkusen,0.0,8.0
+VfL Wolfsburg,Bayer 04 Leverkusen,1.0,1.0
+VfL Wolfsburg,Bayer 04 Leverkusen,3.0,7.0
+VfL Wolfsburg,Borussia Dortmund,0.0,8.0
+VfL Wolfsburg,Borussia Dortmund,1.0,4.0
+VfL Wolfsburg,Borussia Dortmund,3.0,4.0
+VfL Wolfsburg,Borussia Mönchengladbach,0.0,4.0
+VfL Wolfsburg,Borussia Mönchengladbach,1.0,3.0
+VfL Wolfsburg,Borussia Mönchengladbach,3.0,9.0
+VfL Wolfsburg,DSC Arminia Bielefeld,3.0,2.0
+VfL Wolfsburg,Eintracht Braunschweig,0.0,1.0
+VfL Wolfsburg,Eintracht Braunschweig,1.0,1.0
+VfL Wolfsburg,Eintracht Frankfurt,0.0,3.0
+VfL Wolfsburg,Eintracht Frankfurt,1.0,6.0
+VfL Wolfsburg,Eintracht Frankfurt,3.0,5.0
+VfL Wolfsburg,FC Augsburg,0.0,4.0
+VfL Wolfsburg,FC Augsburg,1.0,4.0
+VfL Wolfsburg,FC Augsburg,3.0,2.0
+VfL Wolfsburg,FC Bayern Munich,0.0,13.0
+VfL Wolfsburg,FC Bayern Munich,1.0,1.0
+VfL Wolfsburg,FC Bayern Munich,3.0,2.0
+VfL Wolfsburg,FC Energie Cottbus,0.0,1.0
+VfL Wolfsburg,FC Energie Cottbus,3.0,1.0
+VfL Wolfsburg,FC Ingolstadt 04,1.0,1.0
+VfL Wolfsburg,FC Ingolstadt 04,3.0,1.0
+VfL Wolfsburg,FC Schalke 04,0.0,7.0
+VfL Wolfsburg,FC Schalke 04,1.0,3.0
+VfL Wolfsburg,FC Schalke 04,3.0,6.0
+VfL Wolfsburg,FC St. Pauli,1.0,2.0
+VfL Wolfsburg,Fortuna Düsseldorf,1.0,1.0
+VfL Wolfsburg,Fortuna Düsseldorf,3.0,1.0
+VfL Wolfsburg,Hamburger SV,0.0,2.0
+VfL Wolfsburg,Hamburger SV,1.0,6.0
+VfL Wolfsburg,Hamburger SV,3.0,8.0
+VfL Wolfsburg,Hannover 96,0.0,6.0
+VfL Wolfsburg,Hannover 96,1.0,2.0
+VfL Wolfsburg,Hannover 96,3.0,8.0
+VfL Wolfsburg,Hertha BSC Berlin,0.0,3.0
+VfL Wolfsburg,Hertha BSC Berlin,1.0,3.0
+VfL Wolfsburg,Hertha BSC Berlin,3.0,6.0
+VfL Wolfsburg,Karlsruher SC,0.0,1.0
+VfL Wolfsburg,Karlsruher SC,3.0,1.0
+VfL Wolfsburg,SC Freiburg,0.0,4.0
+VfL Wolfsburg,SC Freiburg,1.0,2.0
+VfL Wolfsburg,SC Freiburg,3.0,6.0
+VfL Wolfsburg,SC Paderborn 07,1.0,1.0
+VfL Wolfsburg,SC Paderborn 07,3.0,1.0
+VfL Wolfsburg,SV Darmstadt 98,1.0,1.0
+VfL Wolfsburg,SV Darmstadt 98,3.0,1.0
+VfL Wolfsburg,SV Werder Bremen,0.0,4.0
+VfL Wolfsburg,SV Werder Bremen,1.0,3.0
+VfL Wolfsburg,SV Werder Bremen,3.0,9.0
+VfL Wolfsburg,SpVgg Greuther Fürth,1.0,1.0
+VfL Wolfsburg,SpVgg Greuther Fürth,3.0,1.0
+VfL Wolfsburg,TSG 1899 Hoffenheim,0.0,5.0
+VfL Wolfsburg,TSG 1899 Hoffenheim,1.0,3.0
+VfL Wolfsburg,TSG 1899 Hoffenheim,3.0,8.0
+VfL Wolfsburg,VfB Stuttgart,0.0,4.0
+VfL Wolfsburg,VfB Stuttgart,1.0,1.0
+VfL Wolfsburg,VfB Stuttgart,3.0,11.0
+VfL Wolfsburg,VfL Bochum,1.0,2.0
+VfL Wolfsburg,VfL Bochum,3.0,2.0
+Eintracht Frankfurt,1. FC Kaiserslautern,1.0,1.0
+Eintracht Frankfurt,1. FC Kaiserslautern,3.0,1.0
+Eintracht Frankfurt,1. FC Köln,0.0,5.0
+Eintracht Frankfurt,1. FC Köln,1.0,3.0
+Eintracht Frankfurt,1. FC Köln,3.0,2.0
+Eintracht Frankfurt,1. FC Nürnberg,0.0,1.0
+Eintracht Frankfurt,1. FC Nürnberg,1.0,4.0
+Eintracht Frankfurt,1. FC Nürnberg,3.0,3.0
+Eintracht Frankfurt,1. FSV Mainz 05,0.0,5.0
+Eintracht Frankfurt,1. FSV Mainz 05,1.0,3.0
+Eintracht Frankfurt,1. FSV Mainz 05,3.0,4.0
+Eintracht Frankfurt,Bayer 04 Leverkusen,0.0,8.0
+Eintracht Frankfurt,Bayer 04 Leverkusen,1.0,2.0
+Eintracht Frankfurt,Bayer 04 Leverkusen,3.0,4.0
+Eintracht Frankfurt,Borussia Dortmund,0.0,8.0
+Eintracht Frankfurt,Borussia Dortmund,1.0,2.0
+Eintracht Frankfurt,Borussia Dortmund,3.0,4.0
+Eintracht Frankfurt,Borussia Mönchengladbach,0.0,8.0
+Eintracht Frankfurt,Borussia Mönchengladbach,1.0,1.0
+Eintracht Frankfurt,Borussia Mönchengladbach,3.0,5.0
+Eintracht Frankfurt,DSC Arminia Bielefeld,1.0,2.0
+Eintracht Frankfurt,Eintracht Braunschweig,3.0,2.0
+Eintracht Frankfurt,FC Augsburg,0.0,3.0
+Eintracht Frankfurt,FC Augsburg,1.0,4.0
+Eintracht Frankfurt,FC Augsburg,3.0,1.0
+Eintracht Frankfurt,FC Bayern Munich,0.0,11.0
+Eintracht Frankfurt,FC Bayern Munich,1.0,2.0
+Eintracht Frankfurt,FC Bayern Munich,3.0,1.0
+Eintracht Frankfurt,FC Energie Cottbus,3.0,2.0
+Eintracht Frankfurt,FC Ingolstadt 04,0.0,1.0
+Eintracht Frankfurt,FC Ingolstadt 04,1.0,1.0
+Eintracht Frankfurt,FC Schalke 04,0.0,7.0
+Eintracht Frankfurt,FC Schalke 04,1.0,5.0
+Eintracht Frankfurt,FC Schalke 04,3.0,2.0
+Eintracht Frankfurt,FC St. Pauli,3.0,2.0
+Eintracht Frankfurt,Fortuna Düsseldorf,0.0,1.0
+Eintracht Frankfurt,Fortuna Düsseldorf,3.0,1.0
+Eintracht Frankfurt,Hamburger SV,0.0,4.0
+Eintracht Frankfurt,Hamburger SV,1.0,6.0
+Eintracht Frankfurt,Hamburger SV,3.0,4.0
+Eintracht Frankfurt,Hannover 96,0.0,6.0
+Eintracht Frankfurt,Hannover 96,1.0,3.0
+Eintracht Frankfurt,Hannover 96,3.0,5.0
+Eintracht Frankfurt,Hertha BSC Berlin,0.0,4.0
+Eintracht Frankfurt,Hertha BSC Berlin,1.0,4.0
+Eintracht Frankfurt,Hertha BSC Berlin,3.0,2.0
+Eintracht Frankfurt,Karlsruher SC,3.0,2.0
+Eintracht Frankfurt,SC Freiburg,0.0,3.0
+Eintracht Frankfurt,SC Freiburg,1.0,3.0
+Eintracht Frankfurt,SC Freiburg,3.0,4.0
+Eintracht Frankfurt,SC Paderborn 07,0.0,1.0
+Eintracht Frankfurt,SC Paderborn 07,3.0,1.0
+Eintracht Frankfurt,SV Darmstadt 98,0.0,1.0
+Eintracht Frankfurt,SV Darmstadt 98,3.0,1.0
+Eintracht Frankfurt,SV Werder Bremen,0.0,4.0
+Eintracht Frankfurt,SV Werder Bremen,1.0,4.0
+Eintracht Frankfurt,SV Werder Bremen,3.0,6.0
+Eintracht Frankfurt,SpVgg Greuther Fürth,1.0,1.0
+Eintracht Frankfurt,SpVgg Greuther Fürth,3.0,1.0
+Eintracht Frankfurt,TSG 1899 Hoffenheim,0.0,7.0
+Eintracht Frankfurt,TSG 1899 Hoffenheim,1.0,4.0
+Eintracht Frankfurt,TSG 1899 Hoffenheim,3.0,3.0
+Eintracht Frankfurt,VfB Stuttgart,0.0,9.0
+Eintracht Frankfurt,VfB Stuttgart,1.0,2.0
+Eintracht Frankfurt,VfB Stuttgart,3.0,3.0
+Eintracht Frankfurt,VfL Bochum,0.0,1.0
+Eintracht Frankfurt,VfL Bochum,3.0,3.0
+Eintracht Frankfurt,VfL Wolfsburg,0.0,5.0
+Eintracht Frankfurt,VfL Wolfsburg,1.0,6.0
+Eintracht Frankfurt,VfL Wolfsburg,3.0,3.0
+DSC Arminia Bielefeld,1. FC Köln,1.0,1.0
+DSC Arminia Bielefeld,1. FC Köln,3.0,1.0
+DSC Arminia Bielefeld,Bayer 04 Leverkusen,1.0,1.0
+DSC Arminia Bielefeld,Bayer 04 Leverkusen,3.0,1.0
+DSC Arminia Bielefeld,Borussia Dortmund,0.0,1.0
+DSC Arminia Bielefeld,Borussia Dortmund,1.0,1.0
+DSC Arminia Bielefeld,Borussia Mönchengladbach,0.0,1.0
+DSC Arminia Bielefeld,Borussia Mönchengladbach,1.0,1.0
+DSC Arminia Bielefeld,Eintracht Frankfurt,1.0,2.0
+DSC Arminia Bielefeld,FC Bayern Munich,0.0,2.0
+DSC Arminia Bielefeld,FC Energie Cottbus,0.0,1.0
+DSC Arminia Bielefeld,FC Energie Cottbus,1.0,1.0
+DSC Arminia Bielefeld,FC Schalke 04,0.0,1.0
+DSC Arminia Bielefeld,FC Schalke 04,1.0,1.0
+DSC Arminia Bielefeld,Hamburger SV,0.0,2.0
+DSC Arminia Bielefeld,Hannover 96,1.0,2.0
+DSC Arminia Bielefeld,Hertha BSC Berlin,1.0,2.0
+DSC Arminia Bielefeld,Karlsruher SC,0.0,1.0
+DSC Arminia Bielefeld,Karlsruher SC,3.0,1.0
+DSC Arminia Bielefeld,SV Werder Bremen,1.0,1.0
+DSC Arminia Bielefeld,SV Werder Bremen,3.0,1.0
+DSC Arminia Bielefeld,TSG 1899 Hoffenheim,0.0,2.0
+DSC Arminia Bielefeld,VfB Stuttgart,1.0,2.0
+DSC Arminia Bielefeld,VfL Bochum,0.0,1.0
+DSC Arminia Bielefeld,VfL Bochum,1.0,1.0
+DSC Arminia Bielefeld,VfL Wolfsburg,0.0,2.0
+FC Energie Cottbus,1. FC Köln,0.0,2.0
+FC Energie Cottbus,Bayer 04 Leverkusen,1.0,1.0
+FC Energie Cottbus,Bayer 04 Leverkusen,3.0,1.0
+FC Energie Cottbus,Borussia Dortmund,0.0,1.0
+FC Energie Cottbus,Borussia Dortmund,1.0,1.0
+FC Energie Cottbus,Borussia Mönchengladbach,0.0,1.0
+FC Energie Cottbus,Borussia Mönchengladbach,3.0,1.0
+FC Energie Cottbus,DSC Arminia Bielefeld,1.0,1.0
+FC Energie Cottbus,DSC Arminia Bielefeld,3.0,1.0
+FC Energie Cottbus,Eintracht Frankfurt,0.0,2.0
+FC Energie Cottbus,FC Bayern Munich,0.0,2.0
+FC Energie Cottbus,FC Schalke 04,0.0,2.0
+FC Energie Cottbus,Hamburger SV,0.0,2.0
+FC Energie Cottbus,Hannover 96,1.0,1.0
+FC Energie Cottbus,Hannover 96,3.0,1.0
+FC Energie Cottbus,Hertha BSC Berlin,0.0,1.0
+FC Energie Cottbus,Hertha BSC Berlin,3.0,1.0
+FC Energie Cottbus,Karlsruher SC,1.0,1.0
+FC Energie Cottbus,Karlsruher SC,3.0,1.0
+FC Energie Cottbus,SV Werder Bremen,0.0,1.0
+FC Energie Cottbus,SV Werder Bremen,3.0,1.0
+FC Energie Cottbus,TSG 1899 Hoffenheim,0.0,2.0
+FC Energie Cottbus,VfB Stuttgart,0.0,2.0
+FC Energie Cottbus,VfL Bochum,0.0,1.0
+FC Energie Cottbus,VfL Bochum,1.0,1.0
+FC Energie Cottbus,VfL Wolfsburg,0.0,1.0
+FC Energie Cottbus,VfL Wolfsburg,3.0,1.0
+Borussia Mönchengladbach,1. FC Kaiserslautern,0.0,2.0
+Borussia Mönchengladbach,1. FC Kaiserslautern,3.0,2.0
+Borussia Mönchengladbach,1. FC Köln,0.0,2.0
+Borussia Mönchengladbach,1. FC Köln,1.0,3.0
+Borussia Mönchengladbach,1. FC Köln,3.0,7.0
+Borussia Mönchengladbach,1. FC Nürnberg,0.0,4.0
+Borussia Mönchengladbach,1. FC Nürnberg,1.0,1.0
+Borussia Mönchengladbach,1. FC Nürnberg,3.0,5.0
+Borussia Mönchengladbach,1. FSV Mainz 05,0.0,5.0
+Borussia Mönchengladbach,1. FSV Mainz 05,1.0,3.0
+Borussia Mönchengladbach,1. FSV Mainz 05,3.0,6.0
+Borussia Mönchengladbach,Bayer 04 Leverkusen,0.0,7.0
+Borussia Mönchengladbach,Bayer 04 Leverkusen,1.0,5.0
+Borussia Mönchengladbach,Bayer 04 Leverkusen,3.0,4.0
+Borussia Mönchengladbach,Borussia Dortmund,0.0,9.0
+Borussia Mönchengladbach,Borussia Dortmund,1.0,3.0
+Borussia Mönchengladbach,Borussia Dortmund,3.0,4.0
+Borussia Mönchengladbach,DSC Arminia Bielefeld,1.0,1.0
+Borussia Mönchengladbach,DSC Arminia Bielefeld,3.0,1.0
+Borussia Mönchengladbach,Eintracht Braunschweig,1.0,1.0
+Borussia Mönchengladbach,Eintracht Braunschweig,3.0,1.0
+Borussia Mönchengladbach,Eintracht Frankfurt,0.0,5.0
+Borussia Mönchengladbach,Eintracht Frankfurt,1.0,1.0
+Borussia Mönchengladbach,Eintracht Frankfurt,3.0,8.0
+Borussia Mönchengladbach,FC Augsburg,0.0,4.0
+Borussia Mönchengladbach,FC Augsburg,1.0,4.0
+Borussia Mönchengladbach,FC Augsburg,3.0,2.0
+Borussia Mönchengladbach,FC Bayern Munich,0.0,6.0
+Borussia Mönchengladbach,FC Bayern Munich,1.0,6.0
+Borussia Mönchengladbach,FC Bayern Munich,3.0,4.0
+Borussia Mönchengladbach,FC Energie Cottbus,0.0,1.0
+Borussia Mönchengladbach,FC Energie Cottbus,3.0,1.0
+Borussia Mönchengladbach,FC Ingolstadt 04,0.0,1.0
+Borussia Mönchengladbach,FC Ingolstadt 04,1.0,1.0
+Borussia Mönchengladbach,FC Schalke 04,0.0,6.0
+Borussia Mönchengladbach,FC Schalke 04,1.0,2.0
+Borussia Mönchengladbach,FC Schalke 04,3.0,8.0
+Borussia Mönchengladbach,FC St. Pauli,0.0,2.0
+Borussia Mönchengladbach,Fortuna Düsseldorf,1.0,1.0
+Borussia Mönchengladbach,Fortuna Düsseldorf,3.0,1.0
+Borussia Mönchengladbach,Hamburger SV,0.0,5.0
+Borussia Mönchengladbach,Hamburger SV,1.0,4.0
+Borussia Mönchengladbach,Hamburger SV,3.0,7.0
+Borussia Mönchengladbach,Hannover 96,0.0,6.0
+Borussia Mönchengladbach,Hannover 96,3.0,10.0
+Borussia Mönchengladbach,Hertha BSC Berlin,0.0,3.0
+Borussia Mönchengladbach,Hertha BSC Berlin,1.0,2.0
+Borussia Mönchengladbach,Hertha BSC Berlin,3.0,7.0
+Borussia Mönchengladbach,Karlsruher SC,1.0,1.0
+Borussia Mönchengladbach,Karlsruher SC,3.0,1.0
+Borussia Mönchengladbach,SC Freiburg,0.0,5.0
+Borussia Mönchengladbach,SC Freiburg,1.0,4.0
+Borussia Mönchengladbach,SC Freiburg,3.0,3.0
+Borussia Mönchengladbach,SC Paderborn 07,3.0,2.0
+Borussia Mönchengladbach,SV Darmstadt 98,3.0,2.0
+Borussia Mönchengladbach,SV Werder Bremen,0.0,4.0
+Borussia Mönchengladbach,SV Werder Bremen,1.0,5.0
+Borussia Mönchengladbach,SV Werder Bremen,3.0,7.0
+Borussia Mönchengladbach,SpVgg Greuther Fürth,3.0,2.0
+Borussia Mönchengladbach,TSG 1899 Hoffenheim,0.0,6.0
+Borussia Mönchengladbach,TSG 1899 Hoffenheim,1.0,5.0
+Borussia Mönchengladbach,TSG 1899 Hoffenheim,3.0,5.0
+Borussia Mönchengladbach,VfB Stuttgart,0.0,7.0
+Borussia Mönchengladbach,VfB Stuttgart,1.0,4.0
+Borussia Mönchengladbach,VfB Stuttgart,3.0,5.0
+Borussia Mönchengladbach,VfL Bochum,0.0,2.0
+Borussia Mönchengladbach,VfL Bochum,1.0,2.0
+Borussia Mönchengladbach,VfL Wolfsburg,0.0,9.0
+Borussia Mönchengladbach,VfL Wolfsburg,1.0,3.0
+Borussia Mönchengladbach,VfL Wolfsburg,3.0,4.0
+Karlsruher SC,1. FC Köln,0.0,1.0
+Karlsruher SC,1. FC Köln,1.0,1.0
+Karlsruher SC,Bayer 04 Leverkusen,1.0,1.0
+Karlsruher SC,Bayer 04 Leverkusen,3.0,1.0
+Karlsruher SC,Borussia Dortmund,0.0,2.0
+Karlsruher SC,Borussia Mönchengladbach,0.0,1.0
+Karlsruher SC,Borussia Mönchengladbach,1.0,1.0
+Karlsruher SC,DSC Arminia Bielefeld,0.0,1.0
+Karlsruher SC,DSC Arminia Bielefeld,3.0,1.0
+Karlsruher SC,Eintracht Frankfurt,0.0,2.0
+Karlsruher SC,FC Bayern Munich,0.0,2.0
+Karlsruher SC,FC Energie Cottbus,0.0,1.0
+Karlsruher SC,FC Energie Cottbus,1.0,1.0
+Karlsruher SC,FC Schalke 04,0.0,2.0
+Karlsruher SC,Hamburger SV,0.0,1.0
+Karlsruher SC,Hamburger SV,3.0,1.0
+Karlsruher SC,Hannover 96,0.0,2.0
+Karlsruher SC,Hertha BSC Berlin,0.0,1.0
+Karlsruher SC,Hertha BSC Berlin,3.0,1.0
+Karlsruher SC,SV Werder Bremen,3.0,2.0
+Karlsruher SC,TSG 1899 Hoffenheim,0.0,1.0
+Karlsruher SC,TSG 1899 Hoffenheim,1.0,1.0
+Karlsruher SC,VfB Stuttgart,0.0,2.0
+Karlsruher SC,VfL Bochum,0.0,1.0
+Karlsruher SC,VfL Bochum,3.0,1.0
+Karlsruher SC,VfL Wolfsburg,0.0,1.0
+Karlsruher SC,VfL Wolfsburg,3.0,1.0
+Hamburger SV,1. FC Kaiserslautern,1.0,2.0
+Hamburger SV,1. FC Kaiserslautern,3.0,2.0
+Hamburger SV,1. FC Köln,0.0,5.0
+Hamburger SV,1. FC Köln,1.0,3.0
+Hamburger SV,1. FC Köln,3.0,4.0
+Hamburger SV,1. FC Nürnberg,0.0,2.0
+Hamburger SV,1. FC Nürnberg,1.0,3.0
+Hamburger SV,1. FC Nürnberg,3.0,5.0
+Hamburger SV,1. FSV Mainz 05,0.0,5.0
+Hamburger SV,1. FSV Mainz 05,1.0,4.0
+Hamburger SV,1. FSV Mainz 05,3.0,5.0
+Hamburger SV,Bayer 04 Leverkusen,0.0,7.0
+Hamburger SV,Bayer 04 Leverkusen,1.0,5.0
+Hamburger SV,Bayer 04 Leverkusen,3.0,4.0
+Hamburger SV,Borussia Dortmund,0.0,7.0
+Hamburger SV,Borussia Dortmund,1.0,2.0
+Hamburger SV,Borussia Dortmund,3.0,7.0
+Hamburger SV,Borussia Mönchengladbach,0.0,7.0
+Hamburger SV,Borussia Mönchengladbach,1.0,4.0
+Hamburger SV,Borussia Mönchengladbach,3.0,5.0
+Hamburger SV,DSC Arminia Bielefeld,3.0,2.0
+Hamburger SV,Eintracht Braunschweig,0.0,1.0
+Hamburger SV,Eintracht Braunschweig,3.0,1.0
+Hamburger SV,Eintracht Frankfurt,0.0,4.0
+Hamburger SV,Eintracht Frankfurt,1.0,6.0
+Hamburger SV,Eintracht Frankfurt,3.0,4.0
+Hamburger SV,FC Augsburg,0.0,6.0
+Hamburger SV,FC Augsburg,1.0,1.0
+Hamburger SV,FC Augsburg,3.0,3.0
+Hamburger SV,FC Bayern Munich,0.0,10.0
+Hamburger SV,FC Bayern Munich,1.0,4.0
+Hamburger SV,FC Bayern Munich,3.0,2.0
+Hamburger SV,FC Energie Cottbus,3.0,2.0
+Hamburger SV,FC Ingolstadt 04,1.0,1.0
+Hamburger SV,FC Ingolstadt 04,3.0,1.0
+Hamburger SV,FC Schalke 04,0.0,6.0
+Hamburger SV,FC Schalke 04,1.0,5.0
+Hamburger SV,FC Schalke 04,3.0,5.0
+Hamburger SV,FC St. Pauli,0.0,1.0
+Hamburger SV,FC St. Pauli,1.0,1.0
+Hamburger SV,Fortuna Düsseldorf,0.0,1.0
+Hamburger SV,Fortuna Düsseldorf,3.0,1.0
+Hamburger SV,Hannover 96,0.0,6.0
+Hamburger SV,Hannover 96,1.0,4.0
+Hamburger SV,Hannover 96,3.0,6.0
+Hamburger SV,Hertha BSC Berlin,0.0,6.0
+Hamburger SV,Hertha BSC Berlin,1.0,2.0
+Hamburger SV,Hertha BSC Berlin,3.0,4.0
+Hamburger SV,Karlsruher SC,0.0,1.0
+Hamburger SV,Karlsruher SC,3.0,1.0
+Hamburger SV,SC Freiburg,0.0,4.0
+Hamburger SV,SC Freiburg,1.0,5.0
+Hamburger SV,SC Freiburg,3.0,3.0
+Hamburger SV,SC Paderborn 07,0.0,1.0
+Hamburger SV,SC Paderborn 07,3.0,1.0
+Hamburger SV,SV Darmstadt 98,0.0,1.0
+Hamburger SV,SV Darmstadt 98,1.0,1.0
+Hamburger SV,SV Werder Bremen,0.0,8.0
+Hamburger SV,SV Werder Bremen,1.0,1.0
+Hamburger SV,SV Werder Bremen,3.0,7.0
+Hamburger SV,SpVgg Greuther Fürth,1.0,1.0
+Hamburger SV,SpVgg Greuther Fürth,3.0,1.0
+Hamburger SV,TSG 1899 Hoffenheim,0.0,7.0
+Hamburger SV,TSG 1899 Hoffenheim,1.0,3.0
+Hamburger SV,TSG 1899 Hoffenheim,3.0,6.0
+Hamburger SV,VfB Stuttgart,0.0,8.0
+Hamburger SV,VfB Stuttgart,1.0,1.0
+Hamburger SV,VfB Stuttgart,3.0,7.0
+Hamburger SV,VfL Bochum,0.0,1.0
+Hamburger SV,VfL Bochum,1.0,1.0
+Hamburger SV,VfL Bochum,3.0,2.0
+Hamburger SV,VfL Wolfsburg,0.0,8.0
+Hamburger SV,VfL Wolfsburg,1.0,6.0
+Hamburger SV,VfL Wolfsburg,3.0,2.0
+SV Werder Bremen,1. FC Kaiserslautern,0.0,2.0
+SV Werder Bremen,1. FC Kaiserslautern,1.0,1.0
+SV Werder Bremen,1. FC Kaiserslautern,3.0,1.0
+SV Werder Bremen,1. FC Köln,0.0,3.0
+SV Werder Bremen,1. FC Köln,1.0,5.0
+SV Werder Bremen,1. FC Köln,3.0,4.0
+SV Werder Bremen,1. FC Nürnberg,0.0,3.0
+SV Werder Bremen,1. FC Nürnberg,1.0,4.0
+SV Werder Bremen,1. FC Nürnberg,3.0,3.0
+SV Werder Bremen,1. FSV Mainz 05,0.0,4.0
+SV Werder Bremen,1. FSV Mainz 05,1.0,4.0
+SV Werder Bremen,1. FSV Mainz 05,3.0,6.0
+SV Werder Bremen,Bayer 04 Leverkusen,0.0,6.0
+SV Werder Bremen,Bayer 04 Leverkusen,1.0,7.0
+SV Werder Bremen,Bayer 04 Leverkusen,3.0,3.0
+SV Werder Bremen,Borussia Dortmund,0.0,12.0
+SV Werder Bremen,Borussia Dortmund,1.0,2.0
+SV Werder Bremen,Borussia Dortmund,3.0,2.0
+SV Werder Bremen,Borussia Mönchengladbach,0.0,7.0
+SV Werder Bremen,Borussia Mönchengladbach,1.0,5.0
+SV Werder Bremen,Borussia Mönchengladbach,3.0,4.0
+SV Werder Bremen,DSC Arminia Bielefeld,0.0,1.0
+SV Werder Bremen,DSC Arminia Bielefeld,1.0,1.0
+SV Werder Bremen,Eintracht Braunschweig,1.0,1.0
+SV Werder Bremen,Eintracht Braunschweig,3.0,1.0
+SV Werder Bremen,Eintracht Frankfurt,0.0,6.0
+SV Werder Bremen,Eintracht Frankfurt,1.0,4.0
+SV Werder Bremen,Eintracht Frankfurt,3.0,4.0
+SV Werder Bremen,FC Augsburg,0.0,5.0
+SV Werder Bremen,FC Augsburg,1.0,2.0
+SV Werder Bremen,FC Augsburg,3.0,3.0
+SV Werder Bremen,FC Bayern Munich,0.0,12.0
+SV Werder Bremen,FC Bayern Munich,1.0,3.0
+SV Werder Bremen,FC Bayern Munich,3.0,1.0
+SV Werder Bremen,FC Energie Cottbus,0.0,1.0
+SV Werder Bremen,FC Energie Cottbus,3.0,1.0
+SV Werder Bremen,FC Ingolstadt 04,0.0,2.0
+SV Werder Bremen,FC Schalke 04,0.0,10.0
+SV Werder Bremen,FC Schalke 04,1.0,4.0
+SV Werder Bremen,FC Schalke 04,3.0,2.0
+SV Werder Bremen,FC St. Pauli,3.0,2.0
+SV Werder Bremen,Fortuna Düsseldorf,1.0,1.0
+SV Werder Bremen,Fortuna Düsseldorf,3.0,1.0
+SV Werder Bremen,Hamburger SV,0.0,7.0
+SV Werder Bremen,Hamburger SV,1.0,1.0
+SV Werder Bremen,Hamburger SV,3.0,8.0
+SV Werder Bremen,Hannover 96,0.0,4.0
+SV Werder Bremen,Hannover 96,1.0,5.0
+SV Werder Bremen,Hannover 96,3.0,7.0
+SV Werder Bremen,Hertha BSC Berlin,0.0,3.0
+SV Werder Bremen,Hertha BSC Berlin,1.0,3.0
+SV Werder Bremen,Hertha BSC Berlin,3.0,6.0
+SV Werder Bremen,Karlsruher SC,0.0,2.0
+SV Werder Bremen,SC Freiburg,0.0,2.0
+SV Werder Bremen,SC Freiburg,1.0,3.0
+SV Werder Bremen,SC Freiburg,3.0,7.0
+SV Werder Bremen,SC Paderborn 07,1.0,1.0
+SV Werder Bremen,SC Paderborn 07,3.0,1.0
+SV Werder Bremen,SV Darmstadt 98,0.0,1.0
+SV Werder Bremen,SV Darmstadt 98,1.0,1.0
+SV Werder Bremen,SpVgg Greuther Fürth,1.0,2.0
+SV Werder Bremen,TSG 1899 Hoffenheim,0.0,1.0
+SV Werder Bremen,TSG 1899 Hoffenheim,1.0,6.0
+SV Werder Bremen,TSG 1899 Hoffenheim,3.0,9.0
+SV Werder Bremen,VfB Stuttgart,0.0,4.0
+SV Werder Bremen,VfB Stuttgart,1.0,6.0
+SV Werder Bremen,VfB Stuttgart,3.0,6.0
+SV Werder Bremen,VfL Bochum,1.0,1.0
+SV Werder Bremen,VfL Bochum,3.0,3.0
+SV Werder Bremen,VfL Wolfsburg,0.0,9.0
+SV Werder Bremen,VfL Wolfsburg,1.0,3.0
+SV Werder Bremen,VfL Wolfsburg,3.0,4.0
+Hertha BSC Berlin,1. FC Kaiserslautern,0.0,1.0
+Hertha BSC Berlin,1. FC Kaiserslautern,1.0,1.0
+Hertha BSC Berlin,1. FC Köln,0.0,2.0
+Hertha BSC Berlin,1. FC Köln,1.0,1.0
+Hertha BSC Berlin,1. FC Köln,3.0,7.0
+Hertha BSC Berlin,1. FC Nürnberg,0.0,5.0
+Hertha BSC Berlin,1. FC Nürnberg,1.0,1.0
+Hertha BSC Berlin,1. FSV Mainz 05,0.0,2.0
+Hertha BSC Berlin,1. FSV Mainz 05,1.0,4.0
+Hertha BSC Berlin,1. FSV Mainz 05,3.0,4.0
+Hertha BSC Berlin,Bayer 04 Leverkusen,0.0,5.0
+Hertha BSC Berlin,Bayer 04 Leverkusen,1.0,4.0
+Hertha BSC Berlin,Bayer 04 Leverkusen,3.0,3.0
+Hertha BSC Berlin,Borussia Dortmund,0.0,6.0
+Hertha BSC Berlin,Borussia Dortmund,1.0,3.0
+Hertha BSC Berlin,Borussia Dortmund,3.0,3.0
+Hertha BSC Berlin,Borussia Mönchengladbach,0.0,7.0
+Hertha BSC Berlin,Borussia Mönchengladbach,1.0,2.0
+Hertha BSC Berlin,Borussia Mönchengladbach,3.0,3.0
+Hertha BSC Berlin,DSC Arminia Bielefeld,1.0,2.0
+Hertha BSC Berlin,Eintracht Braunschweig,3.0,2.0
+Hertha BSC Berlin,Eintracht Frankfurt,0.0,2.0
+Hertha BSC Berlin,Eintracht Frankfurt,1.0,4.0
+Hertha BSC Berlin,Eintracht Frankfurt,3.0,4.0
+Hertha BSC Berlin,FC Augsburg,0.0,2.0
+Hertha BSC Berlin,FC Augsburg,1.0,4.0
+Hertha BSC Berlin,FC Augsburg,3.0,2.0
+Hertha BSC Berlin,FC Bayern Munich,0.0,11.0
+Hertha BSC Berlin,FC Bayern Munich,3.0,1.0
+Hertha BSC Berlin,FC Energie Cottbus,0.0,1.0
+Hertha BSC Berlin,FC Energie Cottbus,3.0,1.0
+Hertha BSC Berlin,FC Ingolstadt 04,3.0,2.0
+Hertha BSC Berlin,FC Schalke 04,0.0,9.0
+Hertha BSC Berlin,FC Schalke 04,1.0,2.0
+Hertha BSC Berlin,FC Schalke 04,3.0,1.0
+Hertha BSC Berlin,Hamburger SV,0.0,4.0
+Hertha BSC Berlin,Hamburger SV,1.0,2.0
+Hertha BSC Berlin,Hamburger SV,3.0,6.0
+Hertha BSC Berlin,Hannover 96,0.0,4.0
+Hertha BSC Berlin,Hannover 96,1.0,4.0
+Hertha BSC Berlin,Hannover 96,3.0,4.0
+Hertha BSC Berlin,Karlsruher SC,0.0,1.0
+Hertha BSC Berlin,Karlsruher SC,3.0,1.0
+Hertha BSC Berlin,SC Freiburg,0.0,3.0
+Hertha BSC Berlin,SC Freiburg,1.0,4.0
+Hertha BSC Berlin,SC Freiburg,3.0,1.0
+Hertha BSC Berlin,SC Paderborn 07,0.0,1.0
+Hertha BSC Berlin,SC Paderborn 07,3.0,1.0
+Hertha BSC Berlin,SV Darmstadt 98,0.0,1.0
+Hertha BSC Berlin,SV Darmstadt 98,3.0,1.0
+Hertha BSC Berlin,SV Werder Bremen,0.0,6.0
+Hertha BSC Berlin,SV Werder Bremen,1.0,3.0
+Hertha BSC Berlin,SV Werder Bremen,3.0,3.0
+Hertha BSC Berlin,TSG 1899 Hoffenheim,0.0,5.0
+Hertha BSC Berlin,TSG 1899 Hoffenheim,1.0,2.0
+Hertha BSC Berlin,TSG 1899 Hoffenheim,3.0,5.0
+Hertha BSC Berlin,VfB Stuttgart,0.0,5.0
+Hertha BSC Berlin,VfB Stuttgart,1.0,2.0
+Hertha BSC Berlin,VfB Stuttgart,3.0,5.0
+Hertha BSC Berlin,VfL Bochum,0.0,1.0
+Hertha BSC Berlin,VfL Bochum,1.0,1.0
+Hertha BSC Berlin,VfL Bochum,3.0,2.0
+Hertha BSC Berlin,VfL Wolfsburg,0.0,6.0
+Hertha BSC Berlin,VfL Wolfsburg,1.0,3.0
+Hertha BSC Berlin,VfL Wolfsburg,3.0,3.0
+1. FC Köln,1. FC Kaiserslautern,0.0,1.0
+1. FC Köln,1. FC Kaiserslautern,1.0,2.0
+1. FC Köln,1. FC Kaiserslautern,3.0,1.0
+1. FC Köln,1. FC Nürnberg,0.0,4.0
+1. FC Köln,1. FC Nürnberg,3.0,2.0
+1. FC Köln,1. FSV Mainz 05,0.0,4.0
+1. FC Köln,1. FSV Mainz 05,1.0,3.0
+1. FC Köln,1. FSV Mainz 05,3.0,3.0
+1. FC Köln,Bayer 04 Leverkusen,0.0,7.0
+1. FC Köln,Bayer 04 Leverkusen,1.0,2.0
+1. FC Köln,Bayer 04 Leverkusen,3.0,3.0
+1. FC Köln,Borussia Dortmund,0.0,8.0
+1. FC Köln,Borussia Dortmund,1.0,2.0
+1. FC Köln,Borussia Dortmund,3.0,2.0
+1. FC Köln,Borussia Mönchengladbach,0.0,7.0
+1. FC Köln,Borussia Mönchengladbach,1.0,3.0
+1. FC Köln,Borussia Mönchengladbach,3.0,2.0
+1. FC Köln,DSC Arminia Bielefeld,0.0,1.0
+1. FC Köln,DSC Arminia Bielefeld,1.0,1.0
+1. FC Köln,Eintracht Frankfurt,0.0,2.0
+1. FC Köln,Eintracht Frankfurt,1.0,3.0
+1. FC Köln,Eintracht Frankfurt,3.0,5.0
+1. FC Köln,FC Augsburg,0.0,3.0
+1. FC Köln,FC Augsburg,1.0,2.0
+1. FC Köln,FC Augsburg,3.0,1.0
+1. FC Köln,FC Bayern Munich,0.0,7.0
+1. FC Köln,FC Bayern Munich,1.0,3.0
+1. FC Köln,FC Bayern Munich,3.0,2.0
+1. FC Köln,FC Energie Cottbus,3.0,2.0
+1. FC Köln,FC Ingolstadt 04,1.0,2.0
+1. FC Köln,FC Schalke 04,0.0,7.0
+1. FC Köln,FC Schalke 04,3.0,5.0
+1. FC Köln,FC St. Pauli,0.0,1.0
+1. FC Köln,FC St. Pauli,3.0,1.0
+1. FC Köln,Hamburger SV,0.0,4.0
+1. FC Köln,Hamburger SV,1.0,3.0
+1. FC Köln,Hamburger SV,3.0,5.0
+1. FC Köln,Hannover 96,0.0,6.0
+1. FC Köln,Hannover 96,1.0,1.0
+1. FC Köln,Hannover 96,3.0,5.0
+1. FC Köln,Hertha BSC Berlin,0.0,7.0
+1. FC Köln,Hertha BSC Berlin,1.0,1.0
+1. FC Köln,Hertha BSC Berlin,3.0,2.0
+1. FC Köln,Karlsruher SC,1.0,1.0
+1. FC Köln,Karlsruher SC,3.0,1.0
+1. FC Köln,SC Freiburg,0.0,4.0
+1. FC Köln,SC Freiburg,1.0,2.0
+1. FC Köln,SC Freiburg,3.0,2.0
+1. FC Köln,SC Paderborn 07,1.0,2.0
+1. FC Köln,SV Darmstadt 98,1.0,1.0
+1. FC Köln,SV Darmstadt 98,3.0,1.0
+1. FC Köln,SV Werder Bremen,0.0,4.0
+1. FC Köln,SV Werder Bremen,1.0,5.0
+1. FC Köln,SV Werder Bremen,3.0,3.0
+1. FC Köln,TSG 1899 Hoffenheim,0.0,3.0
+1. FC Köln,TSG 1899 Hoffenheim,1.0,5.0
+1. FC Köln,TSG 1899 Hoffenheim,3.0,4.0
+1. FC Köln,VfB Stuttgart,0.0,4.0
+1. FC Köln,VfB Stuttgart,1.0,3.0
+1. FC Köln,VfB Stuttgart,3.0,5.0
+1. FC Köln,VfL Bochum,1.0,2.0
+1. FC Köln,VfL Bochum,3.0,2.0
+1. FC Köln,VfL Wolfsburg,0.0,6.0
+1. FC Köln,VfL Wolfsburg,1.0,5.0
+1. FC Köln,VfL Wolfsburg,3.0,1.0
+VfL Bochum,1. FC Köln,0.0,2.0
+VfL Bochum,1. FC Köln,1.0,2.0
+VfL Bochum,1. FC Nürnberg,1.0,1.0
+VfL Bochum,1. FC Nürnberg,3.0,1.0
+VfL Bochum,1. FSV Mainz 05,0.0,1.0
+VfL Bochum,1. FSV Mainz 05,1.0,1.0
+VfL Bochum,Bayer 04 Leverkusen,0.0,2.0
+VfL Bochum,Bayer 04 Leverkusen,1.0,2.0
+VfL Bochum,Borussia Dortmund,0.0,3.0
+VfL Bochum,Borussia Dortmund,1.0,1.0
+VfL Bochum,Borussia Mönchengladbach,1.0,2.0
+VfL Bochum,Borussia Mönchengladbach,3.0,2.0
+VfL Bochum,DSC Arminia Bielefeld,1.0,1.0
+VfL Bochum,DSC Arminia Bielefeld,3.0,1.0
+VfL Bochum,Eintracht Frankfurt,0.0,3.0
+VfL Bochum,Eintracht Frankfurt,3.0,1.0
+VfL Bochum,FC Bayern Munich,0.0,3.0
+VfL Bochum,FC Bayern Munich,1.0,1.0
+VfL Bochum,FC Energie Cottbus,1.0,1.0
+VfL Bochum,FC Energie Cottbus,3.0,1.0
+VfL Bochum,FC Schalke 04,0.0,2.0
+VfL Bochum,FC Schalke 04,1.0,1.0
+VfL Bochum,FC Schalke 04,3.0,1.0
+VfL Bochum,Hamburger SV,0.0,2.0
+VfL Bochum,Hamburger SV,1.0,1.0
+VfL Bochum,Hamburger SV,3.0,1.0
+VfL Bochum,Hannover 96,0.0,2.0
+VfL Bochum,Hannover 96,1.0,1.0
+VfL Bochum,Hannover 96,3.0,1.0
+VfL Bochum,Hertha BSC Berlin,0.0,2.0
+VfL Bochum,Hertha BSC Berlin,1.0,1.0
+VfL Bochum,Hertha BSC Berlin,3.0,1.0
+VfL Bochum,Karlsruher SC,0.0,1.0
+VfL Bochum,Karlsruher SC,3.0,1.0
+VfL Bochum,SC Freiburg,0.0,1.0
+VfL Bochum,SC Freiburg,1.0,1.0
+VfL Bochum,SV Werder Bremen,0.0,3.0
+VfL Bochum,SV Werder Bremen,1.0,1.0
+VfL Bochum,TSG 1899 Hoffenheim,0.0,2.0
+VfL Bochum,TSG 1899 Hoffenheim,3.0,2.0
+VfL Bochum,VfB Stuttgart,0.0,3.0
+VfL Bochum,VfB Stuttgart,1.0,1.0
+VfL Bochum,VfL Wolfsburg,0.0,2.0
+VfL Bochum,VfL Wolfsburg,1.0,2.0
+Borussia Dortmund,1. FC Kaiserslautern,1.0,2.0
+Borussia Dortmund,1. FC Kaiserslautern,3.0,2.0
+Borussia Dortmund,1. FC Köln,0.0,2.0
+Borussia Dortmund,1. FC Köln,1.0,2.0
+Borussia Dortmund,1. FC Köln,3.0,8.0
+Borussia Dortmund,1. FC Nürnberg,1.0,2.0
+Borussia Dortmund,1. FC Nürnberg,3.0,8.0
+Borussia Dortmund,1. FSV Mainz 05,0.0,2.0
+Borussia Dortmund,1. FSV Mainz 05,1.0,2.0
+Borussia Dortmund,1. FSV Mainz 05,3.0,10.0
+Borussia Dortmund,Bayer 04 Leverkusen,0.0,3.0
+Borussia Dortmund,Bayer 04 Leverkusen,1.0,5.0
+Borussia Dortmund,Bayer 04 Leverkusen,3.0,8.0
+Borussia Dortmund,Borussia Mönchengladbach,0.0,4.0
+Borussia Dortmund,Borussia Mönchengladbach,1.0,3.0
+Borussia Dortmund,Borussia Mönchengladbach,3.0,9.0
+Borussia Dortmund,DSC Arminia Bielefeld,1.0,1.0
+Borussia Dortmund,DSC Arminia Bielefeld,3.0,1.0
+Borussia Dortmund,Eintracht Braunschweig,3.0,2.0
+Borussia Dortmund,Eintracht Frankfurt,0.0,4.0
+Borussia Dortmund,Eintracht Frankfurt,1.0,2.0
+Borussia Dortmund,Eintracht Frankfurt,3.0,8.0
+Borussia Dortmund,FC Augsburg,0.0,1.0
+Borussia Dortmund,FC Augsburg,1.0,2.0
+Borussia Dortmund,FC Augsburg,3.0,7.0
+Borussia Dortmund,FC Bayern Munich,0.0,7.0
+Borussia Dortmund,FC Bayern Munich,1.0,4.0
+Borussia Dortmund,FC Bayern Munich,3.0,5.0
+Borussia Dortmund,FC Energie Cottbus,1.0,1.0
+Borussia Dortmund,FC Energie Cottbus,3.0,1.0
+Borussia Dortmund,FC Ingolstadt 04,3.0,2.0
+Borussia Dortmund,FC Schalke 04,0.0,5.0
+Borussia Dortmund,FC Schalke 04,1.0,5.0
+Borussia Dortmund,FC Schalke 04,3.0,6.0
+Borussia Dortmund,FC St. Pauli,3.0,2.0
+Borussia Dortmund,Fortuna Düsseldorf,1.0,1.0
+Borussia Dortmund,Fortuna Düsseldorf,3.0,1.0
+Borussia Dortmund,Hamburger SV,0.0,7.0
+Borussia Dortmund,Hamburger SV,1.0,2.0
+Borussia Dortmund,Hamburger SV,3.0,7.0
+Borussia Dortmund,Hannover 96,0.0,2.0
+Borussia Dortmund,Hannover 96,1.0,4.0
+Borussia Dortmund,Hannover 96,3.0,10.0
+Borussia Dortmund,Hertha BSC Berlin,0.0,3.0
+Borussia Dortmund,Hertha BSC Berlin,1.0,3.0
+Borussia Dortmund,Hertha BSC Berlin,3.0,6.0
+Borussia Dortmund,Karlsruher SC,3.0,2.0
+Borussia Dortmund,SC Freiburg,0.0,1.0
+Borussia Dortmund,SC Freiburg,3.0,11.0
+Borussia Dortmund,SC Paderborn 07,1.0,1.0
+Borussia Dortmund,SC Paderborn 07,3.0,1.0
+Borussia Dortmund,SV Darmstadt 98,1.0,1.0
+Borussia Dortmund,SV Darmstadt 98,3.0,1.0
+Borussia Dortmund,SV Werder Bremen,0.0,2.0
+Borussia Dortmund,SV Werder Bremen,1.0,2.0
+Borussia Dortmund,SV Werder Bremen,3.0,12.0
+Borussia Dortmund,SpVgg Greuther Fürth,3.0,2.0
+Borussia Dortmund,TSG 1899 Hoffenheim,0.0,4.0
+Borussia Dortmund,TSG 1899 Hoffenheim,1.0,6.0
+Borussia Dortmund,TSG 1899 Hoffenheim,3.0,6.0
+Borussia Dortmund,VfB Stuttgart,0.0,2.0
+Borussia Dortmund,VfB Stuttgart,1.0,6.0
+Borussia Dortmund,VfB Stuttgart,3.0,8.0
+Borussia Dortmund,VfL Bochum,1.0,1.0
+Borussia Dortmund,VfL Bochum,3.0,3.0
+Borussia Dortmund,VfL Wolfsburg,0.0,4.0
+Borussia Dortmund,VfL Wolfsburg,1.0,4.0
+Borussia Dortmund,VfL Wolfsburg,3.0,8.0
+VfB Stuttgart,1. FC Kaiserslautern,0.0,1.0
+VfB Stuttgart,1. FC Kaiserslautern,1.0,2.0
+VfB Stuttgart,1. FC Kaiserslautern,3.0,1.0
+VfB Stuttgart,1. FC Köln,0.0,5.0
+VfB Stuttgart,1. FC Köln,1.0,3.0
+VfB Stuttgart,1. FC Köln,3.0,4.0
+VfB Stuttgart,1. FC Nürnberg,0.0,3.0
+VfB Stuttgart,1. FC Nürnberg,1.0,4.0
+VfB Stuttgart,1. FC Nürnberg,3.0,3.0
+VfB Stuttgart,1. FSV Mainz 05,0.0,6.0
+VfB Stuttgart,1. FSV Mainz 05,1.0,5.0
+VfB Stuttgart,1. FSV Mainz 05,3.0,3.0
+VfB Stuttgart,Bayer 04 Leverkusen,0.0,11.0
+VfB Stuttgart,Bayer 04 Leverkusen,1.0,3.0
+VfB Stuttgart,Bayer 04 Leverkusen,3.0,2.0
+VfB Stuttgart,Borussia Dortmund,0.0,8.0
+VfB Stuttgart,Borussia Dortmund,1.0,6.0
+VfB Stuttgart,Borussia Dortmund,3.0,2.0
+VfB Stuttgart,Borussia Mönchengladbach,0.0,5.0
+VfB Stuttgart,Borussia Mönchengladbach,1.0,4.0
+VfB Stuttgart,Borussia Mönchengladbach,3.0,7.0
+VfB Stuttgart,DSC Arminia Bielefeld,1.0,2.0
+VfB Stuttgart,Eintracht Braunschweig,1.0,1.0
+VfB Stuttgart,Eintracht Braunschweig,3.0,1.0
+VfB Stuttgart,Eintracht Frankfurt,0.0,3.0
+VfB Stuttgart,Eintracht Frankfurt,1.0,2.0
+VfB Stuttgart,Eintracht Frankfurt,3.0,9.0
+VfB Stuttgart,FC Augsburg,0.0,7.0
+VfB Stuttgart,FC Augsburg,3.0,3.0
+VfB Stuttgart,FC Bayern Munich,0.0,13.0
+VfB Stuttgart,FC Bayern Munich,1.0,2.0
+VfB Stuttgart,FC Bayern Munich,3.0,1.0
+VfB Stuttgart,FC Energie Cottbus,3.0,2.0
+VfB Stuttgart,FC Ingolstadt 04,1.0,1.0
+VfB Stuttgart,FC Ingolstadt 04,3.0,1.0
+VfB Stuttgart,FC Schalke 04,0.0,7.0
+VfB Stuttgart,FC Schalke 04,1.0,2.0
+VfB Stuttgart,FC Schalke 04,3.0,7.0
+VfB Stuttgart,FC St. Pauli,3.0,2.0
+VfB Stuttgart,Fortuna Düsseldorf,0.0,1.0
+VfB Stuttgart,Fortuna Düsseldorf,1.0,1.0
+VfB Stuttgart,Hamburger SV,0.0,7.0
+VfB Stuttgart,Hamburger SV,1.0,1.0
+VfB Stuttgart,Hamburger SV,3.0,8.0
+VfB Stuttgart,Hannover 96,0.0,5.0
+VfB Stuttgart,Hannover 96,1.0,4.0
+VfB Stuttgart,Hannover 96,3.0,7.0
+VfB Stuttgart,Hertha BSC Berlin,0.0,5.0
+VfB Stuttgart,Hertha BSC Berlin,1.0,2.0
+VfB Stuttgart,Hertha BSC Berlin,3.0,5.0
+VfB Stuttgart,Karlsruher SC,3.0,2.0
+VfB Stuttgart,SC Freiburg,0.0,3.0
+VfB Stuttgart,SC Freiburg,1.0,1.0
+VfB Stuttgart,SC Freiburg,3.0,8.0
+VfB Stuttgart,SC Paderborn 07,1.0,1.0
+VfB Stuttgart,SC Paderborn 07,3.0,1.0
+VfB Stuttgart,SV Darmstadt 98,1.0,1.0
+VfB Stuttgart,SV Darmstadt 98,3.0,1.0
+VfB Stuttgart,SV Werder Bremen,0.0,6.0
+VfB Stuttgart,SV Werder Bremen,1.0,6.0
+VfB Stuttgart,SV Werder Bremen,3.0,4.0
+VfB Stuttgart,SpVgg Greuther Fürth,0.0,1.0
+VfB Stuttgart,SpVgg Greuther Fürth,3.0,1.0
+VfB Stuttgart,TSG 1899 Hoffenheim,0.0,4.0
+VfB Stuttgart,TSG 1899 Hoffenheim,1.0,5.0
+VfB Stuttgart,TSG 1899 Hoffenheim,3.0,7.0
+VfB Stuttgart,VfL Bochum,1.0,1.0
+VfB Stuttgart,VfL Bochum,3.0,3.0
+VfB Stuttgart,VfL Wolfsburg,0.0,11.0
+VfB Stuttgart,VfL Wolfsburg,1.0,1.0
+VfB Stuttgart,VfL Wolfsburg,3.0,4.0
+Hannover 96,1. FC Kaiserslautern,1.0,1.0
+Hannover 96,1. FC Kaiserslautern,3.0,3.0
+Hannover 96,1. FC Köln,0.0,5.0
+Hannover 96,1. FC Köln,1.0,1.0
+Hannover 96,1. FC Köln,3.0,6.0
+Hannover 96,1. FC Nürnberg,0.0,2.0
+Hannover 96,1. FC Nürnberg,1.0,2.0
+Hannover 96,1. FC Nürnberg,3.0,6.0
+Hannover 96,1. FSV Mainz 05,0.0,5.0
+Hannover 96,1. FSV Mainz 05,1.0,6.0
+Hannover 96,1. FSV Mainz 05,3.0,3.0
+Hannover 96,Bayer 04 Leverkusen,0.0,10.0
+Hannover 96,Bayer 04 Leverkusen,1.0,4.0
+Hannover 96,Bayer 04 Leverkusen,3.0,2.0
+Hannover 96,Borussia Dortmund,0.0,10.0
+Hannover 96,Borussia Dortmund,1.0,4.0
+Hannover 96,Borussia Dortmund,3.0,2.0
+Hannover 96,Borussia Mönchengladbach,0.0,10.0
+Hannover 96,Borussia Mönchengladbach,3.0,6.0
+Hannover 96,DSC Arminia Bielefeld,1.0,2.0
+Hannover 96,Eintracht Braunschweig,0.0,1.0
+Hannover 96,Eintracht Braunschweig,1.0,1.0
+Hannover 96,Eintracht Frankfurt,0.0,5.0
+Hannover 96,Eintracht Frankfurt,1.0,3.0
+Hannover 96,Eintracht Frankfurt,3.0,6.0
+Hannover 96,FC Augsburg,0.0,2.0
+Hannover 96,FC Augsburg,1.0,3.0
+Hannover 96,FC Augsburg,3.0,5.0
+Hannover 96,FC Bayern Munich,0.0,13.0
+Hannover 96,FC Bayern Munich,3.0,3.0
+Hannover 96,FC Energie Cottbus,0.0,1.0
+Hannover 96,FC Energie Cottbus,1.0,1.0
+Hannover 96,FC Ingolstadt 04,1.0,1.0
+Hannover 96,FC Ingolstadt 04,3.0,1.0
+Hannover 96,FC Schalke 04,0.0,9.0
+Hannover 96,FC Schalke 04,1.0,2.0
+Hannover 96,FC Schalke 04,3.0,5.0
+Hannover 96,FC St. Pauli,0.0,1.0
+Hannover 96,FC St. Pauli,3.0,1.0
+Hannover 96,Fortuna Düsseldorf,0.0,1.0
+Hannover 96,Fortuna Düsseldorf,3.0,1.0
+Hannover 96,Hamburger SV,0.0,6.0
+Hannover 96,Hamburger SV,1.0,4.0
+Hannover 96,Hamburger SV,3.0,6.0
+Hannover 96,Hertha BSC Berlin,0.0,4.0
+Hannover 96,Hertha BSC Berlin,1.0,4.0
+Hannover 96,Hertha BSC Berlin,3.0,4.0
+Hannover 96,Karlsruher SC,3.0,2.0
+Hannover 96,SC Freiburg,0.0,3.0
+Hannover 96,SC Freiburg,1.0,3.0
+Hannover 96,SC Freiburg,3.0,6.0
+Hannover 96,SC Paderborn 07,0.0,2.0
+Hannover 96,SV Darmstadt 98,0.0,1.0
+Hannover 96,SV Darmstadt 98,1.0,1.0
+Hannover 96,SV Werder Bremen,0.0,7.0
+Hannover 96,SV Werder Bremen,1.0,5.0
+Hannover 96,SV Werder Bremen,3.0,4.0
+Hannover 96,SpVgg Greuther Fürth,3.0,2.0
+Hannover 96,TSG 1899 Hoffenheim,0.0,10.0
+Hannover 96,TSG 1899 Hoffenheim,1.0,2.0
+Hannover 96,TSG 1899 Hoffenheim,3.0,4.0
+Hannover 96,VfB Stuttgart,0.0,7.0
+Hannover 96,VfB Stuttgart,1.0,4.0
+Hannover 96,VfB Stuttgart,3.0,5.0
+Hannover 96,VfL Bochum,0.0,1.0
+Hannover 96,VfL Bochum,1.0,1.0
+Hannover 96,VfL Bochum,3.0,2.0
+Hannover 96,VfL Wolfsburg,0.0,8.0
+Hannover 96,VfL Wolfsburg,1.0,2.0
+Hannover 96,VfL Wolfsburg,3.0,6.0
+TSG 1899 Hoffenheim,1. FC Kaiserslautern,1.0,2.0
+TSG 1899 Hoffenheim,1. FC Kaiserslautern,3.0,2.0
+TSG 1899 Hoffenheim,1. FC Köln,0.0,4.0
+TSG 1899 Hoffenheim,1. FC Köln,1.0,5.0
+TSG 1899 Hoffenheim,1. FC Köln,3.0,3.0
+TSG 1899 Hoffenheim,1. FC Nürnberg,0.0,3.0
+TSG 1899 Hoffenheim,1. FC Nürnberg,1.0,3.0
+TSG 1899 Hoffenheim,1. FC Nürnberg,3.0,4.0
+TSG 1899 Hoffenheim,1. FSV Mainz 05,0.0,7.0
+TSG 1899 Hoffenheim,1. FSV Mainz 05,1.0,4.0
+TSG 1899 Hoffenheim,1. FSV Mainz 05,3.0,3.0
+TSG 1899 Hoffenheim,Bayer 04 Leverkusen,0.0,13.0
+TSG 1899 Hoffenheim,Bayer 04 Leverkusen,1.0,2.0
+TSG 1899 Hoffenheim,Bayer 04 Leverkusen,3.0,1.0
+TSG 1899 Hoffenheim,Borussia Dortmund,0.0,6.0
+TSG 1899 Hoffenheim,Borussia Dortmund,1.0,6.0
+TSG 1899 Hoffenheim,Borussia Dortmund,3.0,4.0
+TSG 1899 Hoffenheim,Borussia Mönchengladbach,0.0,5.0
+TSG 1899 Hoffenheim,Borussia Mönchengladbach,1.0,5.0
+TSG 1899 Hoffenheim,Borussia Mönchengladbach,3.0,6.0
+TSG 1899 Hoffenheim,DSC Arminia Bielefeld,3.0,2.0
+TSG 1899 Hoffenheim,Eintracht Braunschweig,0.0,1.0
+TSG 1899 Hoffenheim,Eintracht Braunschweig,3.0,1.0
+TSG 1899 Hoffenheim,Eintracht Frankfurt,0.0,3.0
+TSG 1899 Hoffenheim,Eintracht Frankfurt,1.0,4.0
+TSG 1899 Hoffenheim,Eintracht Frankfurt,3.0,7.0
+TSG 1899 Hoffenheim,FC Augsburg,0.0,3.0
+TSG 1899 Hoffenheim,FC Augsburg,1.0,2.0
+TSG 1899 Hoffenheim,FC Augsburg,3.0,5.0
+TSG 1899 Hoffenheim,FC Bayern Munich,0.0,12.0
+TSG 1899 Hoffenheim,FC Bayern Munich,1.0,4.0
+TSG 1899 Hoffenheim,FC Energie Cottbus,3.0,2.0
+TSG 1899 Hoffenheim,FC Ingolstadt 04,1.0,1.0
+TSG 1899 Hoffenheim,FC Ingolstadt 04,3.0,1.0
+TSG 1899 Hoffenheim,FC Schalke 04,0.0,7.0
+TSG 1899 Hoffenheim,FC Schalke 04,1.0,4.0
+TSG 1899 Hoffenheim,FC Schalke 04,3.0,5.0
+TSG 1899 Hoffenheim,FC St. Pauli,1.0,1.0
+TSG 1899 Hoffenheim,FC St. Pauli,3.0,1.0
+TSG 1899 Hoffenheim,Fortuna Düsseldorf,1.0,1.0
+TSG 1899 Hoffenheim,Fortuna Düsseldorf,3.0,1.0
+TSG 1899 Hoffenheim,Hamburger SV,0.0,6.0
+TSG 1899 Hoffenheim,Hamburger SV,1.0,3.0
+TSG 1899 Hoffenheim,Hamburger SV,3.0,7.0
+TSG 1899 Hoffenheim,Hannover 96,0.0,4.0
+TSG 1899 Hoffenheim,Hannover 96,1.0,2.0
+TSG 1899 Hoffenheim,Hannover 96,3.0,10.0
+TSG 1899 Hoffenheim,Hertha BSC Berlin,0.0,5.0
+TSG 1899 Hoffenheim,Hertha BSC Berlin,1.0,2.0
+TSG 1899 Hoffenheim,Hertha BSC Berlin,3.0,5.0
+TSG 1899 Hoffenheim,Karlsruher SC,1.0,1.0
+TSG 1899 Hoffenheim,Karlsruher SC,3.0,1.0
+TSG 1899 Hoffenheim,SC Freiburg,0.0,3.0
+TSG 1899 Hoffenheim,SC Freiburg,1.0,7.0
+TSG 1899 Hoffenheim,SC Freiburg,3.0,2.0
+TSG 1899 Hoffenheim,SC Paderborn 07,1.0,1.0
+TSG 1899 Hoffenheim,SC Paderborn 07,3.0,1.0
+TSG 1899 Hoffenheim,SV Darmstadt 98,0.0,1.0
+TSG 1899 Hoffenheim,SV Darmstadt 98,1.0,1.0
+TSG 1899 Hoffenheim,SV Werder Bremen,0.0,9.0
+TSG 1899 Hoffenheim,SV Werder Bremen,1.0,6.0
+TSG 1899 Hoffenheim,SV Werder Bremen,3.0,1.0
+TSG 1899 Hoffenheim,SpVgg Greuther Fürth,1.0,1.0
+TSG 1899 Hoffenheim,SpVgg Greuther Fürth,3.0,1.0
+TSG 1899 Hoffenheim,VfB Stuttgart,0.0,7.0
+TSG 1899 Hoffenheim,VfB Stuttgart,1.0,5.0
+TSG 1899 Hoffenheim,VfB Stuttgart,3.0,4.0
+TSG 1899 Hoffenheim,VfL Bochum,0.0,2.0
+TSG 1899 Hoffenheim,VfL Bochum,3.0,2.0
+TSG 1899 Hoffenheim,VfL Wolfsburg,0.0,8.0
+TSG 1899 Hoffenheim,VfL Wolfsburg,1.0,3.0
+TSG 1899 Hoffenheim,VfL Wolfsburg,3.0,5.0
+SC Freiburg,1. FC Kaiserslautern,0.0,2.0
+SC Freiburg,1. FC Kaiserslautern,3.0,2.0
+SC Freiburg,1. FC Köln,0.0,2.0
+SC Freiburg,1. FC Köln,1.0,2.0
+SC Freiburg,1. FC Köln,3.0,4.0
+SC Freiburg,1. FC Nürnberg,1.0,3.0
+SC Freiburg,1. FC Nürnberg,3.0,7.0
+SC Freiburg,1. FSV Mainz 05,0.0,6.0
+SC Freiburg,1. FSV Mainz 05,1.0,4.0
+SC Freiburg,1. FSV Mainz 05,3.0,2.0
+SC Freiburg,Bayer 04 Leverkusen,0.0,7.0
+SC Freiburg,Bayer 04 Leverkusen,1.0,3.0
+SC Freiburg,Bayer 04 Leverkusen,3.0,2.0
+SC Freiburg,Borussia Dortmund,0.0,11.0
+SC Freiburg,Borussia Dortmund,3.0,1.0
+SC Freiburg,Borussia Mönchengladbach,0.0,3.0
+SC Freiburg,Borussia Mönchengladbach,1.0,4.0
+SC Freiburg,Borussia Mönchengladbach,3.0,5.0
+SC Freiburg,Eintracht Braunschweig,3.0,2.0
+SC Freiburg,Eintracht Frankfurt,0.0,4.0
+SC Freiburg,Eintracht Frankfurt,1.0,3.0
+SC Freiburg,Eintracht Frankfurt,3.0,3.0
+SC Freiburg,FC Augsburg,0.0,3.0
+SC Freiburg,FC Augsburg,1.0,2.0
+SC Freiburg,FC Augsburg,3.0,3.0
+SC Freiburg,FC Bayern Munich,0.0,9.0
+SC Freiburg,FC Bayern Munich,1.0,2.0
+SC Freiburg,FC Bayern Munich,3.0,1.0
+SC Freiburg,FC Schalke 04,0.0,6.0
+SC Freiburg,FC Schalke 04,1.0,2.0
+SC Freiburg,FC Schalke 04,3.0,4.0
+SC Freiburg,FC St. Pauli,0.0,1.0
+SC Freiburg,FC St. Pauli,1.0,1.0
+SC Freiburg,Fortuna Düsseldorf,1.0,1.0
+SC Freiburg,Fortuna Düsseldorf,3.0,1.0
+SC Freiburg,Hamburger SV,0.0,3.0
+SC Freiburg,Hamburger SV,1.0,5.0
+SC Freiburg,Hamburger SV,3.0,4.0
+SC Freiburg,Hannover 96,0.0,6.0
+SC Freiburg,Hannover 96,1.0,3.0
+SC Freiburg,Hannover 96,3.0,3.0
+SC Freiburg,Hertha BSC Berlin,0.0,1.0
+SC Freiburg,Hertha BSC Berlin,1.0,4.0
+SC Freiburg,Hertha BSC Berlin,3.0,3.0
+SC Freiburg,SC Paderborn 07,0.0,1.0
+SC Freiburg,SC Paderborn 07,1.0,1.0
+SC Freiburg,SV Werder Bremen,0.0,7.0
+SC Freiburg,SV Werder Bremen,1.0,3.0
+SC Freiburg,SV Werder Bremen,3.0,2.0
+SC Freiburg,SpVgg Greuther Fürth,3.0,2.0
+SC Freiburg,TSG 1899 Hoffenheim,0.0,2.0
+SC Freiburg,TSG 1899 Hoffenheim,1.0,7.0
+SC Freiburg,TSG 1899 Hoffenheim,3.0,3.0
+SC Freiburg,VfB Stuttgart,0.0,8.0
+SC Freiburg,VfB Stuttgart,1.0,1.0
+SC Freiburg,VfB Stuttgart,3.0,3.0
+SC Freiburg,VfL Bochum,1.0,1.0
+SC Freiburg,VfL Bochum,3.0,1.0
+SC Freiburg,VfL Wolfsburg,0.0,6.0
+SC Freiburg,VfL Wolfsburg,1.0,2.0
+SC Freiburg,VfL Wolfsburg,3.0,4.0
+1. FC Nürnberg,1. FC Kaiserslautern,0.0,1.0
+1. FC Nürnberg,1. FC Kaiserslautern,3.0,3.0
+1. FC Nürnberg,1. FC Köln,0.0,2.0
+1. FC Nürnberg,1. FC Köln,3.0,4.0
+1. FC Nürnberg,1. FSV Mainz 05,0.0,5.0
+1. FC Nürnberg,1. FSV Mainz 05,1.0,3.0
+1. FC Nürnberg,1. FSV Mainz 05,3.0,2.0
+1. FC Nürnberg,Bayer 04 Leverkusen,0.0,6.0
+1. FC Nürnberg,Bayer 04 Leverkusen,1.0,1.0
+1. FC Nürnberg,Bayer 04 Leverkusen,3.0,3.0
+1. FC Nürnberg,Borussia Dortmund,0.0,8.0
+1. FC Nürnberg,Borussia Dortmund,1.0,2.0
+1. FC Nürnberg,Borussia Mönchengladbach,0.0,5.0
+1. FC Nürnberg,Borussia Mönchengladbach,1.0,1.0
+1. FC Nürnberg,Borussia Mönchengladbach,3.0,4.0
+1. FC Nürnberg,Eintracht Braunschweig,1.0,1.0
+1. FC Nürnberg,Eintracht Braunschweig,3.0,1.0
+1. FC Nürnberg,Eintracht Frankfurt,0.0,3.0
+1. FC Nürnberg,Eintracht Frankfurt,1.0,4.0
+1. FC Nürnberg,Eintracht Frankfurt,3.0,1.0
+1. FC Nürnberg,FC Augsburg,0.0,1.0
+1. FC Nürnberg,FC Augsburg,1.0,2.0
+1. FC Nürnberg,FC Augsburg,3.0,3.0
+1. FC Nürnberg,FC Bayern Munich,0.0,7.0
+1. FC Nürnberg,FC Bayern Munich,1.0,3.0
+1. FC Nürnberg,FC Schalke 04,0.0,5.0
+1. FC Nürnberg,FC Schalke 04,1.0,2.0
+1. FC Nürnberg,FC Schalke 04,3.0,3.0
+1. FC Nürnberg,FC St. Pauli,0.0,1.0
+1. FC Nürnberg,FC St. Pauli,3.0,1.0
+1. FC Nürnberg,Fortuna Düsseldorf,3.0,2.0
+1. FC Nürnberg,Hamburger SV,0.0,5.0
+1. FC Nürnberg,Hamburger SV,1.0,3.0
+1. FC Nürnberg,Hamburger SV,3.0,2.0
+1. FC Nürnberg,Hannover 96,0.0,6.0
+1. FC Nürnberg,Hannover 96,1.0,2.0
+1. FC Nürnberg,Hannover 96,3.0,2.0
+1. FC Nürnberg,Hertha BSC Berlin,1.0,1.0
+1. FC Nürnberg,Hertha BSC Berlin,3.0,5.0
+1. FC Nürnberg,SC Freiburg,0.0,7.0
+1. FC Nürnberg,SC Freiburg,1.0,3.0
+1. FC Nürnberg,SV Werder Bremen,0.0,3.0
+1. FC Nürnberg,SV Werder Bremen,1.0,4.0
+1. FC Nürnberg,SV Werder Bremen,3.0,3.0
+1. FC Nürnberg,SpVgg Greuther Fürth,0.0,1.0
+1. FC Nürnberg,SpVgg Greuther Fürth,1.0,1.0
+1. FC Nürnberg,TSG 1899 Hoffenheim,0.0,4.0
+1. FC Nürnberg,TSG 1899 Hoffenheim,1.0,3.0
+1. FC Nürnberg,TSG 1899 Hoffenheim,3.0,3.0
+1. FC Nürnberg,VfB Stuttgart,0.0,3.0
+1. FC Nürnberg,VfB Stuttgart,1.0,4.0
+1. FC Nürnberg,VfB Stuttgart,3.0,3.0
+1. FC Nürnberg,VfL Bochum,0.0,1.0
+1. FC Nürnberg,VfL Bochum,1.0,1.0
+1. FC Nürnberg,VfL Wolfsburg,0.0,4.0
+1. FC Nürnberg,VfL Wolfsburg,1.0,2.0
+1. FC Nürnberg,VfL Wolfsburg,3.0,4.0
+1. FSV Mainz 05,1. FC Kaiserslautern,0.0,1.0
+1. FSV Mainz 05,1. FC Kaiserslautern,3.0,3.0
+1. FSV Mainz 05,1. FC Köln,0.0,3.0
+1. FSV Mainz 05,1. FC Köln,1.0,3.0
+1. FSV Mainz 05,1. FC Köln,3.0,4.0
+1. FSV Mainz 05,1. FC Nürnberg,0.0,2.0
+1. FSV Mainz 05,1. FC Nürnberg,1.0,3.0
+1. FSV Mainz 05,1. FC Nürnberg,3.0,5.0
+1. FSV Mainz 05,Bayer 04 Leverkusen,0.0,6.0
+1. FSV Mainz 05,Bayer 04 Leverkusen,1.0,3.0
+1. FSV Mainz 05,Bayer 04 Leverkusen,3.0,5.0
+1. FSV Mainz 05,Borussia Dortmund,0.0,10.0
+1. FSV Mainz 05,Borussia Dortmund,1.0,2.0
+1. FSV Mainz 05,Borussia Dortmund,3.0,2.0
+1. FSV Mainz 05,Borussia Mönchengladbach,0.0,6.0
+1. FSV Mainz 05,Borussia Mönchengladbach,1.0,3.0
+1. FSV Mainz 05,Borussia Mönchengladbach,3.0,5.0
+1. FSV Mainz 05,Eintracht Braunschweig,0.0,1.0
+1. FSV Mainz 05,Eintracht Braunschweig,3.0,1.0
+1. FSV Mainz 05,Eintracht Frankfurt,0.0,4.0
+1. FSV Mainz 05,Eintracht Frankfurt,1.0,3.0
+1. FSV Mainz 05,Eintracht Frankfurt,3.0,5.0
+1. FSV Mainz 05,FC Augsburg,0.0,3.0
+1. FSV Mainz 05,FC Augsburg,1.0,2.0
+1. FSV Mainz 05,FC Augsburg,3.0,5.0
+1. FSV Mainz 05,FC Bayern Munich,0.0,9.0
+1. FSV Mainz 05,FC Bayern Munich,1.0,1.0
+1. FSV Mainz 05,FC Bayern Munich,3.0,4.0
+1. FSV Mainz 05,FC Ingolstadt 04,0.0,2.0
+1. FSV Mainz 05,FC Schalke 04,0.0,7.0
+1. FSV Mainz 05,FC Schalke 04,1.0,4.0
+1. FSV Mainz 05,FC Schalke 04,3.0,3.0
+1. FSV Mainz 05,FC St. Pauli,3.0,2.0
+1. FSV Mainz 05,Fortuna Düsseldorf,1.0,1.0
+1. FSV Mainz 05,Fortuna Düsseldorf,3.0,1.0
+1. FSV Mainz 05,Hamburger SV,0.0,5.0
+1. FSV Mainz 05,Hamburger SV,1.0,4.0
+1. FSV Mainz 05,Hamburger SV,3.0,5.0
+1. FSV Mainz 05,Hannover 96,0.0,3.0
+1. FSV Mainz 05,Hannover 96,1.0,6.0
+1. FSV Mainz 05,Hannover 96,3.0,5.0
+1. FSV Mainz 05,Hertha BSC Berlin,0.0,4.0
+1. FSV Mainz 05,Hertha BSC Berlin,1.0,4.0
+1. FSV Mainz 05,Hertha BSC Berlin,3.0,2.0
+1. FSV Mainz 05,SC Freiburg,0.0,2.0
+1. FSV Mainz 05,SC Freiburg,1.0,4.0
+1. FSV Mainz 05,SC Freiburg,3.0,6.0
+1. FSV Mainz 05,SC Paderborn 07,1.0,1.0
+1. FSV Mainz 05,SC Paderborn 07,3.0,1.0
+1. FSV Mainz 05,SV Darmstadt 98,1.0,1.0
+1. FSV Mainz 05,SV Darmstadt 98,3.0,1.0
+1. FSV Mainz 05,SV Werder Bremen,0.0,6.0
+1. FSV Mainz 05,SV Werder Bremen,1.0,4.0
+1. FSV Mainz 05,SV Werder Bremen,3.0,4.0
+1. FSV Mainz 05,SpVgg Greuther Fürth,0.0,1.0
+1. FSV Mainz 05,SpVgg Greuther Fürth,3.0,1.0
+1. FSV Mainz 05,TSG 1899 Hoffenheim,0.0,3.0
+1. FSV Mainz 05,TSG 1899 Hoffenheim,1.0,4.0
+1. FSV Mainz 05,TSG 1899 Hoffenheim,3.0,7.0
+1. FSV Mainz 05,VfB Stuttgart,0.0,3.0
+1. FSV Mainz 05,VfB Stuttgart,1.0,5.0
+1. FSV Mainz 05,VfB Stuttgart,3.0,6.0
+1. FSV Mainz 05,VfL Bochum,1.0,1.0
+1. FSV Mainz 05,VfL Bochum,3.0,1.0
+1. FSV Mainz 05,VfL Wolfsburg,0.0,4.0
+1. FSV Mainz 05,VfL Wolfsburg,1.0,6.0
+1. FSV Mainz 05,VfL Wolfsburg,3.0,4.0
+1. FC Kaiserslautern,1. FC Köln,0.0,1.0
+1. FC Kaiserslautern,1. FC Köln,1.0,2.0
+1. FC Kaiserslautern,1. FC Köln,3.0,1.0
+1. FC Kaiserslautern,1. FC Nürnberg,0.0,3.0
+1. FC Kaiserslautern,1. FC Nürnberg,3.0,1.0
+1. FC Kaiserslautern,1. FSV Mainz 05,0.0,3.0
+1. FC Kaiserslautern,1. FSV Mainz 05,3.0,1.0
+1. FC Kaiserslautern,Bayer 04 Leverkusen,0.0,4.0
+1. FC Kaiserslautern,Borussia Dortmund,0.0,2.0
+1. FC Kaiserslautern,Borussia Dortmund,1.0,2.0
+1. FC Kaiserslautern,Borussia Mönchengladbach,0.0,2.0
+1. FC Kaiserslautern,Borussia Mönchengladbach,3.0,2.0
+1. FC Kaiserslautern,Eintracht Frankfurt,0.0,1.0
+1. FC Kaiserslautern,Eintracht Frankfurt,1.0,1.0
+1. FC Kaiserslautern,FC Augsburg,1.0,2.0
+1. FC Kaiserslautern,FC Bayern Munich,0.0,3.0
+1. FC Kaiserslautern,FC Bayern Munich,3.0,1.0
+1. FC Kaiserslautern,FC Schalke 04,0.0,1.0
+1. FC Kaiserslautern,FC Schalke 04,3.0,3.0
+1. FC Kaiserslautern,FC St. Pauli,0.0,1.0
+1. FC Kaiserslautern,FC St. Pauli,3.0,1.0
+1. FC Kaiserslautern,Hamburger SV,0.0,2.0
+1. FC Kaiserslautern,Hamburger SV,1.0,2.0
+1. FC Kaiserslautern,Hannover 96,0.0,3.0
+1. FC Kaiserslautern,Hannover 96,1.0,1.0
+1. FC Kaiserslautern,Hertha BSC Berlin,1.0,1.0
+1. FC Kaiserslautern,Hertha BSC Berlin,3.0,1.0
+1. FC Kaiserslautern,SC Freiburg,0.0,2.0
+1. FC Kaiserslautern,SC Freiburg,3.0,2.0
+1. FC Kaiserslautern,SV Werder Bremen,0.0,1.0
+1. FC Kaiserslautern,SV Werder Bremen,1.0,1.0
+1. FC Kaiserslautern,SV Werder Bremen,3.0,2.0
+1. FC Kaiserslautern,TSG 1899 Hoffenheim,0.0,2.0
+1. FC Kaiserslautern,TSG 1899 Hoffenheim,1.0,2.0
+1. FC Kaiserslautern,VfB Stuttgart,0.0,1.0
+1. FC Kaiserslautern,VfB Stuttgart,1.0,2.0
+1. FC Kaiserslautern,VfB Stuttgart,3.0,1.0
+1. FC Kaiserslautern,VfL Wolfsburg,0.0,1.0
+1. FC Kaiserslautern,VfL Wolfsburg,1.0,2.0
+1. FC Kaiserslautern,VfL Wolfsburg,3.0,1.0
+FC St. Pauli,1. FC Kaiserslautern,0.0,1.0
+FC St. Pauli,1. FC Kaiserslautern,3.0,1.0
+FC St. Pauli,1. FC Köln,0.0,1.0
+FC St. Pauli,1. FC Köln,3.0,1.0
+FC St. Pauli,1. FC Nürnberg,0.0,1.0
+FC St. Pauli,1. FC Nürnberg,3.0,1.0
+FC St. Pauli,1. FSV Mainz 05,0.0,2.0
+FC St. Pauli,Bayer 04 Leverkusen,0.0,2.0
+FC St. Pauli,Borussia Dortmund,0.0,2.0
+FC St. Pauli,Borussia Mönchengladbach,3.0,2.0
+FC St. Pauli,Eintracht Frankfurt,0.0,2.0
+FC St. Pauli,FC Bayern Munich,0.0,2.0
+FC St. Pauli,FC Schalke 04,0.0,2.0
+FC St. Pauli,Hamburger SV,1.0,1.0
+FC St. Pauli,Hamburger SV,3.0,1.0
+FC St. Pauli,Hannover 96,0.0,1.0
+FC St. Pauli,Hannover 96,3.0,1.0
+FC St. Pauli,SC Freiburg,1.0,1.0
+FC St. Pauli,SC Freiburg,3.0,1.0
+FC St. Pauli,SV Werder Bremen,0.0,2.0
+FC St. Pauli,TSG 1899 Hoffenheim,0.0,1.0
+FC St. Pauli,TSG 1899 Hoffenheim,1.0,1.0
+FC St. Pauli,VfB Stuttgart,0.0,2.0
+FC St. Pauli,VfL Wolfsburg,1.0,2.0
+FC Augsburg,1. FC Kaiserslautern,1.0,2.0
+FC Augsburg,1. FC Köln,0.0,1.0
+FC Augsburg,1. FC Köln,1.0,2.0
+FC Augsburg,1. FC Köln,3.0,3.0
+FC Augsburg,1. FC Nürnberg,0.0,3.0
+FC Augsburg,1. FC Nürnberg,1.0,2.0
+FC Augsburg,1. FC Nürnberg,3.0,1.0
+FC Augsburg,1. FSV Mainz 05,0.0,5.0
+FC Augsburg,1. FSV Mainz 05,1.0,2.0
+FC Augsburg,1. FSV Mainz 05,3.0,3.0
+FC Augsburg,Bayer 04 Leverkusen,0.0,7.0
+FC Augsburg,Bayer 04 Leverkusen,1.0,3.0
+FC Augsburg,Borussia Dortmund,0.0,7.0
+FC Augsburg,Borussia Dortmund,1.0,2.0
+FC Augsburg,Borussia Dortmund,3.0,1.0
+FC Augsburg,Borussia Mönchengladbach,0.0,2.0
+FC Augsburg,Borussia Mönchengladbach,1.0,4.0
+FC Augsburg,Borussia Mönchengladbach,3.0,4.0
+FC Augsburg,Eintracht Braunschweig,3.0,2.0
+FC Augsburg,Eintracht Frankfurt,0.0,1.0
+FC Augsburg,Eintracht Frankfurt,1.0,4.0
+FC Augsburg,Eintracht Frankfurt,3.0,3.0
+FC Augsburg,FC Bayern Munich,0.0,8.0
+FC Augsburg,FC Bayern Munich,3.0,2.0
+FC Augsburg,FC Ingolstadt 04,0.0,2.0
+FC Augsburg,FC Schalke 04,0.0,5.0
+FC Augsburg,FC Schalke 04,1.0,4.0
+FC Augsburg,FC Schalke 04,3.0,1.0
+FC Augsburg,Fortuna Düsseldorf,0.0,1.0
+FC Augsburg,Fortuna Düsseldorf,3.0,1.0
+FC Augsburg,Hamburger SV,0.0,3.0
+FC Augsburg,Hamburger SV,1.0,1.0
+FC Augsburg,Hamburger SV,3.0,6.0
+FC Augsburg,Hannover 96,0.0,5.0
+FC Augsburg,Hannover 96,1.0,3.0
+FC Augsburg,Hannover 96,3.0,2.0
+FC Augsburg,Hertha BSC Berlin,0.0,2.0
+FC Augsburg,Hertha BSC Berlin,1.0,4.0
+FC Augsburg,Hertha BSC Berlin,3.0,2.0
+FC Augsburg,SC Freiburg,0.0,3.0
+FC Augsburg,SC Freiburg,1.0,2.0
+FC Augsburg,SC Freiburg,3.0,3.0
+FC Augsburg,SC Paderborn 07,0.0,1.0
+FC Augsburg,SC Paderborn 07,3.0,1.0
+FC Augsburg,SV Darmstadt 98,0.0,1.0
+FC Augsburg,SV Darmstadt 98,1.0,1.0
+FC Augsburg,SV Werder Bremen,0.0,3.0
+FC Augsburg,SV Werder Bremen,1.0,2.0
+FC Augsburg,SV Werder Bremen,3.0,5.0
+FC Augsburg,SpVgg Greuther Fürth,1.0,1.0
+FC Augsburg,SpVgg Greuther Fürth,3.0,1.0
+FC Augsburg,TSG 1899 Hoffenheim,0.0,5.0
+FC Augsburg,TSG 1899 Hoffenheim,1.0,2.0
+FC Augsburg,TSG 1899 Hoffenheim,3.0,3.0
+FC Augsburg,VfB Stuttgart,0.0,3.0
+FC Augsburg,VfB Stuttgart,3.0,7.0
+FC Augsburg,VfL Wolfsburg,0.0,2.0
+FC Augsburg,VfL Wolfsburg,1.0,4.0
+FC Augsburg,VfL Wolfsburg,3.0,4.0
+SpVgg Greuther Fürth,1. FC Nürnberg,1.0,1.0
+SpVgg Greuther Fürth,1. FC Nürnberg,3.0,1.0
+SpVgg Greuther Fürth,1. FSV Mainz 05,0.0,1.0
+SpVgg Greuther Fürth,1. FSV Mainz 05,3.0,1.0
+SpVgg Greuther Fürth,Bayer 04 Leverkusen,0.0,1.0
+SpVgg Greuther Fürth,Bayer 04 Leverkusen,1.0,1.0
+SpVgg Greuther Fürth,Borussia Dortmund,0.0,2.0
+SpVgg Greuther Fürth,Borussia Mönchengladbach,0.0,2.0
+SpVgg Greuther Fürth,Eintracht Frankfurt,0.0,1.0
+SpVgg Greuther Fürth,Eintracht Frankfurt,1.0,1.0
+SpVgg Greuther Fürth,FC Augsburg,0.0,1.0
+SpVgg Greuther Fürth,FC Augsburg,1.0,1.0
+SpVgg Greuther Fürth,FC Bayern Munich,0.0,2.0
+SpVgg Greuther Fürth,FC Schalke 04,0.0,1.0
+SpVgg Greuther Fürth,FC Schalke 04,3.0,1.0
+SpVgg Greuther Fürth,Fortuna Düsseldorf,0.0,2.0
+SpVgg Greuther Fürth,Hamburger SV,0.0,1.0
+SpVgg Greuther Fürth,Hamburger SV,1.0,1.0
+SpVgg Greuther Fürth,Hannover 96,0.0,2.0
+SpVgg Greuther Fürth,SC Freiburg,0.0,2.0
+SpVgg Greuther Fürth,SV Werder Bremen,1.0,2.0
+SpVgg Greuther Fürth,TSG 1899 Hoffenheim,0.0,1.0
+SpVgg Greuther Fürth,TSG 1899 Hoffenheim,1.0,1.0
+SpVgg Greuther Fürth,VfB Stuttgart,0.0,1.0
+SpVgg Greuther Fürth,VfB Stuttgart,3.0,1.0
+SpVgg Greuther Fürth,VfL Wolfsburg,0.0,1.0
+SpVgg Greuther Fürth,VfL Wolfsburg,1.0,1.0
+Fortuna Düsseldorf,1. FC Nürnberg,0.0,2.0
+Fortuna Düsseldorf,1. FSV Mainz 05,0.0,1.0
+Fortuna Düsseldorf,1. FSV Mainz 05,1.0,1.0
+Fortuna Düsseldorf,Bayer 04 Leverkusen,0.0,2.0
+Fortuna Düsseldorf,Borussia Dortmund,0.0,1.0
+Fortuna Düsseldorf,Borussia Dortmund,1.0,1.0
+Fortuna Düsseldorf,Borussia Mönchengladbach,0.0,1.0
+Fortuna Düsseldorf,Borussia Mönchengladbach,1.0,1.0
+Fortuna Düsseldorf,Eintracht Frankfurt,0.0,1.0
+Fortuna Düsseldorf,Eintracht Frankfurt,3.0,1.0
+Fortuna Düsseldorf,FC Augsburg,0.0,1.0
+Fortuna Düsseldorf,FC Augsburg,3.0,1.0
+Fortuna Düsseldorf,FC Bayern Munich,0.0,2.0
+Fortuna Düsseldorf,FC Schalke 04,0.0,1.0
+Fortuna Düsseldorf,FC Schalke 04,1.0,1.0
+Fortuna Düsseldorf,Hamburger SV,0.0,1.0
+Fortuna Düsseldorf,Hamburger SV,3.0,1.0
+Fortuna Düsseldorf,Hannover 96,0.0,1.0
+Fortuna Düsseldorf,Hannover 96,3.0,1.0
+Fortuna Düsseldorf,SC Freiburg,0.0,1.0
+Fortuna Düsseldorf,SC Freiburg,1.0,1.0
+Fortuna Düsseldorf,SV Werder Bremen,0.0,1.0
+Fortuna Düsseldorf,SV Werder Bremen,1.0,1.0
+Fortuna Düsseldorf,SpVgg Greuther Fürth,3.0,2.0
+Fortuna Düsseldorf,TSG 1899 Hoffenheim,0.0,1.0
+Fortuna Düsseldorf,TSG 1899 Hoffenheim,1.0,1.0
+Fortuna Düsseldorf,VfB Stuttgart,1.0,1.0
+Fortuna Düsseldorf,VfB Stuttgart,3.0,1.0
+Fortuna Düsseldorf,VfL Wolfsburg,0.0,1.0
+Fortuna Düsseldorf,VfL Wolfsburg,1.0,1.0
+Eintracht Braunschweig,1. FC Nürnberg,0.0,1.0
+Eintracht Braunschweig,1. FC Nürnberg,1.0,1.0
+Eintracht Braunschweig,1. FSV Mainz 05,0.0,1.0
+Eintracht Braunschweig,1. FSV Mainz 05,3.0,1.0
+Eintracht Braunschweig,Bayer 04 Leverkusen,1.0,1.0
+Eintracht Braunschweig,Bayer 04 Leverkusen,3.0,1.0
+Eintracht Braunschweig,Borussia Dortmund,0.0,2.0
+Eintracht Braunschweig,Borussia Mönchengladbach,0.0,1.0
+Eintracht Braunschweig,Borussia Mönchengladbach,1.0,1.0
+Eintracht Braunschweig,Eintracht Frankfurt,0.0,2.0
+Eintracht Braunschweig,FC Augsburg,0.0,2.0
+Eintracht Braunschweig,FC Bayern Munich,0.0,2.0
+Eintracht Braunschweig,FC Schalke 04,0.0,2.0
+Eintracht Braunschweig,Hamburger SV,0.0,1.0
+Eintracht Braunschweig,Hamburger SV,3.0,1.0
+Eintracht Braunschweig,Hannover 96,1.0,1.0
+Eintracht Braunschweig,Hannover 96,3.0,1.0
+Eintracht Braunschweig,Hertha BSC Berlin,0.0,2.0
+Eintracht Braunschweig,SC Freiburg,0.0,2.0
+Eintracht Braunschweig,SV Werder Bremen,0.0,1.0
+Eintracht Braunschweig,SV Werder Bremen,1.0,1.0
+Eintracht Braunschweig,TSG 1899 Hoffenheim,0.0,1.0
+Eintracht Braunschweig,TSG 1899 Hoffenheim,3.0,1.0
+Eintracht Braunschweig,VfB Stuttgart,0.0,1.0
+Eintracht Braunschweig,VfB Stuttgart,1.0,1.0
+Eintracht Braunschweig,VfL Wolfsburg,1.0,1.0
+Eintracht Braunschweig,VfL Wolfsburg,3.0,1.0
+SC Paderborn 07,1. FC Köln,1.0,2.0
+SC Paderborn 07,1. FSV Mainz 05,0.0,1.0
+SC Paderborn 07,1. FSV Mainz 05,1.0,1.0
+SC Paderborn 07,Bayer 04 Leverkusen,0.0,1.0
+SC Paderborn 07,Bayer 04 Leverkusen,1.0,1.0
+SC Paderborn 07,Borussia Dortmund,0.0,1.0
+SC Paderborn 07,Borussia Dortmund,1.0,1.0
+SC Paderborn 07,Borussia Mönchengladbach,0.0,2.0
+SC Paderborn 07,Eintracht Frankfurt,0.0,1.0
+SC Paderborn 07,Eintracht Frankfurt,3.0,1.0
+SC Paderborn 07,FC Augsburg,0.0,1.0
+SC Paderborn 07,FC Augsburg,3.0,1.0
+SC Paderborn 07,FC Bayern Munich,0.0,2.0
+SC Paderborn 07,FC Schalke 04,0.0,2.0
+SC Paderborn 07,Hamburger SV,0.0,1.0
+SC Paderborn 07,Hamburger SV,3.0,1.0
+SC Paderborn 07,Hannover 96,3.0,2.0
+SC Paderborn 07,Hertha BSC Berlin,0.0,1.0
+SC Paderborn 07,Hertha BSC Berlin,3.0,1.0
+SC Paderborn 07,SC Freiburg,1.0,1.0
+SC Paderborn 07,SC Freiburg,3.0,1.0
+SC Paderborn 07,SV Werder Bremen,0.0,1.0
+SC Paderborn 07,SV Werder Bremen,1.0,1.0
+SC Paderborn 07,TSG 1899 Hoffenheim,0.0,1.0
+SC Paderborn 07,TSG 1899 Hoffenheim,1.0,1.0
+SC Paderborn 07,VfB Stuttgart,0.0,1.0
+SC Paderborn 07,VfB Stuttgart,1.0,1.0
+SC Paderborn 07,VfL Wolfsburg,0.0,1.0
+SC Paderborn 07,VfL Wolfsburg,1.0,1.0
+SV Darmstadt 98,1. FC Köln,0.0,1.0
+SV Darmstadt 98,1. FC Köln,1.0,1.0
+SV Darmstadt 98,1. FSV Mainz 05,0.0,1.0
+SV Darmstadt 98,1. FSV Mainz 05,1.0,1.0
+SV Darmstadt 98,Bayer 04 Leverkusen,0.0,1.0
+SV Darmstadt 98,Bayer 04 Leverkusen,3.0,1.0
+SV Darmstadt 98,Borussia Dortmund,0.0,1.0
+SV Darmstadt 98,Borussia Dortmund,1.0,1.0
+SV Darmstadt 98,Borussia Mönchengladbach,0.0,2.0
+SV Darmstadt 98,Eintracht Frankfurt,0.0,1.0
+SV Darmstadt 98,Eintracht Frankfurt,3.0,1.0
+SV Darmstadt 98,FC Augsburg,1.0,1.0
+SV Darmstadt 98,FC Augsburg,3.0,1.0
+SV Darmstadt 98,FC Bayern Munich,0.0,2.0
+SV Darmstadt 98,FC Ingolstadt 04,0.0,1.0
+SV Darmstadt 98,FC Ingolstadt 04,3.0,1.0
+SV Darmstadt 98,FC Schalke 04,0.0,1.0
+SV Darmstadt 98,FC Schalke 04,1.0,1.0
+SV Darmstadt 98,Hamburger SV,1.0,1.0
+SV Darmstadt 98,Hamburger SV,3.0,1.0
+SV Darmstadt 98,Hannover 96,1.0,1.0
+SV Darmstadt 98,Hannover 96,3.0,1.0
+SV Darmstadt 98,Hertha BSC Berlin,0.0,1.0
+SV Darmstadt 98,Hertha BSC Berlin,3.0,1.0
+SV Darmstadt 98,SV Werder Bremen,1.0,1.0
+SV Darmstadt 98,SV Werder Bremen,3.0,1.0
+SV Darmstadt 98,TSG 1899 Hoffenheim,1.0,1.0
+SV Darmstadt 98,TSG 1899 Hoffenheim,3.0,1.0
+SV Darmstadt 98,VfB Stuttgart,0.0,1.0
+SV Darmstadt 98,VfB Stuttgart,1.0,1.0
+SV Darmstadt 98,VfL Wolfsburg,0.0,1.0
+SV Darmstadt 98,VfL Wolfsburg,1.0,1.0
+FC Ingolstadt 04,1. FC Köln,1.0,2.0
+FC Ingolstadt 04,1. FSV Mainz 05,3.0,2.0
+FC Ingolstadt 04,Bayer 04 Leverkusen,0.0,2.0
+FC Ingolstadt 04,Borussia Dortmund,0.0,2.0
+FC Ingolstadt 04,Borussia Mönchengladbach,1.0,1.0
+FC Ingolstadt 04,Borussia Mönchengladbach,3.0,1.0
+FC Ingolstadt 04,Eintracht Frankfurt,1.0,1.0
+FC Ingolstadt 04,Eintracht Frankfurt,3.0,1.0
+FC Ingolstadt 04,FC Augsburg,3.0,2.0
+FC Ingolstadt 04,FC Bayern Munich,0.0,2.0
+FC Ingolstadt 04,FC Schalke 04,1.0,1.0
+FC Ingolstadt 04,FC Schalke 04,3.0,1.0
+FC Ingolstadt 04,Hamburger SV,0.0,1.0
+FC Ingolstadt 04,Hamburger SV,1.0,1.0
+FC Ingolstadt 04,Hannover 96,0.0,1.0
+FC Ingolstadt 04,Hannover 96,1.0,1.0
+FC Ingolstadt 04,Hertha BSC Berlin,0.0,2.0
+FC Ingolstadt 04,SV Darmstadt 98,0.0,1.0
+FC Ingolstadt 04,SV Darmstadt 98,3.0,1.0
+FC Ingolstadt 04,SV Werder Bremen,3.0,2.0
+FC Ingolstadt 04,TSG 1899 Hoffenheim,0.0,1.0
+FC Ingolstadt 04,TSG 1899 Hoffenheim,1.0,1.0
+FC Ingolstadt 04,VfB Stuttgart,0.0,1.0
+FC Ingolstadt 04,VfB Stuttgart,1.0,1.0
+FC Ingolstadt 04,VfL Wolfsburg,0.0,1.0
+FC Ingolstadt 04,VfL Wolfsburg,1.0,1.0
 Atalanta,Bari,0.0,1.0
 Atalanta,Bari,3.0,1.0
 Atalanta,Bologna,0.0,4.0

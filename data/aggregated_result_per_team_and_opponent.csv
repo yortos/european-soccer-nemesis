@@ -1,4 +1,98 @@
 team,total_num_games,num_games,opponent,pct_of_points,result_metric
+1. FC Kaiserslautern,68.0,4.0,1. FC Köln,41.66666666666667,5.0
+1. FC Kaiserslautern,68.0,4.0,1. FC Nürnberg,25.0,3.0
+1. FC Kaiserslautern,68.0,4.0,1. FSV Mainz 05,25.0,3.0
+1. FC Kaiserslautern,68.0,4.0,Bayer 04 Leverkusen,0.0,0.0
+1. FC Kaiserslautern,68.0,4.0,Borussia Dortmund,16.666666666666664,2.0
+1. FC Kaiserslautern,68.0,4.0,Borussia Mönchengladbach,50.0,6.0
+1. FC Kaiserslautern,68.0,2.0,Eintracht Frankfurt,16.666666666666664,1.0
+1. FC Kaiserslautern,68.0,2.0,FC Augsburg,33.33333333333333,2.0
+1. FC Kaiserslautern,68.0,4.0,FC Bayern Munich,25.0,3.0
+1. FC Kaiserslautern,68.0,4.0,FC Schalke 04,75.0,9.0
+1. FC Kaiserslautern,68.0,2.0,FC St. Pauli,50.0,3.0
+1. FC Kaiserslautern,68.0,4.0,Hamburger SV,16.666666666666664,2.0
+1. FC Kaiserslautern,68.0,4.0,Hannover 96,8.333333333333332,1.0
+1. FC Kaiserslautern,68.0,2.0,Hertha BSC Berlin,66.66666666666666,4.0
+1. FC Kaiserslautern,68.0,4.0,SC Freiburg,50.0,6.0
+1. FC Kaiserslautern,68.0,4.0,SV Werder Bremen,58.333333333333336,7.0
+1. FC Kaiserslautern,68.0,4.0,TSG 1899 Hoffenheim,16.666666666666664,2.0
+1. FC Kaiserslautern,68.0,4.0,VfB Stuttgart,41.66666666666667,5.0
+1. FC Kaiserslautern,68.0,4.0,VfL Wolfsburg,41.66666666666667,5.0
+1. FC Köln,204.0,4.0,1. FC Kaiserslautern,41.66666666666667,5.0
+1. FC Köln,204.0,6.0,1. FC Nürnberg,33.33333333333333,6.0
+1. FC Köln,204.0,10.0,1. FSV Mainz 05,40.0,12.0
+1. FC Köln,204.0,12.0,Bayer 04 Leverkusen,30.555555555555557,11.0
+1. FC Köln,204.0,12.0,Borussia Dortmund,22.22222222222222,8.0
+1. FC Köln,204.0,12.0,Borussia Mönchengladbach,25.0,9.0
+1. FC Köln,204.0,2.0,DSC Arminia Bielefeld,16.666666666666664,1.0
+1. FC Köln,204.0,10.0,Eintracht Frankfurt,60.0,18.0
+1. FC Köln,204.0,6.0,FC Augsburg,27.77777777777778,5.0
+1. FC Köln,204.0,12.0,FC Bayern Munich,25.0,9.0
+1. FC Köln,204.0,2.0,FC Energie Cottbus,100.0,6.0
+1. FC Köln,204.0,2.0,FC Ingolstadt 04,33.33333333333333,2.0
+1. FC Köln,204.0,12.0,FC Schalke 04,41.66666666666667,15.0
+1. FC Köln,204.0,2.0,FC St. Pauli,50.0,3.0
+1. FC Köln,204.0,12.0,Hamburger SV,50.0,18.0
+1. FC Köln,204.0,12.0,Hannover 96,44.44444444444444,16.0
+1. FC Köln,204.0,10.0,Hertha BSC Berlin,23.333333333333332,7.0
+1. FC Köln,204.0,2.0,Karlsruher SC,66.66666666666666,4.0
+1. FC Köln,204.0,8.0,SC Freiburg,33.33333333333333,8.0
+1. FC Köln,204.0,2.0,SC Paderborn 07,33.33333333333333,2.0
+1. FC Köln,204.0,2.0,SV Darmstadt 98,66.66666666666666,4.0
+1. FC Köln,204.0,12.0,SV Werder Bremen,38.88888888888889,14.0
+1. FC Köln,204.0,12.0,TSG 1899 Hoffenheim,47.22222222222222,17.0
+1. FC Köln,204.0,12.0,VfB Stuttgart,50.0,18.0
+1. FC Köln,204.0,4.0,VfL Bochum,66.66666666666666,8.0
+1. FC Köln,204.0,12.0,VfL Wolfsburg,22.22222222222222,8.0
+1. FC Nürnberg,170.0,4.0,1. FC Kaiserslautern,75.0,9.0
+1. FC Nürnberg,170.0,6.0,1. FC Köln,66.66666666666666,12.0
+1. FC Nürnberg,170.0,10.0,1. FSV Mainz 05,30.0,9.0
+1. FC Nürnberg,170.0,10.0,Bayer 04 Leverkusen,33.33333333333333,10.0
+1. FC Nürnberg,170.0,10.0,Borussia Dortmund,6.666666666666667,2.0
+1. FC Nürnberg,170.0,10.0,Borussia Mönchengladbach,43.333333333333336,13.0
+1. FC Nürnberg,170.0,2.0,Eintracht Braunschweig,66.66666666666666,4.0
+1. FC Nürnberg,170.0,8.0,Eintracht Frankfurt,29.166666666666668,7.0
+1. FC Nürnberg,170.0,6.0,FC Augsburg,61.111111111111114,11.0
+1. FC Nürnberg,170.0,10.0,FC Bayern Munich,10.0,3.0
+1. FC Nürnberg,170.0,10.0,FC Schalke 04,36.666666666666664,11.0
+1. FC Nürnberg,170.0,2.0,FC St. Pauli,50.0,3.0
+1. FC Nürnberg,170.0,2.0,Fortuna Düsseldorf,100.0,6.0
+1. FC Nürnberg,170.0,10.0,Hamburger SV,30.0,9.0
+1. FC Nürnberg,170.0,10.0,Hannover 96,26.666666666666668,8.0
+1. FC Nürnberg,170.0,6.0,Hertha BSC Berlin,88.88888888888889,16.0
+1. FC Nürnberg,170.0,10.0,SC Freiburg,10.0,3.0
+1. FC Nürnberg,170.0,10.0,SV Werder Bremen,43.333333333333336,13.0
+1. FC Nürnberg,170.0,2.0,SpVgg Greuther Fürth,16.666666666666664,1.0
+1. FC Nürnberg,170.0,10.0,TSG 1899 Hoffenheim,40.0,12.0
+1. FC Nürnberg,170.0,10.0,VfB Stuttgart,43.333333333333336,13.0
+1. FC Nürnberg,170.0,2.0,VfL Bochum,16.666666666666664,1.0
+1. FC Nürnberg,170.0,10.0,VfL Wolfsburg,46.666666666666664,14.0
+1. FSV Mainz 05,238.0,4.0,1. FC Kaiserslautern,75.0,9.0
+1. FSV Mainz 05,238.0,10.0,1. FC Köln,50.0,15.0
+1. FSV Mainz 05,238.0,10.0,1. FC Nürnberg,60.0,18.0
+1. FSV Mainz 05,238.0,14.0,Bayer 04 Leverkusen,42.857142857142854,18.0
+1. FSV Mainz 05,238.0,14.0,Borussia Dortmund,19.047619047619047,8.0
+1. FSV Mainz 05,238.0,14.0,Borussia Mönchengladbach,42.857142857142854,18.0
+1. FSV Mainz 05,238.0,2.0,Eintracht Braunschweig,50.0,3.0
+1. FSV Mainz 05,238.0,12.0,Eintracht Frankfurt,50.0,18.0
+1. FSV Mainz 05,238.0,10.0,FC Augsburg,56.666666666666664,17.0
+1. FSV Mainz 05,238.0,14.0,FC Bayern Munich,30.952380952380953,13.0
+1. FSV Mainz 05,238.0,2.0,FC Ingolstadt 04,0.0,0.0
+1. FSV Mainz 05,238.0,14.0,FC Schalke 04,30.952380952380953,13.0
+1. FSV Mainz 05,238.0,2.0,FC St. Pauli,100.0,6.0
+1. FSV Mainz 05,238.0,2.0,Fortuna Düsseldorf,66.66666666666666,4.0
+1. FSV Mainz 05,238.0,14.0,Hamburger SV,45.23809523809524,19.0
+1. FSV Mainz 05,238.0,14.0,Hannover 96,50.0,21.0
+1. FSV Mainz 05,238.0,10.0,Hertha BSC Berlin,33.33333333333333,10.0
+1. FSV Mainz 05,238.0,12.0,SC Freiburg,61.111111111111114,22.0
+1. FSV Mainz 05,238.0,2.0,SC Paderborn 07,66.66666666666666,4.0
+1. FSV Mainz 05,238.0,2.0,SV Darmstadt 98,66.66666666666666,4.0
+1. FSV Mainz 05,238.0,14.0,SV Werder Bremen,38.095238095238095,16.0
+1. FSV Mainz 05,238.0,2.0,SpVgg Greuther Fürth,50.0,3.0
+1. FSV Mainz 05,238.0,14.0,TSG 1899 Hoffenheim,59.523809523809526,25.0
+1. FSV Mainz 05,238.0,14.0,VfB Stuttgart,54.761904761904766,23.0
+1. FSV Mainz 05,238.0,2.0,VfL Bochum,66.66666666666666,4.0
+1. FSV Mainz 05,238.0,14.0,VfL Wolfsburg,42.857142857142854,18.0
 AC Ajaccio,114.0,2.0,AJ Auxerre,50.0,3.0
 AC Ajaccio,114.0,2.0,AS Monaco,0.0,0.0
 AC Ajaccio,114.0,4.0,AS Nancy-Lorraine,33.33333333333333,4.0
@@ -368,6 +462,35 @@ Bari,76.0,4.0,Roma,0.0,0.0
 Bari,76.0,4.0,Sampdoria,33.33333333333333,4.0
 Bari,76.0,2.0,Siena,50.0,3.0
 Bari,76.0,4.0,Udinese,33.33333333333333,4.0
+Bayer 04 Leverkusen,272.0,4.0,1. FC Kaiserslautern,100.0,12.0
+Bayer 04 Leverkusen,272.0,12.0,1. FC Köln,63.888888888888886,23.0
+Bayer 04 Leverkusen,272.0,10.0,1. FC Nürnberg,63.33333333333333,19.0
+Bayer 04 Leverkusen,272.0,14.0,1. FSV Mainz 05,50.0,21.0
+Bayer 04 Leverkusen,272.0,16.0,Borussia Dortmund,29.166666666666668,14.0
+Bayer 04 Leverkusen,272.0,16.0,Borussia Mönchengladbach,54.166666666666664,26.0
+Bayer 04 Leverkusen,272.0,2.0,DSC Arminia Bielefeld,16.666666666666664,1.0
+Bayer 04 Leverkusen,272.0,2.0,Eintracht Braunschweig,16.666666666666664,1.0
+Bayer 04 Leverkusen,272.0,14.0,Eintracht Frankfurt,61.904761904761905,26.0
+Bayer 04 Leverkusen,272.0,10.0,FC Augsburg,80.0,24.0
+Bayer 04 Leverkusen,272.0,16.0,FC Bayern Munich,29.166666666666668,14.0
+Bayer 04 Leverkusen,272.0,2.0,FC Energie Cottbus,16.666666666666664,1.0
+Bayer 04 Leverkusen,272.0,2.0,FC Ingolstadt 04,100.0,6.0
+Bayer 04 Leverkusen,272.0,16.0,FC Schalke 04,56.25,27.0
+Bayer 04 Leverkusen,272.0,2.0,FC St. Pauli,100.0,6.0
+Bayer 04 Leverkusen,272.0,2.0,Fortuna Düsseldorf,100.0,6.0
+Bayer 04 Leverkusen,272.0,16.0,Hamburger SV,54.166666666666664,26.0
+Bayer 04 Leverkusen,272.0,16.0,Hannover 96,70.83333333333334,34.0
+Bayer 04 Leverkusen,272.0,12.0,Hertha BSC Berlin,52.77777777777778,19.0
+Bayer 04 Leverkusen,272.0,2.0,Karlsruher SC,16.666666666666664,1.0
+Bayer 04 Leverkusen,272.0,12.0,SC Freiburg,66.66666666666666,24.0
+Bayer 04 Leverkusen,272.0,2.0,SC Paderborn 07,66.66666666666666,4.0
+Bayer 04 Leverkusen,272.0,2.0,SV Darmstadt 98,50.0,3.0
+Bayer 04 Leverkusen,272.0,16.0,SV Werder Bremen,52.083333333333336,25.0
+Bayer 04 Leverkusen,272.0,2.0,SpVgg Greuther Fürth,66.66666666666666,4.0
+Bayer 04 Leverkusen,272.0,16.0,TSG 1899 Hoffenheim,85.41666666666666,41.0
+Bayer 04 Leverkusen,272.0,16.0,VfB Stuttgart,75.0,36.0
+Bayer 04 Leverkusen,272.0,4.0,VfL Bochum,66.66666666666666,8.0
+Bayer 04 Leverkusen,272.0,16.0,VfL Wolfsburg,52.083333333333336,25.0
 Birmingham City,76.0,4.0,Arsenal,8.333333333333332,1.0
 Birmingham City,76.0,4.0,Aston Villa,16.666666666666664,2.0
 Birmingham City,76.0,4.0,Blackburn Rovers,58.333333333333336,7.0
@@ -492,6 +615,64 @@ Bolton Wanderers,152.0,6.0,West Bromwich Albion,38.88888888888889,7.0
 Bolton Wanderers,152.0,6.0,West Ham United,100.0,18.0
 Bolton Wanderers,152.0,8.0,Wigan Athletic,41.66666666666667,10.0
 Bolton Wanderers,152.0,6.0,Wolverhampton Wanderers,72.22222222222221,13.0
+Borussia Dortmund,272.0,4.0,1. FC Kaiserslautern,66.66666666666666,8.0
+Borussia Dortmund,272.0,12.0,1. FC Köln,72.22222222222221,26.0
+Borussia Dortmund,272.0,10.0,1. FC Nürnberg,86.66666666666667,26.0
+Borussia Dortmund,272.0,14.0,1. FSV Mainz 05,76.19047619047619,32.0
+Borussia Dortmund,272.0,16.0,Bayer 04 Leverkusen,60.416666666666664,29.0
+Borussia Dortmund,272.0,16.0,Borussia Mönchengladbach,62.5,30.0
+Borussia Dortmund,272.0,2.0,DSC Arminia Bielefeld,66.66666666666666,4.0
+Borussia Dortmund,272.0,2.0,Eintracht Braunschweig,100.0,6.0
+Borussia Dortmund,272.0,14.0,Eintracht Frankfurt,61.904761904761905,26.0
+Borussia Dortmund,272.0,10.0,FC Augsburg,76.66666666666667,23.0
+Borussia Dortmund,272.0,16.0,FC Bayern Munich,39.58333333333333,19.0
+Borussia Dortmund,272.0,2.0,FC Energie Cottbus,66.66666666666666,4.0
+Borussia Dortmund,272.0,2.0,FC Ingolstadt 04,100.0,6.0
+Borussia Dortmund,272.0,16.0,FC Schalke 04,47.91666666666667,23.0
+Borussia Dortmund,272.0,2.0,FC St. Pauli,100.0,6.0
+Borussia Dortmund,272.0,2.0,Fortuna Düsseldorf,66.66666666666666,4.0
+Borussia Dortmund,272.0,16.0,Hamburger SV,47.91666666666667,23.0
+Borussia Dortmund,272.0,16.0,Hannover 96,70.83333333333334,34.0
+Borussia Dortmund,272.0,12.0,Hertha BSC Berlin,58.333333333333336,21.0
+Borussia Dortmund,272.0,2.0,Karlsruher SC,100.0,6.0
+Borussia Dortmund,272.0,12.0,SC Freiburg,91.66666666666666,33.0
+Borussia Dortmund,272.0,2.0,SC Paderborn 07,66.66666666666666,4.0
+Borussia Dortmund,272.0,2.0,SV Darmstadt 98,66.66666666666666,4.0
+Borussia Dortmund,272.0,16.0,SV Werder Bremen,79.16666666666666,38.0
+Borussia Dortmund,272.0,2.0,SpVgg Greuther Fürth,100.0,6.0
+Borussia Dortmund,272.0,16.0,TSG 1899 Hoffenheim,50.0,24.0
+Borussia Dortmund,272.0,16.0,VfB Stuttgart,62.5,30.0
+Borussia Dortmund,272.0,4.0,VfL Bochum,83.33333333333334,10.0
+Borussia Dortmund,272.0,16.0,VfL Wolfsburg,58.333333333333336,28.0
+Borussia Mönchengladbach,272.0,4.0,1. FC Kaiserslautern,50.0,6.0
+Borussia Mönchengladbach,272.0,12.0,1. FC Köln,66.66666666666666,24.0
+Borussia Mönchengladbach,272.0,10.0,1. FC Nürnberg,53.333333333333336,16.0
+Borussia Mönchengladbach,272.0,14.0,1. FSV Mainz 05,50.0,21.0
+Borussia Mönchengladbach,272.0,16.0,Bayer 04 Leverkusen,35.41666666666667,17.0
+Borussia Mönchengladbach,272.0,16.0,Borussia Dortmund,31.25,15.0
+Borussia Mönchengladbach,272.0,2.0,DSC Arminia Bielefeld,66.66666666666666,4.0
+Borussia Mönchengladbach,272.0,2.0,Eintracht Braunschweig,66.66666666666666,4.0
+Borussia Mönchengladbach,272.0,14.0,Eintracht Frankfurt,59.523809523809526,25.0
+Borussia Mönchengladbach,272.0,10.0,FC Augsburg,33.33333333333333,10.0
+Borussia Mönchengladbach,272.0,16.0,FC Bayern Munich,37.5,18.0
+Borussia Mönchengladbach,272.0,2.0,FC Energie Cottbus,50.0,3.0
+Borussia Mönchengladbach,272.0,2.0,FC Ingolstadt 04,16.666666666666664,1.0
+Borussia Mönchengladbach,272.0,16.0,FC Schalke 04,54.166666666666664,26.0
+Borussia Mönchengladbach,272.0,2.0,FC St. Pauli,0.0,0.0
+Borussia Mönchengladbach,272.0,2.0,Fortuna Düsseldorf,66.66666666666666,4.0
+Borussia Mönchengladbach,272.0,16.0,Hamburger SV,52.083333333333336,25.0
+Borussia Mönchengladbach,272.0,16.0,Hannover 96,62.5,30.0
+Borussia Mönchengladbach,272.0,12.0,Hertha BSC Berlin,63.888888888888886,23.0
+Borussia Mönchengladbach,272.0,2.0,Karlsruher SC,66.66666666666666,4.0
+Borussia Mönchengladbach,272.0,12.0,SC Freiburg,36.11111111111111,13.0
+Borussia Mönchengladbach,272.0,2.0,SC Paderborn 07,100.0,6.0
+Borussia Mönchengladbach,272.0,2.0,SV Darmstadt 98,100.0,6.0
+Borussia Mönchengladbach,272.0,16.0,SV Werder Bremen,54.166666666666664,26.0
+Borussia Mönchengladbach,272.0,2.0,SpVgg Greuther Fürth,100.0,6.0
+Borussia Mönchengladbach,272.0,16.0,TSG 1899 Hoffenheim,41.66666666666667,20.0
+Borussia Mönchengladbach,272.0,16.0,VfB Stuttgart,39.58333333333333,19.0
+Borussia Mönchengladbach,272.0,4.0,VfL Bochum,16.666666666666664,2.0
+Borussia Mönchengladbach,272.0,16.0,VfL Wolfsburg,31.25,15.0
 Bournemouth,38.0,2.0,Arsenal,0.0,0.0
 Bournemouth,38.0,2.0,Aston Villa,50.0,3.0
 Bournemouth,38.0,2.0,Chelsea,50.0,3.0
@@ -851,6 +1032,23 @@ Córdoba CF,38.0,2.0,Sevilla FC,0.0,0.0
 Córdoba CF,38.0,2.0,UD Almería,16.666666666666664,1.0
 Córdoba CF,38.0,2.0,Valencia CF,0.0,0.0
 Córdoba CF,38.0,2.0,Villarreal CF,16.666666666666664,1.0
+DSC Arminia Bielefeld,34.0,2.0,1. FC Köln,66.66666666666666,4.0
+DSC Arminia Bielefeld,34.0,2.0,Bayer 04 Leverkusen,66.66666666666666,4.0
+DSC Arminia Bielefeld,34.0,2.0,Borussia Dortmund,16.666666666666664,1.0
+DSC Arminia Bielefeld,34.0,2.0,Borussia Mönchengladbach,16.666666666666664,1.0
+DSC Arminia Bielefeld,34.0,2.0,Eintracht Frankfurt,33.33333333333333,2.0
+DSC Arminia Bielefeld,34.0,2.0,FC Bayern Munich,0.0,0.0
+DSC Arminia Bielefeld,34.0,2.0,FC Energie Cottbus,16.666666666666664,1.0
+DSC Arminia Bielefeld,34.0,2.0,FC Schalke 04,16.666666666666664,1.0
+DSC Arminia Bielefeld,34.0,2.0,Hamburger SV,0.0,0.0
+DSC Arminia Bielefeld,34.0,2.0,Hannover 96,33.33333333333333,2.0
+DSC Arminia Bielefeld,34.0,2.0,Hertha BSC Berlin,33.33333333333333,2.0
+DSC Arminia Bielefeld,34.0,2.0,Karlsruher SC,50.0,3.0
+DSC Arminia Bielefeld,34.0,2.0,SV Werder Bremen,66.66666666666666,4.0
+DSC Arminia Bielefeld,34.0,2.0,TSG 1899 Hoffenheim,0.0,0.0
+DSC Arminia Bielefeld,34.0,2.0,VfB Stuttgart,33.33333333333333,2.0
+DSC Arminia Bielefeld,34.0,2.0,VfL Bochum,16.666666666666664,1.0
+DSC Arminia Bielefeld,34.0,2.0,VfL Wolfsburg,0.0,0.0
 Dijon FCO,38.0,2.0,AC Ajaccio,16.666666666666664,1.0
 Dijon FCO,38.0,2.0,AJ Auxerre,16.666666666666664,1.0
 Dijon FCO,38.0,2.0,AS Nancy-Lorraine,50.0,3.0
@@ -895,6 +1093,52 @@ ES Troyes AC,76.0,4.0,Stade de Reims,66.66666666666666,8.0
 ES Troyes AC,76.0,4.0,Toulouse FC,8.333333333333332,1.0
 ES Troyes AC,76.0,2.0,Valenciennes FC,0.0,0.0
 ES Troyes AC,76.0,2.0,Évian Thonon Gaillard FC,50.0,3.0
+Eintracht Braunschweig,34.0,2.0,1. FC Nürnberg,16.666666666666664,1.0
+Eintracht Braunschweig,34.0,2.0,1. FSV Mainz 05,50.0,3.0
+Eintracht Braunschweig,34.0,2.0,Bayer 04 Leverkusen,66.66666666666666,4.0
+Eintracht Braunschweig,34.0,2.0,Borussia Dortmund,0.0,0.0
+Eintracht Braunschweig,34.0,2.0,Borussia Mönchengladbach,16.666666666666664,1.0
+Eintracht Braunschweig,34.0,2.0,Eintracht Frankfurt,0.0,0.0
+Eintracht Braunschweig,34.0,2.0,FC Augsburg,0.0,0.0
+Eintracht Braunschweig,34.0,2.0,FC Bayern Munich,0.0,0.0
+Eintracht Braunschweig,34.0,2.0,FC Schalke 04,0.0,0.0
+Eintracht Braunschweig,34.0,2.0,Hamburger SV,50.0,3.0
+Eintracht Braunschweig,34.0,2.0,Hannover 96,66.66666666666666,4.0
+Eintracht Braunschweig,34.0,2.0,Hertha BSC Berlin,0.0,0.0
+Eintracht Braunschweig,34.0,2.0,SC Freiburg,0.0,0.0
+Eintracht Braunschweig,34.0,2.0,SV Werder Bremen,16.666666666666664,1.0
+Eintracht Braunschweig,34.0,2.0,TSG 1899 Hoffenheim,50.0,3.0
+Eintracht Braunschweig,34.0,2.0,VfB Stuttgart,16.666666666666664,1.0
+Eintracht Braunschweig,34.0,2.0,VfL Wolfsburg,66.66666666666666,4.0
+Eintracht Frankfurt,238.0,2.0,1. FC Kaiserslautern,66.66666666666666,4.0
+Eintracht Frankfurt,238.0,10.0,1. FC Köln,30.0,9.0
+Eintracht Frankfurt,238.0,8.0,1. FC Nürnberg,54.166666666666664,13.0
+Eintracht Frankfurt,238.0,12.0,1. FSV Mainz 05,41.66666666666667,15.0
+Eintracht Frankfurt,238.0,14.0,Bayer 04 Leverkusen,33.33333333333333,14.0
+Eintracht Frankfurt,238.0,14.0,Borussia Dortmund,33.33333333333333,14.0
+Eintracht Frankfurt,238.0,14.0,Borussia Mönchengladbach,38.095238095238095,16.0
+Eintracht Frankfurt,238.0,2.0,DSC Arminia Bielefeld,33.33333333333333,2.0
+Eintracht Frankfurt,238.0,2.0,Eintracht Braunschweig,100.0,6.0
+Eintracht Frankfurt,238.0,8.0,FC Augsburg,29.166666666666668,7.0
+Eintracht Frankfurt,238.0,14.0,FC Bayern Munich,11.904761904761903,5.0
+Eintracht Frankfurt,238.0,2.0,FC Energie Cottbus,100.0,6.0
+Eintracht Frankfurt,238.0,2.0,FC Ingolstadt 04,16.666666666666664,1.0
+Eintracht Frankfurt,238.0,14.0,FC Schalke 04,26.190476190476193,11.0
+Eintracht Frankfurt,238.0,2.0,FC St. Pauli,100.0,6.0
+Eintracht Frankfurt,238.0,2.0,Fortuna Düsseldorf,50.0,3.0
+Eintracht Frankfurt,238.0,14.0,Hamburger SV,42.857142857142854,18.0
+Eintracht Frankfurt,238.0,14.0,Hannover 96,42.857142857142854,18.0
+Eintracht Frankfurt,238.0,10.0,Hertha BSC Berlin,33.33333333333333,10.0
+Eintracht Frankfurt,238.0,2.0,Karlsruher SC,100.0,6.0
+Eintracht Frankfurt,238.0,10.0,SC Freiburg,50.0,15.0
+Eintracht Frankfurt,238.0,2.0,SC Paderborn 07,50.0,3.0
+Eintracht Frankfurt,238.0,2.0,SV Darmstadt 98,50.0,3.0
+Eintracht Frankfurt,238.0,14.0,SV Werder Bremen,52.38095238095239,22.0
+Eintracht Frankfurt,238.0,2.0,SpVgg Greuther Fürth,66.66666666666666,4.0
+Eintracht Frankfurt,238.0,14.0,TSG 1899 Hoffenheim,30.952380952380953,13.0
+Eintracht Frankfurt,238.0,14.0,VfB Stuttgart,26.190476190476193,11.0
+Eintracht Frankfurt,238.0,4.0,VfL Bochum,75.0,9.0
+Eintracht Frankfurt,238.0,14.0,VfL Wolfsburg,35.714285714285715,15.0
 Elche CF,76.0,4.0,Athletic Club de Bilbao,41.66666666666667,5.0
 Elche CF,76.0,4.0,Atlético Madrid,0.0,0.0
 Elche CF,76.0,2.0,CA Osasuna,16.666666666666664,1.0
@@ -997,6 +1241,30 @@ Everton,304.0,14.0,West Bromwich Albion,57.14285714285714,24.0
 Everton,304.0,14.0,West Ham United,73.80952380952381,31.0
 Everton,304.0,10.0,Wigan Athletic,63.33333333333333,19.0
 Everton,304.0,6.0,Wolverhampton Wanderers,55.55555555555556,10.0
+FC Augsburg,170.0,2.0,1. FC Kaiserslautern,33.33333333333333,2.0
+FC Augsburg,170.0,6.0,1. FC Köln,61.111111111111114,11.0
+FC Augsburg,170.0,6.0,1. FC Nürnberg,27.77777777777778,5.0
+FC Augsburg,170.0,10.0,1. FSV Mainz 05,36.666666666666664,11.0
+FC Augsburg,170.0,10.0,Bayer 04 Leverkusen,10.0,3.0
+FC Augsburg,170.0,10.0,Borussia Dortmund,16.666666666666664,5.0
+FC Augsburg,170.0,10.0,Borussia Mönchengladbach,53.333333333333336,16.0
+FC Augsburg,170.0,2.0,Eintracht Braunschweig,100.0,6.0
+FC Augsburg,170.0,8.0,Eintracht Frankfurt,54.166666666666664,13.0
+FC Augsburg,170.0,10.0,FC Bayern Munich,20.0,6.0
+FC Augsburg,170.0,2.0,FC Ingolstadt 04,0.0,0.0
+FC Augsburg,170.0,10.0,FC Schalke 04,23.333333333333332,7.0
+FC Augsburg,170.0,2.0,Fortuna Düsseldorf,50.0,3.0
+FC Augsburg,170.0,10.0,Hamburger SV,63.33333333333333,19.0
+FC Augsburg,170.0,10.0,Hannover 96,30.0,9.0
+FC Augsburg,170.0,8.0,Hertha BSC Berlin,41.66666666666667,10.0
+FC Augsburg,170.0,8.0,SC Freiburg,45.83333333333333,11.0
+FC Augsburg,170.0,2.0,SC Paderborn 07,50.0,3.0
+FC Augsburg,170.0,2.0,SV Darmstadt 98,16.666666666666664,1.0
+FC Augsburg,170.0,10.0,SV Werder Bremen,56.666666666666664,17.0
+FC Augsburg,170.0,2.0,SpVgg Greuther Fürth,66.66666666666666,4.0
+FC Augsburg,170.0,10.0,TSG 1899 Hoffenheim,36.666666666666664,11.0
+FC Augsburg,170.0,10.0,VfB Stuttgart,70.0,21.0
+FC Augsburg,170.0,10.0,VfL Wolfsburg,53.333333333333336,16.0
 FC Barcelona,304.0,16.0,Athletic Club de Bilbao,81.25,39.0
 FC Barcelona,304.0,16.0,Atlético Madrid,79.16666666666666,38.0
 FC Barcelona,304.0,12.0,CA Osasuna,72.22222222222221,26.0
@@ -1029,6 +1297,69 @@ FC Barcelona,304.0,2.0,UD Las Palmas,100.0,6.0
 FC Barcelona,304.0,16.0,Valencia CF,66.66666666666666,32.0
 FC Barcelona,304.0,14.0,Villarreal CF,80.95238095238095,34.0
 FC Barcelona,304.0,2.0,Xerez Club Deportivo,100.0,6.0
+FC Bayern Munich,272.0,4.0,1. FC Kaiserslautern,75.0,9.0
+FC Bayern Munich,272.0,12.0,1. FC Köln,66.66666666666666,24.0
+FC Bayern Munich,272.0,10.0,1. FC Nürnberg,80.0,24.0
+FC Bayern Munich,272.0,14.0,1. FSV Mainz 05,66.66666666666666,28.0
+FC Bayern Munich,272.0,16.0,Bayer 04 Leverkusen,60.416666666666664,29.0
+FC Bayern Munich,272.0,16.0,Borussia Dortmund,52.083333333333336,25.0
+FC Bayern Munich,272.0,16.0,Borussia Mönchengladbach,50.0,24.0
+FC Bayern Munich,272.0,2.0,DSC Arminia Bielefeld,100.0,6.0
+FC Bayern Munich,272.0,2.0,Eintracht Braunschweig,100.0,6.0
+FC Bayern Munich,272.0,14.0,Eintracht Frankfurt,83.33333333333334,35.0
+FC Bayern Munich,272.0,10.0,FC Augsburg,80.0,24.0
+FC Bayern Munich,272.0,2.0,FC Energie Cottbus,100.0,6.0
+FC Bayern Munich,272.0,2.0,FC Ingolstadt 04,100.0,6.0
+FC Bayern Munich,272.0,16.0,FC Schalke 04,75.0,36.0
+FC Bayern Munich,272.0,2.0,FC St. Pauli,100.0,6.0
+FC Bayern Munich,272.0,2.0,Fortuna Düsseldorf,100.0,6.0
+FC Bayern Munich,272.0,16.0,Hamburger SV,70.83333333333334,34.0
+FC Bayern Munich,272.0,16.0,Hannover 96,81.25,39.0
+FC Bayern Munich,272.0,12.0,Hertha BSC Berlin,91.66666666666666,33.0
+FC Bayern Munich,272.0,2.0,Karlsruher SC,100.0,6.0
+FC Bayern Munich,272.0,12.0,SC Freiburg,80.55555555555556,29.0
+FC Bayern Munich,272.0,2.0,SC Paderborn 07,100.0,6.0
+FC Bayern Munich,272.0,2.0,SV Darmstadt 98,100.0,6.0
+FC Bayern Munich,272.0,16.0,SV Werder Bremen,81.25,39.0
+FC Bayern Munich,272.0,2.0,SpVgg Greuther Fürth,100.0,6.0
+FC Bayern Munich,272.0,16.0,TSG 1899 Hoffenheim,83.33333333333334,40.0
+FC Bayern Munich,272.0,16.0,VfB Stuttgart,85.41666666666666,41.0
+FC Bayern Munich,272.0,4.0,VfL Bochum,83.33333333333334,10.0
+FC Bayern Munich,272.0,16.0,VfL Wolfsburg,83.33333333333334,40.0
+FC Energie Cottbus,34.0,2.0,1. FC Köln,0.0,0.0
+FC Energie Cottbus,34.0,2.0,Bayer 04 Leverkusen,66.66666666666666,4.0
+FC Energie Cottbus,34.0,2.0,Borussia Dortmund,16.666666666666664,1.0
+FC Energie Cottbus,34.0,2.0,Borussia Mönchengladbach,50.0,3.0
+FC Energie Cottbus,34.0,2.0,DSC Arminia Bielefeld,66.66666666666666,4.0
+FC Energie Cottbus,34.0,2.0,Eintracht Frankfurt,0.0,0.0
+FC Energie Cottbus,34.0,2.0,FC Bayern Munich,0.0,0.0
+FC Energie Cottbus,34.0,2.0,FC Schalke 04,0.0,0.0
+FC Energie Cottbus,34.0,2.0,Hamburger SV,0.0,0.0
+FC Energie Cottbus,34.0,2.0,Hannover 96,66.66666666666666,4.0
+FC Energie Cottbus,34.0,2.0,Hertha BSC Berlin,50.0,3.0
+FC Energie Cottbus,34.0,2.0,Karlsruher SC,66.66666666666666,4.0
+FC Energie Cottbus,34.0,2.0,SV Werder Bremen,50.0,3.0
+FC Energie Cottbus,34.0,2.0,TSG 1899 Hoffenheim,0.0,0.0
+FC Energie Cottbus,34.0,2.0,VfB Stuttgart,0.0,0.0
+FC Energie Cottbus,34.0,2.0,VfL Bochum,16.666666666666664,1.0
+FC Energie Cottbus,34.0,2.0,VfL Wolfsburg,50.0,3.0
+FC Ingolstadt 04,34.0,2.0,1. FC Köln,33.33333333333333,2.0
+FC Ingolstadt 04,34.0,2.0,1. FSV Mainz 05,100.0,6.0
+FC Ingolstadt 04,34.0,2.0,Bayer 04 Leverkusen,0.0,0.0
+FC Ingolstadt 04,34.0,2.0,Borussia Dortmund,0.0,0.0
+FC Ingolstadt 04,34.0,2.0,Borussia Mönchengladbach,66.66666666666666,4.0
+FC Ingolstadt 04,34.0,2.0,Eintracht Frankfurt,66.66666666666666,4.0
+FC Ingolstadt 04,34.0,2.0,FC Augsburg,100.0,6.0
+FC Ingolstadt 04,34.0,2.0,FC Bayern Munich,0.0,0.0
+FC Ingolstadt 04,34.0,2.0,FC Schalke 04,66.66666666666666,4.0
+FC Ingolstadt 04,34.0,2.0,Hamburger SV,16.666666666666664,1.0
+FC Ingolstadt 04,34.0,2.0,Hannover 96,16.666666666666664,1.0
+FC Ingolstadt 04,34.0,2.0,Hertha BSC Berlin,0.0,0.0
+FC Ingolstadt 04,34.0,2.0,SV Darmstadt 98,50.0,3.0
+FC Ingolstadt 04,34.0,2.0,SV Werder Bremen,100.0,6.0
+FC Ingolstadt 04,34.0,2.0,TSG 1899 Hoffenheim,16.666666666666664,1.0
+FC Ingolstadt 04,34.0,2.0,VfB Stuttgart,16.666666666666664,1.0
+FC Ingolstadt 04,34.0,2.0,VfL Wolfsburg,16.666666666666664,1.0
 FC Lorient,304.0,6.0,AC Ajaccio,61.111111111111114,11.0
 FC Lorient,304.0,2.0,AC Arles-Avignon,66.66666666666666,4.0
 FC Lorient,304.0,8.0,AJ Auxerre,20.833333333333336,5.0
@@ -1112,6 +1443,35 @@ FC Nantes,152.0,6.0,Stade de Reims,33.33333333333333,6.0
 FC Nantes,152.0,8.0,Toulouse FC,20.833333333333336,5.0
 FC Nantes,152.0,4.0,Valenciennes FC,83.33333333333334,10.0
 FC Nantes,152.0,4.0,Évian Thonon Gaillard FC,75.0,9.0
+FC Schalke 04,272.0,4.0,1. FC Kaiserslautern,25.0,3.0
+FC Schalke 04,272.0,12.0,1. FC Köln,58.333333333333336,21.0
+FC Schalke 04,272.0,10.0,1. FC Nürnberg,56.666666666666664,17.0
+FC Schalke 04,272.0,14.0,1. FSV Mainz 05,59.523809523809526,25.0
+FC Schalke 04,272.0,16.0,Bayer 04 Leverkusen,37.5,18.0
+FC Schalke 04,272.0,16.0,Borussia Dortmund,41.66666666666667,20.0
+FC Schalke 04,272.0,16.0,Borussia Mönchengladbach,41.66666666666667,20.0
+FC Schalke 04,272.0,2.0,DSC Arminia Bielefeld,66.66666666666666,4.0
+FC Schalke 04,272.0,2.0,Eintracht Braunschweig,100.0,6.0
+FC Schalke 04,272.0,14.0,Eintracht Frankfurt,61.904761904761905,26.0
+FC Schalke 04,272.0,10.0,FC Augsburg,63.33333333333333,19.0
+FC Schalke 04,272.0,16.0,FC Bayern Munich,18.75,9.0
+FC Schalke 04,272.0,2.0,FC Energie Cottbus,100.0,6.0
+FC Schalke 04,272.0,2.0,FC Ingolstadt 04,16.666666666666664,1.0
+FC Schalke 04,272.0,2.0,FC St. Pauli,100.0,6.0
+FC Schalke 04,272.0,2.0,Fortuna Düsseldorf,66.66666666666666,4.0
+FC Schalke 04,272.0,16.0,Hamburger SV,47.91666666666667,23.0
+FC Schalke 04,272.0,16.0,Hannover 96,60.416666666666664,29.0
+FC Schalke 04,272.0,12.0,Hertha BSC Berlin,80.55555555555556,29.0
+FC Schalke 04,272.0,2.0,Karlsruher SC,100.0,6.0
+FC Schalke 04,272.0,12.0,SC Freiburg,55.55555555555556,20.0
+FC Schalke 04,272.0,2.0,SC Paderborn 07,100.0,6.0
+FC Schalke 04,272.0,2.0,SV Darmstadt 98,66.66666666666666,4.0
+FC Schalke 04,272.0,16.0,SV Werder Bremen,70.83333333333334,34.0
+FC Schalke 04,272.0,2.0,SpVgg Greuther Fürth,50.0,3.0
+FC Schalke 04,272.0,16.0,TSG 1899 Hoffenheim,52.083333333333336,25.0
+FC Schalke 04,272.0,16.0,VfB Stuttgart,47.91666666666667,23.0
+FC Schalke 04,272.0,4.0,VfL Bochum,58.333333333333336,7.0
+FC Schalke 04,272.0,16.0,VfL Wolfsburg,50.0,24.0
 FC Sochaux-Montbéliard,228.0,6.0,AC Ajaccio,33.33333333333333,6.0
 FC Sochaux-Montbéliard,228.0,2.0,AC Arles-Avignon,100.0,6.0
 FC Sochaux-Montbéliard,228.0,8.0,AJ Auxerre,20.833333333333336,5.0
@@ -1143,6 +1503,23 @@ FC Sochaux-Montbéliard,228.0,12.0,Toulouse FC,33.33333333333333,12.0
 FC Sochaux-Montbéliard,228.0,2.0,US Boulogne Cote D'Opale,16.666666666666664,1.0
 FC Sochaux-Montbéliard,228.0,12.0,Valenciennes FC,36.11111111111111,13.0
 FC Sochaux-Montbéliard,228.0,6.0,Évian Thonon Gaillard FC,44.44444444444444,8.0
+FC St. Pauli,34.0,2.0,1. FC Kaiserslautern,50.0,3.0
+FC St. Pauli,34.0,2.0,1. FC Köln,50.0,3.0
+FC St. Pauli,34.0,2.0,1. FC Nürnberg,50.0,3.0
+FC St. Pauli,34.0,2.0,1. FSV Mainz 05,0.0,0.0
+FC St. Pauli,34.0,2.0,Bayer 04 Leverkusen,0.0,0.0
+FC St. Pauli,34.0,2.0,Borussia Dortmund,0.0,0.0
+FC St. Pauli,34.0,2.0,Borussia Mönchengladbach,100.0,6.0
+FC St. Pauli,34.0,2.0,Eintracht Frankfurt,0.0,0.0
+FC St. Pauli,34.0,2.0,FC Bayern Munich,0.0,0.0
+FC St. Pauli,34.0,2.0,FC Schalke 04,0.0,0.0
+FC St. Pauli,34.0,2.0,Hamburger SV,66.66666666666666,4.0
+FC St. Pauli,34.0,2.0,Hannover 96,50.0,3.0
+FC St. Pauli,34.0,2.0,SC Freiburg,66.66666666666666,4.0
+FC St. Pauli,34.0,2.0,SV Werder Bremen,0.0,0.0
+FC St. Pauli,34.0,2.0,TSG 1899 Hoffenheim,16.666666666666664,1.0
+FC St. Pauli,34.0,2.0,VfB Stuttgart,0.0,0.0
+FC St. Pauli,34.0,2.0,VfL Wolfsburg,33.33333333333333,2.0
 Fiorentina,300.0,14.0,Atalanta,80.95238095238095,34.0
 Fiorentina,300.0,4.0,Bari,58.333333333333336,7.0
 Fiorentina,300.0,14.0,Bologna,59.523809523809526,25.0
@@ -1174,6 +1551,23 @@ Fiorentina,300.0,6.0,Sassuolo,61.111111111111114,11.0
 Fiorentina,300.0,8.0,Siena,70.83333333333334,17.0
 Fiorentina,300.0,10.0,Torino,56.666666666666664,17.0
 Fiorentina,300.0,16.0,Udinese,58.333333333333336,28.0
+Fortuna Düsseldorf,34.0,2.0,1. FC Nürnberg,0.0,0.0
+Fortuna Düsseldorf,34.0,2.0,1. FSV Mainz 05,16.666666666666664,1.0
+Fortuna Düsseldorf,34.0,2.0,Bayer 04 Leverkusen,0.0,0.0
+Fortuna Düsseldorf,34.0,2.0,Borussia Dortmund,16.666666666666664,1.0
+Fortuna Düsseldorf,34.0,2.0,Borussia Mönchengladbach,16.666666666666664,1.0
+Fortuna Düsseldorf,34.0,2.0,Eintracht Frankfurt,50.0,3.0
+Fortuna Düsseldorf,34.0,2.0,FC Augsburg,50.0,3.0
+Fortuna Düsseldorf,34.0,2.0,FC Bayern Munich,0.0,0.0
+Fortuna Düsseldorf,34.0,2.0,FC Schalke 04,16.666666666666664,1.0
+Fortuna Düsseldorf,34.0,2.0,Hamburger SV,50.0,3.0
+Fortuna Düsseldorf,34.0,2.0,Hannover 96,50.0,3.0
+Fortuna Düsseldorf,34.0,2.0,SC Freiburg,16.666666666666664,1.0
+Fortuna Düsseldorf,34.0,2.0,SV Werder Bremen,16.666666666666664,1.0
+Fortuna Düsseldorf,34.0,2.0,SpVgg Greuther Fürth,100.0,6.0
+Fortuna Düsseldorf,34.0,2.0,TSG 1899 Hoffenheim,16.666666666666664,1.0
+Fortuna Düsseldorf,34.0,2.0,VfB Stuttgart,66.66666666666666,4.0
+Fortuna Düsseldorf,34.0,2.0,VfL Wolfsburg,16.666666666666664,1.0
 Frosinone,38.0,2.0,Atalanta,16.666666666666664,1.0
 Frosinone,38.0,2.0,Bologna,50.0,3.0
 Frosinone,38.0,2.0,Carpi,50.0,3.0
@@ -1388,6 +1782,64 @@ Grenoble Foot 38,76.0,4.0,Stade Rennais FC,25.0,3.0
 Grenoble Foot 38,76.0,4.0,Toulouse FC,50.0,6.0
 Grenoble Foot 38,76.0,2.0,US Boulogne Cote D'Opale,50.0,3.0
 Grenoble Foot 38,76.0,4.0,Valenciennes FC,16.666666666666664,2.0
+Hamburger SV,272.0,4.0,1. FC Kaiserslautern,66.66666666666666,8.0
+Hamburger SV,272.0,12.0,1. FC Köln,41.66666666666667,15.0
+Hamburger SV,272.0,10.0,1. FC Nürnberg,60.0,18.0
+Hamburger SV,272.0,14.0,1. FSV Mainz 05,45.23809523809524,19.0
+Hamburger SV,272.0,16.0,Bayer 04 Leverkusen,35.41666666666667,17.0
+Hamburger SV,272.0,16.0,Borussia Dortmund,47.91666666666667,23.0
+Hamburger SV,272.0,16.0,Borussia Mönchengladbach,39.58333333333333,19.0
+Hamburger SV,272.0,2.0,DSC Arminia Bielefeld,100.0,6.0
+Hamburger SV,272.0,2.0,Eintracht Braunschweig,50.0,3.0
+Hamburger SV,272.0,14.0,Eintracht Frankfurt,42.857142857142854,18.0
+Hamburger SV,272.0,10.0,FC Augsburg,33.33333333333333,10.0
+Hamburger SV,272.0,16.0,FC Bayern Munich,20.833333333333336,10.0
+Hamburger SV,272.0,2.0,FC Energie Cottbus,100.0,6.0
+Hamburger SV,272.0,2.0,FC Ingolstadt 04,66.66666666666666,4.0
+Hamburger SV,272.0,16.0,FC Schalke 04,41.66666666666667,20.0
+Hamburger SV,272.0,2.0,FC St. Pauli,16.666666666666664,1.0
+Hamburger SV,272.0,2.0,Fortuna Düsseldorf,50.0,3.0
+Hamburger SV,272.0,16.0,Hannover 96,45.83333333333333,22.0
+Hamburger SV,272.0,12.0,Hertha BSC Berlin,38.88888888888889,14.0
+Hamburger SV,272.0,2.0,Karlsruher SC,50.0,3.0
+Hamburger SV,272.0,12.0,SC Freiburg,38.88888888888889,14.0
+Hamburger SV,272.0,2.0,SC Paderborn 07,50.0,3.0
+Hamburger SV,272.0,2.0,SV Darmstadt 98,16.666666666666664,1.0
+Hamburger SV,272.0,16.0,SV Werder Bremen,45.83333333333333,22.0
+Hamburger SV,272.0,2.0,SpVgg Greuther Fürth,66.66666666666666,4.0
+Hamburger SV,272.0,16.0,TSG 1899 Hoffenheim,43.75,21.0
+Hamburger SV,272.0,16.0,VfB Stuttgart,45.83333333333333,22.0
+Hamburger SV,272.0,4.0,VfL Bochum,58.333333333333336,7.0
+Hamburger SV,272.0,16.0,VfL Wolfsburg,25.0,12.0
+Hannover 96,272.0,4.0,1. FC Kaiserslautern,83.33333333333334,10.0
+Hannover 96,272.0,12.0,1. FC Köln,52.77777777777778,19.0
+Hannover 96,272.0,10.0,1. FC Nürnberg,66.66666666666666,20.0
+Hannover 96,272.0,14.0,1. FSV Mainz 05,35.714285714285715,15.0
+Hannover 96,272.0,16.0,Bayer 04 Leverkusen,20.833333333333336,10.0
+Hannover 96,272.0,16.0,Borussia Dortmund,20.833333333333336,10.0
+Hannover 96,272.0,16.0,Borussia Mönchengladbach,37.5,18.0
+Hannover 96,272.0,2.0,DSC Arminia Bielefeld,33.33333333333333,2.0
+Hannover 96,272.0,2.0,Eintracht Braunschweig,16.666666666666664,1.0
+Hannover 96,272.0,14.0,Eintracht Frankfurt,50.0,21.0
+Hannover 96,272.0,10.0,FC Augsburg,60.0,18.0
+Hannover 96,272.0,16.0,FC Bayern Munich,18.75,9.0
+Hannover 96,272.0,2.0,FC Energie Cottbus,16.666666666666664,1.0
+Hannover 96,272.0,2.0,FC Ingolstadt 04,66.66666666666666,4.0
+Hannover 96,272.0,16.0,FC Schalke 04,35.41666666666667,17.0
+Hannover 96,272.0,2.0,FC St. Pauli,50.0,3.0
+Hannover 96,272.0,2.0,Fortuna Düsseldorf,50.0,3.0
+Hannover 96,272.0,16.0,Hamburger SV,45.83333333333333,22.0
+Hannover 96,272.0,12.0,Hertha BSC Berlin,44.44444444444444,16.0
+Hannover 96,272.0,2.0,Karlsruher SC,100.0,6.0
+Hannover 96,272.0,12.0,SC Freiburg,58.333333333333336,21.0
+Hannover 96,272.0,2.0,SC Paderborn 07,0.0,0.0
+Hannover 96,272.0,2.0,SV Darmstadt 98,16.666666666666664,1.0
+Hannover 96,272.0,16.0,SV Werder Bremen,35.41666666666667,17.0
+Hannover 96,272.0,2.0,SpVgg Greuther Fürth,100.0,6.0
+Hannover 96,272.0,16.0,TSG 1899 Hoffenheim,29.166666666666668,14.0
+Hannover 96,272.0,16.0,VfB Stuttgart,39.58333333333333,19.0
+Hannover 96,272.0,4.0,VfL Bochum,58.333333333333336,7.0
+Hannover 96,272.0,16.0,VfL Wolfsburg,41.66666666666667,20.0
 Hellas Verona,114.0,6.0,Atalanta,77.77777777777779,14.0
 Hellas Verona,114.0,4.0,Bologna,58.333333333333336,7.0
 Hellas Verona,114.0,4.0,Cagliari,75.0,9.0
@@ -1412,6 +1864,32 @@ Hellas Verona,114.0,6.0,Sampdoria,22.22222222222222,4.0
 Hellas Verona,114.0,6.0,Sassuolo,55.55555555555556,10.0
 Hellas Verona,114.0,6.0,Torino,33.33333333333333,6.0
 Hellas Verona,114.0,6.0,Udinese,44.44444444444444,8.0
+Hertha BSC Berlin,204.0,2.0,1. FC Kaiserslautern,16.666666666666664,1.0
+Hertha BSC Berlin,204.0,10.0,1. FC Köln,73.33333333333333,22.0
+Hertha BSC Berlin,204.0,6.0,1. FC Nürnberg,5.555555555555555,1.0
+Hertha BSC Berlin,204.0,10.0,1. FSV Mainz 05,53.333333333333336,16.0
+Hertha BSC Berlin,204.0,12.0,Bayer 04 Leverkusen,36.11111111111111,13.0
+Hertha BSC Berlin,204.0,12.0,Borussia Dortmund,33.33333333333333,12.0
+Hertha BSC Berlin,204.0,12.0,Borussia Mönchengladbach,30.555555555555557,11.0
+Hertha BSC Berlin,204.0,2.0,DSC Arminia Bielefeld,33.33333333333333,2.0
+Hertha BSC Berlin,204.0,2.0,Eintracht Braunschweig,100.0,6.0
+Hertha BSC Berlin,204.0,10.0,Eintracht Frankfurt,53.333333333333336,16.0
+Hertha BSC Berlin,204.0,8.0,FC Augsburg,41.66666666666667,10.0
+Hertha BSC Berlin,204.0,12.0,FC Bayern Munich,8.333333333333332,3.0
+Hertha BSC Berlin,204.0,2.0,FC Energie Cottbus,50.0,3.0
+Hertha BSC Berlin,204.0,2.0,FC Ingolstadt 04,100.0,6.0
+Hertha BSC Berlin,204.0,12.0,FC Schalke 04,13.88888888888889,5.0
+Hertha BSC Berlin,204.0,12.0,Hamburger SV,55.55555555555556,20.0
+Hertha BSC Berlin,204.0,12.0,Hannover 96,44.44444444444444,16.0
+Hertha BSC Berlin,204.0,2.0,Karlsruher SC,50.0,3.0
+Hertha BSC Berlin,204.0,8.0,SC Freiburg,29.166666666666668,7.0
+Hertha BSC Berlin,204.0,2.0,SC Paderborn 07,50.0,3.0
+Hertha BSC Berlin,204.0,2.0,SV Darmstadt 98,50.0,3.0
+Hertha BSC Berlin,204.0,12.0,SV Werder Bremen,33.33333333333333,12.0
+Hertha BSC Berlin,204.0,12.0,TSG 1899 Hoffenheim,47.22222222222222,17.0
+Hertha BSC Berlin,204.0,12.0,VfB Stuttgart,47.22222222222222,17.0
+Hertha BSC Berlin,204.0,4.0,VfL Bochum,58.333333333333336,7.0
+Hertha BSC Berlin,204.0,12.0,VfL Wolfsburg,33.33333333333333,12.0
 Hull City,152.0,8.0,Arsenal,16.666666666666664,4.0
 Hull City,152.0,8.0,Aston Villa,16.666666666666664,4.0
 Hull City,152.0,2.0,Birmingham City,16.666666666666664,1.0
@@ -1522,6 +2000,23 @@ Juventus,301.0,6.0,Sassuolo,72.22222222222221,13.0
 Juventus,301.0,8.0,Siena,83.33333333333334,20.0
 Juventus,301.0,10.0,Torino,90.0,27.0
 Juventus,301.0,16.0,Udinese,66.66666666666666,32.0
+Karlsruher SC,34.0,2.0,1. FC Köln,16.666666666666664,1.0
+Karlsruher SC,34.0,2.0,Bayer 04 Leverkusen,66.66666666666666,4.0
+Karlsruher SC,34.0,2.0,Borussia Dortmund,0.0,0.0
+Karlsruher SC,34.0,2.0,Borussia Mönchengladbach,16.666666666666664,1.0
+Karlsruher SC,34.0,2.0,DSC Arminia Bielefeld,50.0,3.0
+Karlsruher SC,34.0,2.0,Eintracht Frankfurt,0.0,0.0
+Karlsruher SC,34.0,2.0,FC Bayern Munich,0.0,0.0
+Karlsruher SC,34.0,2.0,FC Energie Cottbus,16.666666666666664,1.0
+Karlsruher SC,34.0,2.0,FC Schalke 04,0.0,0.0
+Karlsruher SC,34.0,2.0,Hamburger SV,50.0,3.0
+Karlsruher SC,34.0,2.0,Hannover 96,0.0,0.0
+Karlsruher SC,34.0,2.0,Hertha BSC Berlin,50.0,3.0
+Karlsruher SC,34.0,2.0,SV Werder Bremen,100.0,6.0
+Karlsruher SC,34.0,2.0,TSG 1899 Hoffenheim,16.666666666666664,1.0
+Karlsruher SC,34.0,2.0,VfB Stuttgart,0.0,0.0
+Karlsruher SC,34.0,2.0,VfL Bochum,50.0,3.0
+Karlsruher SC,34.0,2.0,VfL Wolfsburg,50.0,3.0
 LOSC Lille,304.0,6.0,AC Ajaccio,100.0,18.0
 LOSC Lille,304.0,2.0,AC Arles-Avignon,100.0,6.0
 LOSC Lille,304.0,8.0,AJ Auxerre,45.83333333333333,11.0
@@ -2798,6 +3293,47 @@ SC Bastia,152.0,8.0,Stade de Reims,62.5,15.0
 SC Bastia,152.0,8.0,Toulouse FC,62.5,15.0
 SC Bastia,152.0,4.0,Valenciennes FC,50.0,6.0
 SC Bastia,152.0,6.0,Évian Thonon Gaillard FC,38.88888888888889,7.0
+SC Freiburg,204.0,4.0,1. FC Kaiserslautern,50.0,6.0
+SC Freiburg,204.0,8.0,1. FC Köln,58.333333333333336,14.0
+SC Freiburg,204.0,10.0,1. FC Nürnberg,80.0,24.0
+SC Freiburg,204.0,12.0,1. FSV Mainz 05,27.77777777777778,10.0
+SC Freiburg,204.0,12.0,Bayer 04 Leverkusen,25.0,9.0
+SC Freiburg,204.0,12.0,Borussia Dortmund,8.333333333333332,3.0
+SC Freiburg,204.0,12.0,Borussia Mönchengladbach,52.77777777777778,19.0
+SC Freiburg,204.0,2.0,Eintracht Braunschweig,100.0,6.0
+SC Freiburg,204.0,10.0,Eintracht Frankfurt,40.0,12.0
+SC Freiburg,204.0,8.0,FC Augsburg,45.83333333333333,11.0
+SC Freiburg,204.0,12.0,FC Bayern Munich,13.88888888888889,5.0
+SC Freiburg,204.0,12.0,FC Schalke 04,38.88888888888889,14.0
+SC Freiburg,204.0,2.0,FC St. Pauli,16.666666666666664,1.0
+SC Freiburg,204.0,2.0,Fortuna Düsseldorf,66.66666666666666,4.0
+SC Freiburg,204.0,12.0,Hamburger SV,47.22222222222222,17.0
+SC Freiburg,204.0,12.0,Hannover 96,33.33333333333333,12.0
+SC Freiburg,204.0,8.0,Hertha BSC Berlin,54.166666666666664,13.0
+SC Freiburg,204.0,2.0,SC Paderborn 07,16.666666666666664,1.0
+SC Freiburg,204.0,12.0,SV Werder Bremen,25.0,9.0
+SC Freiburg,204.0,2.0,SpVgg Greuther Fürth,100.0,6.0
+SC Freiburg,204.0,12.0,TSG 1899 Hoffenheim,44.44444444444444,16.0
+SC Freiburg,204.0,12.0,VfB Stuttgart,27.77777777777778,10.0
+SC Freiburg,204.0,2.0,VfL Bochum,66.66666666666666,4.0
+SC Freiburg,204.0,12.0,VfL Wolfsburg,38.88888888888889,14.0
+SC Paderborn 07,34.0,2.0,1. FC Köln,33.33333333333333,2.0
+SC Paderborn 07,34.0,2.0,1. FSV Mainz 05,16.666666666666664,1.0
+SC Paderborn 07,34.0,2.0,Bayer 04 Leverkusen,16.666666666666664,1.0
+SC Paderborn 07,34.0,2.0,Borussia Dortmund,16.666666666666664,1.0
+SC Paderborn 07,34.0,2.0,Borussia Mönchengladbach,0.0,0.0
+SC Paderborn 07,34.0,2.0,Eintracht Frankfurt,50.0,3.0
+SC Paderborn 07,34.0,2.0,FC Augsburg,50.0,3.0
+SC Paderborn 07,34.0,2.0,FC Bayern Munich,0.0,0.0
+SC Paderborn 07,34.0,2.0,FC Schalke 04,0.0,0.0
+SC Paderborn 07,34.0,2.0,Hamburger SV,50.0,3.0
+SC Paderborn 07,34.0,2.0,Hannover 96,100.0,6.0
+SC Paderborn 07,34.0,2.0,Hertha BSC Berlin,50.0,3.0
+SC Paderborn 07,34.0,2.0,SC Freiburg,66.66666666666666,4.0
+SC Paderborn 07,34.0,2.0,SV Werder Bremen,16.666666666666664,1.0
+SC Paderborn 07,34.0,2.0,TSG 1899 Hoffenheim,16.666666666666664,1.0
+SC Paderborn 07,34.0,2.0,VfB Stuttgart,16.666666666666664,1.0
+SC Paderborn 07,34.0,2.0,VfL Wolfsburg,16.666666666666664,1.0
 SD Eibar,76.0,4.0,Athletic Club de Bilbao,33.33333333333333,4.0
 SD Eibar,76.0,4.0,Atlético Madrid,0.0,0.0
 SD Eibar,76.0,2.0,Córdoba CF,66.66666666666666,4.0
@@ -2853,6 +3389,52 @@ SM Caen,190.0,4.0,Stade de Reims,75.0,9.0
 SM Caen,190.0,10.0,Toulouse FC,40.0,12.0
 SM Caen,190.0,6.0,Valenciennes FC,38.88888888888889,7.0
 SM Caen,190.0,4.0,Évian Thonon Gaillard FC,83.33333333333334,10.0
+SV Darmstadt 98,34.0,2.0,1. FC Köln,16.666666666666664,1.0
+SV Darmstadt 98,34.0,2.0,1. FSV Mainz 05,16.666666666666664,1.0
+SV Darmstadt 98,34.0,2.0,Bayer 04 Leverkusen,50.0,3.0
+SV Darmstadt 98,34.0,2.0,Borussia Dortmund,16.666666666666664,1.0
+SV Darmstadt 98,34.0,2.0,Borussia Mönchengladbach,0.0,0.0
+SV Darmstadt 98,34.0,2.0,Eintracht Frankfurt,50.0,3.0
+SV Darmstadt 98,34.0,2.0,FC Augsburg,66.66666666666666,4.0
+SV Darmstadt 98,34.0,2.0,FC Bayern Munich,0.0,0.0
+SV Darmstadt 98,34.0,2.0,FC Ingolstadt 04,50.0,3.0
+SV Darmstadt 98,34.0,2.0,FC Schalke 04,16.666666666666664,1.0
+SV Darmstadt 98,34.0,2.0,Hamburger SV,66.66666666666666,4.0
+SV Darmstadt 98,34.0,2.0,Hannover 96,66.66666666666666,4.0
+SV Darmstadt 98,34.0,2.0,Hertha BSC Berlin,50.0,3.0
+SV Darmstadt 98,34.0,2.0,SV Werder Bremen,66.66666666666666,4.0
+SV Darmstadt 98,34.0,2.0,TSG 1899 Hoffenheim,66.66666666666666,4.0
+SV Darmstadt 98,34.0,2.0,VfB Stuttgart,16.666666666666664,1.0
+SV Darmstadt 98,34.0,2.0,VfL Wolfsburg,16.666666666666664,1.0
+SV Werder Bremen,272.0,4.0,1. FC Kaiserslautern,33.33333333333333,4.0
+SV Werder Bremen,272.0,12.0,1. FC Köln,47.22222222222222,17.0
+SV Werder Bremen,272.0,10.0,1. FC Nürnberg,43.333333333333336,13.0
+SV Werder Bremen,272.0,14.0,1. FSV Mainz 05,52.38095238095239,22.0
+SV Werder Bremen,272.0,16.0,Bayer 04 Leverkusen,33.33333333333333,16.0
+SV Werder Bremen,272.0,16.0,Borussia Dortmund,16.666666666666664,8.0
+SV Werder Bremen,272.0,16.0,Borussia Mönchengladbach,35.41666666666667,17.0
+SV Werder Bremen,272.0,2.0,DSC Arminia Bielefeld,16.666666666666664,1.0
+SV Werder Bremen,272.0,2.0,Eintracht Braunschweig,66.66666666666666,4.0
+SV Werder Bremen,272.0,14.0,Eintracht Frankfurt,38.095238095238095,16.0
+SV Werder Bremen,272.0,10.0,FC Augsburg,36.666666666666664,11.0
+SV Werder Bremen,272.0,16.0,FC Bayern Munich,12.5,6.0
+SV Werder Bremen,272.0,2.0,FC Energie Cottbus,50.0,3.0
+SV Werder Bremen,272.0,2.0,FC Ingolstadt 04,0.0,0.0
+SV Werder Bremen,272.0,16.0,FC Schalke 04,20.833333333333336,10.0
+SV Werder Bremen,272.0,2.0,FC St. Pauli,100.0,6.0
+SV Werder Bremen,272.0,2.0,Fortuna Düsseldorf,66.66666666666666,4.0
+SV Werder Bremen,272.0,16.0,Hamburger SV,52.083333333333336,25.0
+SV Werder Bremen,272.0,16.0,Hannover 96,54.166666666666664,26.0
+SV Werder Bremen,272.0,12.0,Hertha BSC Berlin,58.333333333333336,21.0
+SV Werder Bremen,272.0,2.0,Karlsruher SC,0.0,0.0
+SV Werder Bremen,272.0,12.0,SC Freiburg,66.66666666666666,24.0
+SV Werder Bremen,272.0,2.0,SC Paderborn 07,66.66666666666666,4.0
+SV Werder Bremen,272.0,2.0,SV Darmstadt 98,16.666666666666664,1.0
+SV Werder Bremen,272.0,2.0,SpVgg Greuther Fürth,33.33333333333333,2.0
+SV Werder Bremen,272.0,16.0,TSG 1899 Hoffenheim,68.75,33.0
+SV Werder Bremen,272.0,16.0,VfB Stuttgart,50.0,24.0
+SV Werder Bremen,272.0,4.0,VfL Bochum,83.33333333333334,10.0
+SV Werder Bremen,272.0,16.0,VfL Wolfsburg,31.25,15.0
 Sampdoria,266.0,12.0,Atalanta,55.55555555555556,20.0
 Sampdoria,266.0,4.0,Bari,58.333333333333336,7.0
 Sampdoria,266.0,12.0,Bologna,55.55555555555556,20.0
@@ -2990,6 +3572,23 @@ Southampton,152.0,2.0,Watford,66.66666666666666,4.0
 Southampton,152.0,8.0,West Bromwich Albion,45.83333333333333,11.0
 Southampton,152.0,8.0,West Ham United,37.5,9.0
 Southampton,152.0,2.0,Wigan Athletic,16.666666666666664,1.0
+SpVgg Greuther Fürth,34.0,2.0,1. FC Nürnberg,66.66666666666666,4.0
+SpVgg Greuther Fürth,34.0,2.0,1. FSV Mainz 05,50.0,3.0
+SpVgg Greuther Fürth,34.0,2.0,Bayer 04 Leverkusen,16.666666666666664,1.0
+SpVgg Greuther Fürth,34.0,2.0,Borussia Dortmund,0.0,0.0
+SpVgg Greuther Fürth,34.0,2.0,Borussia Mönchengladbach,0.0,0.0
+SpVgg Greuther Fürth,34.0,2.0,Eintracht Frankfurt,16.666666666666664,1.0
+SpVgg Greuther Fürth,34.0,2.0,FC Augsburg,16.666666666666664,1.0
+SpVgg Greuther Fürth,34.0,2.0,FC Bayern Munich,0.0,0.0
+SpVgg Greuther Fürth,34.0,2.0,FC Schalke 04,50.0,3.0
+SpVgg Greuther Fürth,34.0,2.0,Fortuna Düsseldorf,0.0,0.0
+SpVgg Greuther Fürth,34.0,2.0,Hamburger SV,16.666666666666664,1.0
+SpVgg Greuther Fürth,34.0,2.0,Hannover 96,0.0,0.0
+SpVgg Greuther Fürth,34.0,2.0,SC Freiburg,0.0,0.0
+SpVgg Greuther Fürth,34.0,2.0,SV Werder Bremen,33.33333333333333,2.0
+SpVgg Greuther Fürth,34.0,2.0,TSG 1899 Hoffenheim,16.666666666666664,1.0
+SpVgg Greuther Fürth,34.0,2.0,VfB Stuttgart,50.0,3.0
+SpVgg Greuther Fürth,34.0,2.0,VfL Wolfsburg,16.666666666666664,1.0
 Stade Brestois 29,114.0,4.0,AC Ajaccio,25.0,3.0
 Stade Brestois 29,114.0,2.0,AC Arles-Avignon,33.33333333333333,2.0
 Stade Brestois 29,114.0,4.0,AJ Auxerre,58.333333333333336,7.0
@@ -3171,6 +3770,35 @@ Swansea City,190.0,10.0,West Bromwich Albion,63.33333333333333,19.0
 Swansea City,190.0,8.0,West Ham United,37.5,9.0
 Swansea City,190.0,4.0,Wigan Athletic,83.33333333333334,10.0
 Swansea City,190.0,2.0,Wolverhampton Wanderers,33.33333333333333,2.0
+TSG 1899 Hoffenheim,272.0,4.0,1. FC Kaiserslautern,66.66666666666666,8.0
+TSG 1899 Hoffenheim,272.0,12.0,1. FC Köln,38.88888888888889,14.0
+TSG 1899 Hoffenheim,272.0,10.0,1. FC Nürnberg,50.0,15.0
+TSG 1899 Hoffenheim,272.0,14.0,1. FSV Mainz 05,30.952380952380953,13.0
+TSG 1899 Hoffenheim,272.0,16.0,Bayer 04 Leverkusen,10.416666666666668,5.0
+TSG 1899 Hoffenheim,272.0,16.0,Borussia Dortmund,37.5,18.0
+TSG 1899 Hoffenheim,272.0,16.0,Borussia Mönchengladbach,47.91666666666667,23.0
+TSG 1899 Hoffenheim,272.0,2.0,DSC Arminia Bielefeld,100.0,6.0
+TSG 1899 Hoffenheim,272.0,2.0,Eintracht Braunschweig,50.0,3.0
+TSG 1899 Hoffenheim,272.0,14.0,Eintracht Frankfurt,59.523809523809526,25.0
+TSG 1899 Hoffenheim,272.0,10.0,FC Augsburg,56.666666666666664,17.0
+TSG 1899 Hoffenheim,272.0,16.0,FC Bayern Munich,8.333333333333332,4.0
+TSG 1899 Hoffenheim,272.0,2.0,FC Energie Cottbus,100.0,6.0
+TSG 1899 Hoffenheim,272.0,2.0,FC Ingolstadt 04,66.66666666666666,4.0
+TSG 1899 Hoffenheim,272.0,16.0,FC Schalke 04,39.58333333333333,19.0
+TSG 1899 Hoffenheim,272.0,2.0,FC St. Pauli,66.66666666666666,4.0
+TSG 1899 Hoffenheim,272.0,2.0,Fortuna Düsseldorf,66.66666666666666,4.0
+TSG 1899 Hoffenheim,272.0,16.0,Hamburger SV,50.0,24.0
+TSG 1899 Hoffenheim,272.0,16.0,Hannover 96,66.66666666666666,32.0
+TSG 1899 Hoffenheim,272.0,12.0,Hertha BSC Berlin,47.22222222222222,17.0
+TSG 1899 Hoffenheim,272.0,2.0,Karlsruher SC,66.66666666666666,4.0
+TSG 1899 Hoffenheim,272.0,12.0,SC Freiburg,36.11111111111111,13.0
+TSG 1899 Hoffenheim,272.0,2.0,SC Paderborn 07,66.66666666666666,4.0
+TSG 1899 Hoffenheim,272.0,2.0,SV Darmstadt 98,16.666666666666664,1.0
+TSG 1899 Hoffenheim,272.0,16.0,SV Werder Bremen,18.75,9.0
+TSG 1899 Hoffenheim,272.0,2.0,SpVgg Greuther Fürth,66.66666666666666,4.0
+TSG 1899 Hoffenheim,272.0,16.0,VfB Stuttgart,35.41666666666667,17.0
+TSG 1899 Hoffenheim,272.0,4.0,VfL Bochum,50.0,6.0
+TSG 1899 Hoffenheim,272.0,16.0,VfL Wolfsburg,37.5,18.0
 Torino,190.0,10.0,Atalanta,73.33333333333333,22.0
 Torino,190.0,8.0,Bologna,58.333333333333336,14.0
 Torino,190.0,8.0,Cagliari,33.33333333333333,8.0
@@ -3429,6 +4057,84 @@ Valenciennes FC,228.0,4.0,Stade de Reims,58.333333333333336,7.0
 Valenciennes FC,228.0,12.0,Toulouse FC,44.44444444444444,16.0
 Valenciennes FC,228.0,2.0,US Boulogne Cote D'Opale,66.66666666666666,4.0
 Valenciennes FC,228.0,6.0,Évian Thonon Gaillard FC,33.33333333333333,6.0
+VfB Stuttgart,272.0,4.0,1. FC Kaiserslautern,41.66666666666667,5.0
+VfB Stuttgart,272.0,12.0,1. FC Köln,41.66666666666667,15.0
+VfB Stuttgart,272.0,10.0,1. FC Nürnberg,43.333333333333336,13.0
+VfB Stuttgart,272.0,14.0,1. FSV Mainz 05,33.33333333333333,14.0
+VfB Stuttgart,272.0,16.0,Bayer 04 Leverkusen,18.75,9.0
+VfB Stuttgart,272.0,16.0,Borussia Dortmund,25.0,12.0
+VfB Stuttgart,272.0,16.0,Borussia Mönchengladbach,52.083333333333336,25.0
+VfB Stuttgart,272.0,2.0,DSC Arminia Bielefeld,33.33333333333333,2.0
+VfB Stuttgart,272.0,2.0,Eintracht Braunschweig,66.66666666666666,4.0
+VfB Stuttgart,272.0,14.0,Eintracht Frankfurt,69.04761904761905,29.0
+VfB Stuttgart,272.0,10.0,FC Augsburg,30.0,9.0
+VfB Stuttgart,272.0,16.0,FC Bayern Munich,10.416666666666668,5.0
+VfB Stuttgart,272.0,2.0,FC Energie Cottbus,100.0,6.0
+VfB Stuttgart,272.0,2.0,FC Ingolstadt 04,66.66666666666666,4.0
+VfB Stuttgart,272.0,16.0,FC Schalke 04,47.91666666666667,23.0
+VfB Stuttgart,272.0,2.0,FC St. Pauli,100.0,6.0
+VfB Stuttgart,272.0,2.0,Fortuna Düsseldorf,16.666666666666664,1.0
+VfB Stuttgart,272.0,16.0,Hamburger SV,52.083333333333336,25.0
+VfB Stuttgart,272.0,16.0,Hannover 96,52.083333333333336,25.0
+VfB Stuttgart,272.0,12.0,Hertha BSC Berlin,47.22222222222222,17.0
+VfB Stuttgart,272.0,2.0,Karlsruher SC,100.0,6.0
+VfB Stuttgart,272.0,12.0,SC Freiburg,69.44444444444444,25.0
+VfB Stuttgart,272.0,2.0,SC Paderborn 07,66.66666666666666,4.0
+VfB Stuttgart,272.0,2.0,SV Darmstadt 98,66.66666666666666,4.0
+VfB Stuttgart,272.0,16.0,SV Werder Bremen,37.5,18.0
+VfB Stuttgart,272.0,2.0,SpVgg Greuther Fürth,50.0,3.0
+VfB Stuttgart,272.0,16.0,TSG 1899 Hoffenheim,54.166666666666664,26.0
+VfB Stuttgart,272.0,4.0,VfL Bochum,83.33333333333334,10.0
+VfB Stuttgart,272.0,16.0,VfL Wolfsburg,27.083333333333332,13.0
+VfL Bochum,68.0,4.0,1. FC Köln,16.666666666666664,2.0
+VfL Bochum,68.0,2.0,1. FC Nürnberg,66.66666666666666,4.0
+VfL Bochum,68.0,2.0,1. FSV Mainz 05,16.666666666666664,1.0
+VfL Bochum,68.0,4.0,Bayer 04 Leverkusen,16.666666666666664,2.0
+VfL Bochum,68.0,4.0,Borussia Dortmund,8.333333333333332,1.0
+VfL Bochum,68.0,4.0,Borussia Mönchengladbach,66.66666666666666,8.0
+VfL Bochum,68.0,2.0,DSC Arminia Bielefeld,66.66666666666666,4.0
+VfL Bochum,68.0,4.0,Eintracht Frankfurt,25.0,3.0
+VfL Bochum,68.0,4.0,FC Bayern Munich,8.333333333333332,1.0
+VfL Bochum,68.0,2.0,FC Energie Cottbus,66.66666666666666,4.0
+VfL Bochum,68.0,4.0,FC Schalke 04,33.33333333333333,4.0
+VfL Bochum,68.0,4.0,Hamburger SV,33.33333333333333,4.0
+VfL Bochum,68.0,4.0,Hannover 96,33.33333333333333,4.0
+VfL Bochum,68.0,4.0,Hertha BSC Berlin,33.33333333333333,4.0
+VfL Bochum,68.0,2.0,Karlsruher SC,50.0,3.0
+VfL Bochum,68.0,2.0,SC Freiburg,16.666666666666664,1.0
+VfL Bochum,68.0,4.0,SV Werder Bremen,8.333333333333332,1.0
+VfL Bochum,68.0,4.0,TSG 1899 Hoffenheim,50.0,6.0
+VfL Bochum,68.0,4.0,VfB Stuttgart,8.333333333333332,1.0
+VfL Bochum,68.0,4.0,VfL Wolfsburg,16.666666666666664,2.0
+VfL Wolfsburg,272.0,4.0,1. FC Kaiserslautern,41.66666666666667,5.0
+VfL Wolfsburg,272.0,12.0,1. FC Köln,63.888888888888886,23.0
+VfL Wolfsburg,272.0,10.0,1. FC Nürnberg,46.666666666666664,14.0
+VfL Wolfsburg,272.0,14.0,1. FSV Mainz 05,42.857142857142854,18.0
+VfL Wolfsburg,272.0,16.0,Bayer 04 Leverkusen,45.83333333333333,22.0
+VfL Wolfsburg,272.0,16.0,Borussia Dortmund,33.33333333333333,16.0
+VfL Wolfsburg,272.0,16.0,Borussia Mönchengladbach,62.5,30.0
+VfL Wolfsburg,272.0,2.0,DSC Arminia Bielefeld,100.0,6.0
+VfL Wolfsburg,272.0,2.0,Eintracht Braunschweig,16.666666666666664,1.0
+VfL Wolfsburg,272.0,14.0,Eintracht Frankfurt,50.0,21.0
+VfL Wolfsburg,272.0,10.0,FC Augsburg,33.33333333333333,10.0
+VfL Wolfsburg,272.0,16.0,FC Bayern Munich,14.583333333333334,7.0
+VfL Wolfsburg,272.0,2.0,FC Energie Cottbus,50.0,3.0
+VfL Wolfsburg,272.0,2.0,FC Ingolstadt 04,66.66666666666666,4.0
+VfL Wolfsburg,272.0,16.0,FC Schalke 04,43.75,21.0
+VfL Wolfsburg,272.0,2.0,FC St. Pauli,33.33333333333333,2.0
+VfL Wolfsburg,272.0,2.0,Fortuna Düsseldorf,66.66666666666666,4.0
+VfL Wolfsburg,272.0,16.0,Hamburger SV,62.5,30.0
+VfL Wolfsburg,272.0,16.0,Hannover 96,54.166666666666664,26.0
+VfL Wolfsburg,272.0,12.0,Hertha BSC Berlin,58.333333333333336,21.0
+VfL Wolfsburg,272.0,2.0,Karlsruher SC,50.0,3.0
+VfL Wolfsburg,272.0,12.0,SC Freiburg,55.55555555555556,20.0
+VfL Wolfsburg,272.0,2.0,SC Paderborn 07,66.66666666666666,4.0
+VfL Wolfsburg,272.0,2.0,SV Darmstadt 98,66.66666666666666,4.0
+VfL Wolfsburg,272.0,16.0,SV Werder Bremen,62.5,30.0
+VfL Wolfsburg,272.0,2.0,SpVgg Greuther Fürth,66.66666666666666,4.0
+VfL Wolfsburg,272.0,16.0,TSG 1899 Hoffenheim,56.25,27.0
+VfL Wolfsburg,272.0,16.0,VfB Stuttgart,70.83333333333334,34.0
+VfL Wolfsburg,272.0,4.0,VfL Bochum,66.66666666666666,8.0
 Villarreal CF,266.0,14.0,Athletic Club de Bilbao,59.523809523809526,25.0
 Villarreal CF,266.0,14.0,Atlético Madrid,42.857142857142854,18.0
 Villarreal CF,266.0,10.0,CA Osasuna,43.333333333333336,13.0
